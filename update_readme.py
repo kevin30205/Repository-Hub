@@ -354,7 +354,7 @@ def generate_categorized_table(categories):
     return md
 
 
-def update_readme(lang_table, cat_table):
+def update_readme(repo_stats_table, lang_table, cat_table):
     """
     Update the README.md file with the latest statistics, charts, and categorized repo list.
     """
@@ -383,7 +383,10 @@ def update_readme(lang_table, cat_table):
         
         # existing content before the section
         before + after +
-        
+
+        # repository statistics table
+        '### Repository Information Overview\n\n' + repo_stats_table + '\n' +
+
         # programming language statistics table
         '### Language Distribution Overview\n\n' + lang_table + '\n' +
         
@@ -415,3 +418,35 @@ def update_readme(lang_table, cat_table):
         f.write(new_content)
 
 
+def main():
+    """
+    Main entry: fetch repo data, generate stats, charts, and update README.
+    """
+
+    # Fetch all repositories
+    repos = fetch_repos()
+
+    # Generate project statistics table
+    stats_table = project_statistics(repos)
+
+    # Generate language statistics table
+    lang_table = language_statistics(repos)
+    
+    # Categorize repositories by topic
+    categories = categorize_repos(repos)
+    
+    # Generate categorized repo markdown tables
+    cat_table = generate_categorized_table(categories)
+    
+    # Generate all charts (interactive HTML + PNG)
+    plotly_language_pie(repos)
+    plotly_star_bar(repos)
+    plotly_repo_time_line(repos)
+    plotly_topic_bar(repos)
+    
+    # Update README with all generated content
+    update_readme(
+        repo_stats_table=stats_table,
+        lang_table=lang_table,
+        cat_table=cat_table
+    )
