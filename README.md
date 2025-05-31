@@ -60,3 +60,18 @@ This project ensures your repository list is always up-to-date and comprehensive
 
 > Warning: Never share your token publicly. Treat it like a password.
 
+
+### Set up GitHub Actions Automation
+
+1. Go to **Repository Hub** repository page.
+2. Click "Settings" → "Secrets and variables" → "Actions".
+3. Click "New repository secret".
+4. Add a secret named `GH_PAT` with your GitHub Personal Access Token.
+    > The Secret Name should be aligned with the configuration in the GitHub workflow file. We named `GH_PAT` in this repo.
+5. Click "Add Secret".
+6. Go to "Settings" → "Actions" → "General" → "Workflow permissions".
+7. Select **Read and write permissions**.
+    * Workflows have read and write permissions in the repository for all scopes.
+8. Click "Save".
+9. Make sure the GitHub Workflow file `.github/workflows/update.yml` exists.
+10. The workflow will run automatically every day at 00:00 (UTC), or you can trigger it manually from the Actions page.
