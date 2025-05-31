@@ -112,3 +112,23 @@ def language_statistics(repos):
 
     return table
 
+
+def project_statistics(repos):
+    """
+    Return a summary of total, public, and private repo counts.
+    """
+
+    # Count total, public, and private repositories
+    total = len(repos)
+    public = sum(1 for r in repos if not r.get('private', False))
+    private = sum(1 for r in repos if r.get('private', False))
+
+    table = (
+        f'| Type   | Count |\n'
+        f'|--------|-------|\n'
+        f'| Total  | {total} |\n'
+        f'| Public | {public} |\n'
+        f'| Private| {private} |\n'
+    )
+    return table
+
