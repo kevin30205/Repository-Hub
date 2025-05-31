@@ -133,6 +133,35 @@ def language_statistics(repos):
     return table
 
 
+def plotly_language_pie(repos):
+    """
+    Generate a programming language distribution pie chart (interactive HTML + PNG).
+    """
+
+    # Count each programming language used in the repositories
+    lang_count = Counter(repo.get('language') or 'Unknown' for repo in repos)
+
+    # zip the labels and values for the pie chart
+    labels, values = zip(*lang_count.items())
+
+    # Create pie chart
+    fig = go.Figure(data=[go.Pie(labels=labels, values=values, hole=.3)])
+    
+    # Update layout for the pie chart
+    fig.update_layout(
+        title_text='Language Distribution',
+        template='plotly_dark',
+        paper_bgcolor='#181c20',
+        plot_bgcolor='#181c20',
+        font=dict(color='#e0e0e0'),
+        margin=dict(l=40, r=40, t=60, b=40)
+    )
+
+    # Save the pie chart as HTML and PNG
+    fig.write_html(os.path.join(CHARTS_DIR, 'language_pie.html'))
+    fig.write_image(os.path.join(CHARTS_DIR, 'language_pie.png'))
+
+
 def categorize_repos(repos):
     """
     Categorize repositories by their topics. Repos without topics are grouped as 'Unassigned'.
