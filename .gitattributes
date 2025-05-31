@@ -1,0 +1,2 @@
+# Ensure Python is detected as the main language for this project
+*.py linguist-language=Python
