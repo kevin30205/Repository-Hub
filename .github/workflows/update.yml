@@ -1,0 +1,58 @@
+# ===========================
+# This workflow automatically updates Repository Hub and statistics every day.
+# It uses GitHub Actions to run a Python script that fetches repo data, generates charts, and updates README.md.
+# ===========================
+
+# the name of the workflow
+name: Update Repository Hub
+
+# the event that triggers the workflow
+# This workflow runs on a schedule and can also be triggered manually.
+on:
+  # Schedule: run every day at 00:00 UTC
+  # The cron format is: minute hour day-of-month month day-of-week
+  # Example: "0 0 * * *" means every day at 00:00 UTC
+  # To run at 8:30 AM UTC every Monday, use: "30 8 * * 1"
+  # For more info, see: https://crontab.guru/
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+
+# Define the jobs that will run in this workflow
+jobs:
+  build:
+    runs-on: ubuntu-latest # Use the latest Ubuntu runner
+    steps:
+      # Step 1: Checkout the repository code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      # Step 2: Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x" # Use any Python 3 version
+      
+      # Step 3: Install required Python packages
+      - name: Install dependencies
+        run: pip install requests plotly kaleido
+      
+      # Step 4: Run the update_readme.py script
+      - name: Run update_readme.py
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }} # GitHub token for API access
+          GITHUB_USERNAME: ${{ github.actor }} # GitHub username
+        run: python update_readme.py
+      
+      # Step 5: Commit and push changes if README.md was updated
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md charts
+          DATE=$(date +"%Y-%m-%d %H:%M:%S UTC")
+          git commit -m "Auto update repo overview: $DATE [skip ci]" || echo "No changes to commit"
+          git push
