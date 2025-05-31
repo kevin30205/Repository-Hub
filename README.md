@@ -75,3 +75,45 @@ This project ensures your repository list is always up-to-date and comprehensive
 8. Click "Save".
 9. Make sure the GitHub Workflow file `.github/workflows/update.yml` exists.
 10. The workflow will run automatically every day at 00:00 (UTC), or you can trigger it manually from the Actions page.
+
+
+### Preview and Update Locally (Optional)
+
+The section describe the steps if you want to update **Repository Hub** locally.
+
+
+#### 1. Prepare your local environment
+
+- Make sure you have Python 3 installed on your computer. You can check by running:
+    ```bash
+    python --version
+    ```
+- (Recommended) Create and activate a Conda environment:
+    ```bash
+    conda create -n Repository-Hub python=3.10
+    conda activate Repository-Hub
+    ```
+- Install required packages:
+    ```bash
+    # by pip
+    pip install requests plotly kaleido
+
+    # by conda
+    conda install -c conda-forge requests plotly kaleido-core -y
+    ```
+
+#### 2. Preview the result locally
+
+You can run the script on your own computer to preview the generated README and charts before pushing to GitHub:
+
+- Set environment variables in your terminal (replace with your own values):
+    ```bash
+    $env:GH_PAT="<your GitHub Personal Access Token>"
+    $env:GITHUB_USERNAME="<your GitHub username>"
+    ```
+- Run the script:
+    ```bash
+    python update_readme.py
+    ```
+- Check the generated README.md and chart files in your project folder.
+
