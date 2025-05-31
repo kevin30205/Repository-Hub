@@ -413,9 +413,23 @@ def update_readme(repo_stats_table, lang_table, cat_table):
         f'\n> Last auto update: {datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S UTC+8")}\n'
     )
 
-    # Write updated content to README
-    with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(new_content)
+    # Write updated content to README only if content (excluding timestamp) changed
+    def strip_timestamp(text):
+        lines = text.splitlines()
+        return '\n'.join(line for line in lines if not line.strip().startswith('> Last auto update:'))
+
+    # read the old content and strip the timestamp
+    old_content = content
+    old_content_stripped = strip_timestamp(old_content)
+    new_content_stripped = strip_timestamp(new_content)
+
+    # If the content has changed (excluding the timestamp), write to README
+    # otherwise, skip writing
+    if old_content_stripped != new_content_stripped:
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(new_content)
+    else:
+        print('No actual content change in README.md (ignoring timestamp), skip writing.')
 
 
 def main():
