@@ -31,3 +31,32 @@ This project ensures your repository list is always up-to-date and comprehensive
     * Star Count
     * Last Updated Time
     * ...and more!
+
+
+## Get Started
+
+### Get your GitHub Personal Access Token
+
+1. Go to [GitHub Settings > Developer settings > Personal access tokens](https://github.com/settings/tokens).
+2. Click "Fine-grained token".
+3. Click "Generate new token".
+4. Set a token name, description, expiration.
+5. Select your desired repository access:
+    * **Public repositories**
+        * Read-only access to public repositories.
+    * **All repositories**
+        * This applies to all current and future repositories you own. Also includes public repositories (read-only).
+    * **Only select repositories**
+        * Select at least one repository. Max 50 repositories. Also includes public repositories (read-only).
+
+    If you only want to track public repositories, select **Public repositories**.
+
+    If you want to track both public and private repositories, select **All repositories** or just authorized this repo by selecting **Only select repositories**.
+6. Permissions:
+    * Set `Repository permissions - Contents` to `Read and Write`.
+7. Click "Generate token" at the bottom.
+8. Copy the generated token and save it securely (you won't be able to see it again).
+9. Use this token as the value for `GH_PAT` in your GitHub repository secrets and local environment variables.
+
+> Warning: Never share your token publicly. Treat it like a password.
+
