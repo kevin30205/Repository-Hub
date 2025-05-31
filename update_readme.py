@@ -450,3 +450,9 @@ def main():
         lang_table=lang_table,
         cat_table=cat_table
     )
+
+
+if __name__ == '__main__':
+    # Script entry point
+    main()
+
