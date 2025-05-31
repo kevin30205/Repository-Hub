@@ -49,3 +49,41 @@ CHARTS_DIR = 'charts'
 
 # Ensure the charts directory exists
 os.makedirs(CHARTS_DIR, exist_ok=True)
+
+
+def fetch_repos():
+    """
+    Fetch all repositories for the user, handling pagination.
+    Returns a list of repository dicts.
+    """
+
+    # List to store all repositories
+    repos = []
+
+    # Start from page 1
+    page = 1
+
+    # Loop through pages until no more repositories are returned
+    while True:
+        # Request one page of repositories
+        resp = requests.get(f'{API_URL}&page={page}', headers=HEADERS)
+        
+        # Check for HTTP errors
+        if resp.status_code != 200:
+            raise Exception(f'GitHub API error: {resp.status_code} {resp.text}')
+        
+        # Parse the JSON response
+        data = resp.json()
+        
+        # If no data is returned, we have reached the end of the list
+        if not data:
+            break  # No more repos
+        
+        # Extend the repos list with the current page of data
+        repos.extend(data)
+
+        # Next page
+        page += 1
+    
+    return repos
+
