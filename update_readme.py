@@ -157,3 +157,49 @@ def categorize_repos(repos):
 
     return categories
 
+
+def generate_categorized_table(categories):
+    """
+    Generate a markdown table for each category (topic), listing repo info, sorted by category name (A-Z),
+    and show the count of repos in each category.
+    """
+
+    # initialize markdown content
+    md = ''
+
+    # Iterate through each category and generate a markdown table
+    # Sort categories alphabetically
+    for cat in sorted(categories.keys()):
+        
+        repos = categories[cat]
+
+        # Show count in heading
+        md += f'### {cat} ({len(repos)})\n\n'
+
+        # Table header
+        md += '| Name | Status | Stars | Last Updated | Description | Link |\n'
+        md += '|---|---|---|---|---|---|\n'
+
+        # Iterate through each repository in the category
+        # the repos are sorted by last updated time in descending order by default
+        for repo in repos:
+            name = repo['name']
+
+            private = 'Private' if repo['private'] else 'Public'
+            
+            stars = repo['stargazers_count']
+
+            updated = repo['updated_at'][:10]
+
+            desc = repo['description'] or ''
+
+            url = repo['html_url']
+
+            # update the markdown table with repo info
+            md += f'| {name} | {private} | {stars} | {updated} | {desc} | [🔗]({url}) |\n'
+
+        # Add a newline at the end for better formatting
+        md += '\n'
+    
+    return md
+
