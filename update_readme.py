@@ -159,7 +159,7 @@ def plotly_language_pie(repos):
 
     # Save the pie chart as HTML and PNG
     fig.write_html(os.path.join(CHARTS_DIR, 'language_pie.html'))
-    fig.write_image(os.path.join(CHARTS_DIR, 'language_pie.png'))
+    fig.write_image(os.path.join(CHARTS_DIR, 'language_pie.png'), width=1200, height=800)
 
 
 def plotly_star_bar(repos):
@@ -192,7 +192,7 @@ def plotly_star_bar(repos):
 
     # Save the bar chart as HTML and PNG
     fig.write_html(os.path.join(CHARTS_DIR, 'star_bar.html'))
-    fig.write_image(os.path.join(CHARTS_DIR, 'star_bar.png'))
+    fig.write_image(os.path.join(CHARTS_DIR, 'star_bar.png'), width=1200, height=800)
 
 
 def plotly_repo_time_line(repos):
@@ -233,7 +233,7 @@ def plotly_repo_time_line(repos):
 
     # Save the line chart as HTML and PNG
     fig.write_html(os.path.join(CHARTS_DIR, 'repo_timeline.html'))
-    fig.write_image(os.path.join(CHARTS_DIR, 'repo_timeline.png'))
+    fig.write_image(os.path.join(CHARTS_DIR, 'repo_timeline.png'), width=1200, height=800)
 
 
 def plotly_topic_bar(repos):
@@ -280,7 +280,7 @@ def plotly_topic_bar(repos):
 
     # Save the bar chart as HTML and PNG
     fig.write_html(os.path.join(CHARTS_DIR, 'topic_bar.html'))
-    fig.write_image(os.path.join(CHARTS_DIR, 'topic_bar.png'))
+    fig.write_image(os.path.join(CHARTS_DIR, 'topic_bar.png'), width=1200, height=800)
 
 
 def categorize_repos(repos):
