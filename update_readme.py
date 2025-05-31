@@ -150,12 +150,24 @@ def plotly_language_pie(repos):
     # Update layout for the pie chart
     fig.update_layout(
         title_text='Language Distribution',
+        title_x=0.5,  # Center the title
         template='plotly_dark',
         paper_bgcolor='#181c20',
         plot_bgcolor='#181c20',
-        font=dict(color='#e0e0e0'),
-        margin=dict(l=40, r=40, t=60, b=40)
+        font=dict(family='Segoe UI, Arial, Microsoft JhengHei, sans-serif', size=20, color='#e0e0e0'),
+        margin=dict(l=40, r=40, t=60, b=40),
+        legend=dict(
+            orientation='h',
+            yanchor='bottom',
+            y=-0.18,
+            xanchor='center',
+            x=0.5,
+            font=dict(size=16)
+        )
     )
+
+    # Update pie chart traces for better appearance
+    fig.update_traces(textinfo='label+percent', textfont_size=18, pull=[0.05]*len(labels))
 
     # Save the pie chart as HTML and PNG
     fig.write_html(os.path.join(CHARTS_DIR, 'language_pie.html'))
@@ -180,15 +192,21 @@ def plotly_star_bar(repos):
     # Update layout for the bar chart
     fig.update_layout(
         title_text='Top 10 Repositories by Stars',
+        title_x=0.5,
         xaxis_title='Stars',
         yaxis_title='Repository',
         template='plotly_dark',
         paper_bgcolor='#181c20',
         plot_bgcolor='#181c20',
-        font=dict(color='#e0e0e0'),
+        font=dict(family='Segoe UI, Arial, Microsoft JhengHei, sans-serif', size=20, color='#e0e0e0'),
         margin=dict(l=60, r=40, t=60, b=40),
-        xaxis=dict(range=[0, max(stars) * 1.1 if stars else 1], zeroline=True, zerolinecolor='#888')
+        xaxis=dict(range=[0, max(stars) * 1.1 if stars else 1], zeroline=True, zerolinecolor='#888', title_font=dict(size=18), tickfont=dict(size=16)),
+        yaxis=dict(title_font=dict(size=18), tickfont=dict(size=16)),
+        legend=dict(font=dict(size=16))
     )
+
+    # Update bar chart traces for better appearance
+    fig.update_traces(marker_line_width=2, marker_line_color='#333', textfont_size=16)
 
     # Save the bar chart as HTML and PNG
     fig.write_html(os.path.join(CHARTS_DIR, 'star_bar.html'))
@@ -221,15 +239,21 @@ def plotly_repo_time_line(repos):
     # Update layout for the line chart
     fig.update_layout(
         title_text='Repository Count Over Time',
+        title_x=0.5,
         xaxis_title='Date',
         yaxis_title='Cumulative Repo Count',
         template='plotly_dark',
         paper_bgcolor='#181c20',
         plot_bgcolor='#181c20',
-        font=dict(color='#e0e0e0'),
+        font=dict(family='Segoe UI, Arial, Microsoft JhengHei, sans-serif', size=20, color='#e0e0e0'),
         margin=dict(l=60, r=40, t=60, b=40),
-        yaxis=dict(range=[0, max(y_cum) * 1.1 if y_cum else 1], zeroline=True, zerolinecolor='#888')
+        yaxis=dict(range=[0, max(y_cum) * 1.1 if y_cum else 1], zeroline=True, zerolinecolor='#888', title_font=dict(size=18), tickfont=dict(size=16)),
+        xaxis=dict(title_font=dict(size=18), tickfont=dict(size=16)),
+        legend=dict(font=dict(size=16))
     )
+
+    # Update line chart traces for better appearance
+    fig.update_traces(line=dict(width=4), marker=dict(size=10))
 
     # Save the line chart as HTML and PNG
     fig.write_html(os.path.join(CHARTS_DIR, 'repo_timeline.html'))
@@ -268,15 +292,21 @@ def plotly_topic_bar(repos):
     # Update layout for the bar chart
     fig.update_layout(
         title_text='Top 10 Topics by Repository Count',
+        title_x=0.5,
         xaxis_title='Repository Count',
         yaxis_title='Topic',
         template='plotly_dark',
         paper_bgcolor='#181c20',
         plot_bgcolor='#181c20',
-        font=dict(color='#e0e0e0'),
+        font=dict(family='Segoe UI, Arial, Microsoft JhengHei, sans-serif', size=20, color='#e0e0e0'),
         margin=dict(l=60, r=40, t=60, b=40),
-        xaxis=dict(range=[0, max(counts) * 1.1 if counts else 1], zeroline=True, zerolinecolor='#888')
+        xaxis=dict(range=[0, max(counts) * 1.1 if counts else 1], zeroline=True, zerolinecolor='#888', title_font=dict(size=18), tickfont=dict(size=16)),
+        yaxis=dict(title_font=dict(size=18), tickfont=dict(size=16)),
+        legend=dict(font=dict(size=16))
     )
+
+    # Update bar chart traces for better appearance
+    fig.update_traces(marker_line_width=2, marker_line_color='#333', textfont_size=16)
 
     # Save the bar chart as HTML and PNG
     fig.write_html(os.path.join(CHARTS_DIR, 'topic_bar.html'))
