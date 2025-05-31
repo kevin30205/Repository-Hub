@@ -162,6 +162,39 @@ def plotly_language_pie(repos):
     fig.write_image(os.path.join(CHARTS_DIR, 'language_pie.png'))
 
 
+def plotly_star_bar(repos):
+    """
+    Generate a bar chart for top 10 repos by star count (interactive HTML + PNG).
+    """
+
+    # Sort repositories by star count and take the top 10
+    sorted_repos = sorted(repos, key=lambda r: r['stargazers_count'], reverse=True)[:10]
+
+    # Prepare data for the bar chart
+    names = [repo['name'] for repo in sorted_repos]
+    stars = [repo['stargazers_count'] for repo in sorted_repos]
+
+    # Create horizontal bar chart
+    fig = go.Figure([go.Bar(x=stars[::-1], y=names[::-1], orientation='h', marker_color='#4e8cff')])
+    
+    # Update layout for the bar chart
+    fig.update_layout(
+        title_text='Top 10 Repositories by Stars',
+        xaxis_title='Stars',
+        yaxis_title='Repository',
+        template='plotly_dark',
+        paper_bgcolor='#181c20',
+        plot_bgcolor='#181c20',
+        font=dict(color='#e0e0e0'),
+        margin=dict(l=60, r=40, t=60, b=40),
+        xaxis=dict(range=[0, max(stars) * 1.1 if stars else 1], zeroline=True, zerolinecolor='#888')
+    )
+
+    # Save the bar chart as HTML and PNG
+    fig.write_html(os.path.join(CHARTS_DIR, 'star_bar.html'))
+    fig.write_image(os.path.join(CHARTS_DIR, 'star_bar.png'))
+
+
 def categorize_repos(repos):
     """
     Categorize repositories by their topics. Repos without topics are grouped as 'Unassigned'.
