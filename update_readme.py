@@ -156,14 +156,6 @@ def plotly_language_pie(repos):
         plot_bgcolor='#181c20',
         font=dict(family='Segoe UI, Arial, Microsoft JhengHei, sans-serif', size=20, color='#e0e0e0'),
         margin=dict(l=40, r=40, t=60, b=40),
-        legend=dict(
-            orientation='h',
-            yanchor='bottom',
-            y=-0.18,
-            xanchor='center',
-            x=0.5,
-            font=dict(size=16)
-        )
     )
 
     # Update pie chart traces for better appearance
