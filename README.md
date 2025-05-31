@@ -108,6 +108,11 @@ You can run the script on your own computer to preview the generated README and 
 
 - Set environment variables in your terminal (replace with your own values):
     ```bash
+    # linux
+    export GH_PAT="<your GitHub Personal Access Token>"
+    export GITHUB_USERNAME="<your GitHub username>"
+
+    # windows
     $env:GH_PAT="<your GitHub Personal Access Token>"
     $env:GITHUB_USERNAME="<your GitHub username>"
     ```
