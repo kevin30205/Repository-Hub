@@ -51,7 +51,9 @@ This project ensures your repository list is always up-to-date and comprehensive
 
     If you only want to track public repositories, select **Public repositories**.
 
-    If you want to track both public and private repositories, select **All repositories** or just authorized this repo by selecting **Only select repositories**.
+    If you want to track both public and private repositories, select **All repositories**.
+    
+    If you only want to track authorized repos, select **Only select repositories** and add the repos manually.
 6. Permissions:
     * Set `Repository permissions - Contents` to `Read and Write`.
 7. Click "Generate token" at the bottom.
