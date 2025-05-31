@@ -236,6 +236,53 @@ def plotly_repo_time_line(repos):
     fig.write_image(os.path.join(CHARTS_DIR, 'repo_timeline.png'))
 
 
+def plotly_topic_bar(repos):
+    """
+    Generate a bar chart for top 10 topics by repo count (interactive HTML + PNG).
+    """
+
+    # Count occurrences of each topic across all repositories
+    topic_count = Counter()
+    
+    # Iterate through each repository and count topics
+    for repo in repos:
+        topics = repo.get('topics', [])
+        
+        if topics:
+            for t in topics:
+                topic_count[t] += 1
+        
+        else:
+            topic_count['Unassigned'] += 1
+    
+    # If no topics are found, return early
+    if not topic_count:
+        return
+    
+    # Get the top 10 topics and their counts
+    topics, counts = zip(*topic_count.most_common(10))
+    
+    # Create horizontal bar chart
+    fig = go.Figure([go.Bar(x=counts[::-1], y=topics[::-1], orientation='h', marker_color='#4e8cff')])
+    
+    # Update layout for the bar chart
+    fig.update_layout(
+        title_text='Top 10 Topics by Repository Count',
+        xaxis_title='Repository Count',
+        yaxis_title='Topic',
+        template='plotly_dark',
+        paper_bgcolor='#181c20',
+        plot_bgcolor='#181c20',
+        font=dict(color='#e0e0e0'),
+        margin=dict(l=60, r=40, t=60, b=40),
+        xaxis=dict(range=[0, max(counts) * 1.1 if counts else 1], zeroline=True, zerolinecolor='#888')
+    )
+
+    # Save the bar chart as HTML and PNG
+    fig.write_html(os.path.join(CHARTS_DIR, 'topic_bar.html'))
+    fig.write_image(os.path.join(CHARTS_DIR, 'topic_bar.png'))
+
+
 def categorize_repos(repos):
     """
     Categorize repositories by their topics. Repos without topics are grouped as 'Unassigned'.
