@@ -5,7 +5,7 @@ import os
 import requests
 
 # For timestamp formatting
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 # For Counter and defaultdict
 import collections
@@ -352,4 +352,66 @@ def generate_categorized_table(categories):
         md += '\n'
     
     return md
+
+
+def update_readme(lang_table, cat_table):
+    """
+    Update the README.md file with the latest statistics, charts, and categorized repo list.
+    """
+
+    # Read the existing README content
+    with open('README.md', 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    # Find the section to update
+    start = content.find('## GitHub Repository Dashboard')
+
+    # If the section is not found, raise an exception
+    if start == -1:
+        raise Exception('README.md missing "## GitHub Repository Dashboard" heading')
+    
+    # Split the content to insert new statistics and charts
+    # before: the content before the section
+    # after: the content after the section, including the first '---' line
+    # the first '---' ensures that the new content is inserted below '---'
+    before = content[:start]
+    after = content[start:]
+    after = after.split('---')[0] + '---\n\n'
+    
+    # Compose new README content with updated chart paths
+    new_content = (
+        
+        # existing content before the section
+        before + after +
+        
+        # programming language statistics table
+        '### Language Distribution Overview\n\n' + lang_table + '\n' +
+        
+        # language distribution pie chart
+        '![Language Distribution Overview](charts/language_pie.png)\n\n' +
+        
+        # star bar chart
+        '### Top 10 Repositories by Star Count\n\n' +
+
+        '![Top 10 Repositories by Star Count](charts/star_bar.png)\n\n' +
+        
+        # repository count over time line chart
+        '### Repository Creation Trend\n\n' +
+        
+        '![Repository Creation Trend](charts/repo_timeline.png)\n\n' +
+
+        # top 10 topics by repository count bar chart
+        '### Top 10 Topics by Repository Count\n\n' +
+        
+        '![Top 10 Topics by Repository Count](charts/topic_bar.png)\n\n' +
+
+        '### Categorized Repository Index\n\n' + cat_table +
+        
+        f'\n> Last auto update: {datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S UTC+8")}\n'
+    )
+
+    # Write updated content to README
+    with open('README.md', 'w', encoding='utf-8') as f:
+        f.write(new_content)
+
 
