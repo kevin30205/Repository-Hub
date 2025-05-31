@@ -87,3 +87,28 @@ def fetch_repos():
     
     return repos
 
+
+def language_statistics(repos):
+    """
+    Generate a markdown table of programming language statistics for all repositories.
+    """
+
+    # Count each programming language used in the repositories
+    lang_count = collections.Counter()
+
+    # Iterate through each repository and count languages
+    for repo in repos:
+        lang = repo.get('language') or 'Unknown'
+        lang_count[lang] += 1
+    
+    # Calculate total count for percentage calculation
+    total = sum(lang_count.values())
+
+    # Markdown table header
+    table = '| Language | Count | Percentage |\n|---|---|---|\n'
+    for lang, count in lang_count.most_common():
+        percent = f"{count/total*100:.1f}%"
+        table += f'| {lang} | {count} | {percent} |\n'
+
+    return table
+
