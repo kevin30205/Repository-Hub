@@ -131,3 +131,43 @@ You can run the script on your own computer to preview the generated README and 
 
 ---
 
+### Repository Information Overview
+
+| Type   | Count |
+|--------|-------|
+| Total  | 2 |
+| Public | 1 |
+| Private| 1 |
+
+### Language Distribution Overview
+
+| Language | Count | Percentage |
+|---|---|---|
+| Python | 1 | 50.0% |
+| Jupyter Notebook | 1 | 50.0% |
+
+![Language Distribution Overview](charts/language_pie.png)
+
+### Top 10 Repositories by Star Count
+
+![Top 10 Repositories by Star Count](charts/star_bar.png)
+
+### Repository Creation Trend
+
+![Repository Creation Trend](charts/repo_timeline.png)
+
+### Top 10 Topics by Repository Count
+
+![Top 10 Topics by Repository Count](charts/topic_bar.png)
+
+### Categorized Repository Index
+
+### Unassigned (2)
+
+| Name | Status | Stars | Last Updated | Description | Link |
+|---|---|---|---|---|---|
+| Repository-Hub | Private | 0 | 2025-05-31 | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| competation-pawpularity | Public | 0 | 2025-03-27 |  | [🔗](https://github.com/RxChi1d/competation-pawpularity) |
+
+
+> Last auto update: 2025-06-01 03:10:16 UTC+8
