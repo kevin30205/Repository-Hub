@@ -132,3 +132,28 @@ def language_statistics(repos):
 
     return table
 
+
+def categorize_repos(repos):
+    """
+    Categorize repositories by their topics. Repos without topics are grouped as 'Unassigned'.
+
+    Returns a dict: {topic: [repo, ...]}
+    """
+
+    # Use defaultdict to group repositories by topics
+    categories = collections.defaultdict(list)
+
+    # Iterate through each repository and categorize by topics
+    for repo in repos:
+        
+        # Get the topics for the repository, default to an empty list if not set
+        topics = repo.get('topics', [])
+
+        if topics:
+            for topic in topics:
+                categories[topic].append(repo)
+        else:
+            categories['Unassigned'].append(repo)
+
+    return categories
+
