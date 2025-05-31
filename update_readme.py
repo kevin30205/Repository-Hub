@@ -326,7 +326,7 @@ def generate_categorized_table(categories):
         # Show count in heading
         md += f'### {cat}\n\n'
 
-        md += f'**Total Repositories: {len(repos)}**\n\n'
+        md += f'* **Total Repositories:** {len(repos)}\n\n'
 
         # Table header
         md += '| Name | Status | Stars | Last Updated | Description | Link |\n'
