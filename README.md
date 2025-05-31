@@ -145,11 +145,11 @@ You can run the script on your own computer to preview the generated README and 
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 175 | 79.5% |
+| Python | 176 | 80.0% |
 | C++ | 19 | 8.6% |
 | Jupyter Notebook | 7 | 3.2% |
 | Unknown | 6 | 2.7% |
-| HTML | 5 | 2.3% |
+| HTML | 4 | 1.8% |
 | Shell | 3 | 1.4% |
 | Ruby | 1 | 0.5% |
 | Cuda | 1 | 0.5% |
@@ -173,7 +173,9 @@ You can run the script on your own computer to preview the generated README and 
 
 ### Categorized Repository Index
 
-### Unassigned (220)
+### Unassigned
+
+* **Total Repositories:** 220
 
 | Name | Status | Stars | Last Updated | Description | Link |
 |---|---|---|---|---|---|
@@ -399,4 +401,4 @@ You can run the script on your own computer to preview the generated README and 
 | TensoRF_survey | Private | 0 | 2023-08-16 | Survey of TensoRF (ECCV 2022) | [🔗](https://github.com/kevin30205/TensoRF_survey) |
 
 
-> Last auto update: 2025-06-01 03:19:27 UTC+8
+> Last auto update: 2025-06-01 03:42:34 UTC+8
