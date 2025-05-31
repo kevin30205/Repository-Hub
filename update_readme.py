@@ -145,17 +145,35 @@ def plotly_language_pie(repos):
     labels, values = zip(*lang_count.items())
 
     # Create pie chart
-    fig = go.Figure(data=[go.Pie(labels=labels, values=values, hole=.3)])
+    fig = go.Figure(data=[go.Pie(
+        labels=labels,
+        values=values,
+        hole=.3, # Donut chart
+        textinfo='percent',  # Show only percentage inside the slices
+        textposition='inside', # Position text inside the slices
+        insidetextorientation='radial', # Orient text radially inside
+        marker_line_color='#333333', # Add a subtle line between slices for better definition
+        marker_line_width=1,
+        )])
     
     # Update layout for the pie chart
     fig.update_layout(
-        title_text='Language Distribution',
+        title_text='Programming Language Distribution', # Professional title
         title_x=0.5,  # Center the title
-        template='plotly_dark',
-        paper_bgcolor='#181c20',
-        plot_bgcolor='#181c20',
-        font=dict(family='Segoe UI, Arial, Microsoft JhengHei, sans-serif', size=20, color='#e0e0e0'),
-        margin=dict(l=40, r=40, t=60, b=40),
+        template='plotly_dark', # Dark theme
+        paper_bgcolor='#181c20', # Background color of the entire figure
+        plot_bgcolor='#181c20', # Background color of the plot area
+        font=dict(family='Segoe UI, Arial, Microsoft JhengHei, sans-serif', size=16, color='#e0e0e0'),
+        margin=dict(l=40, r=40, t=80, b=40), # Adjust margins
+        legend=dict(
+            orientation="h", # Horizontal legend
+            yanchor="bottom",
+            y=-0.1, # Position legend below the chart
+            xanchor="center",
+            x=0.5,
+            font=dict(size=14),
+            traceorder='reversed' # Optional: Reverse legend order to match slices better sometimes
+        )
     )
 
     # Update pie chart traces for better appearance
