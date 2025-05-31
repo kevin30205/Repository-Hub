@@ -141,8 +141,29 @@ def plotly_language_pie(repos):
     # Count each programming language used in the repositories
     lang_count = Counter(repo.get('language') or 'Unknown' for repo in repos)
 
-    # zip the labels and values for the pie chart
-    labels, values = zip(*lang_count.items())
+    # count the total number of repositories
+    total = sum(lang_count.values())
+
+    # Filter languages that make up at least 3% of the total
+    threshold = 0.03  # 3%
+
+    # Create a dictionary for major languages and count others
+    major = {}
+    others_count = 0
+
+    # Iterate through the language counts and categorize them
+    for lang, count in lang_count.items():
+        if count / total >= threshold:
+            major[lang] = count
+        else:
+            others_count += count
+    
+    # If there are any languages categorized as "Others", add them to the major dict
+    if others_count > 0:
+        major['Others'] = others_count
+
+    # Prepare labels and values for the pie chart
+    labels, values = zip(*major.items())
 
     # Create pie chart
     fig = go.Figure(data=[go.Pie(
