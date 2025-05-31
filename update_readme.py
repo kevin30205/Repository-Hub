@@ -195,6 +195,47 @@ def plotly_star_bar(repos):
     fig.write_image(os.path.join(CHARTS_DIR, 'star_bar.png'))
 
 
+def plotly_repo_time_line(repos):
+    """
+    Generate a line chart showing cumulative repo count over time (interactive HTML + PNG).
+    """
+
+    # Extract creation dates and count occurrences
+    dates = [repo['created_at'][:10] for repo in repos]
+    date_count = Counter(dates)
+    sorted_dates = sorted(date_count.items())
+    x = [d for d, _ in sorted_dates]
+    y = [c for _, c in sorted_dates]
+    
+    y_cum = []
+    total = 0
+    
+    # Calculate cumulative counts
+    for v in y:
+        total += v
+        y_cum.append(total)
+    
+    # Create line chart
+    fig = go.Figure([go.Scatter(x=x, y=y_cum, mode='lines+markers', line=dict(color='#4e8cff'))])
+    
+    # Update layout for the line chart
+    fig.update_layout(
+        title_text='Repository Count Over Time',
+        xaxis_title='Date',
+        yaxis_title='Cumulative Repo Count',
+        template='plotly_dark',
+        paper_bgcolor='#181c20',
+        plot_bgcolor='#181c20',
+        font=dict(color='#e0e0e0'),
+        margin=dict(l=60, r=40, t=60, b=40),
+        yaxis=dict(range=[0, max(y_cum) * 1.1 if y_cum else 1], zeroline=True, zerolinecolor='#888')
+    )
+
+    # Save the line chart as HTML and PNG
+    fig.write_html(os.path.join(CHARTS_DIR, 'repo_timeline.html'))
+    fig.write_image(os.path.join(CHARTS_DIR, 'repo_timeline.png'))
+
+
 def categorize_repos(repos):
     """
     Categorize repositories by their topics. Repos without topics are grouped as 'Unassigned'.
