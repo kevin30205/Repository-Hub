@@ -135,16 +135,15 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 2 |
+| Total  | 1 |
 | Public | 1 |
-| Private| 1 |
+| Private| 0 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 1 | 50.0% |
-| Jupyter Notebook | 1 | 50.0% |
+| Jupyter Notebook | 1 | 100.0% |
 
 ![Language Distribution Overview](charts/language_pie.png)
 
@@ -162,12 +161,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### Categorized Repository Index
 
-### Unassigned (2)
+### Unassigned (1)
 
 | Name | Status | Stars | Last Updated | Description | Link |
 |---|---|---|---|---|---|
-| Repository-Hub | Private | 0 | 2025-05-31 | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | competation-pawpularity | Public | 0 | 2025-03-27 |  | [🔗](https://github.com/RxChi1d/competation-pawpularity) |
 
 
-> Last auto update: 2025-06-01 03:10:16 UTC+8
+> Last auto update: 2025-06-01 03:17:08 UTC+8
