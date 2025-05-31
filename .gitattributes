@@ -1,2 +1,6 @@
 # Ensure Python is detected as the main language for this project
 *.py linguist-language=Python
+
+# Mark specific files as generated to avoid them being counted in language statistics
+*.html linguist-generated=true
+charts/* linguist-generated=true
