@@ -217,9 +217,16 @@ def plotly_star_bar(repos):
     names = [repo['name'] for repo in sorted_repos]
     stars = [repo['stargazers_count'] for repo in sorted_repos]
 
-    # Create horizontal bar chart
-    fig = go.Figure([go.Bar(x=stars[::-1], y=names[::-1], orientation='h', marker_color='#4e8cff')])
-    
+    # Create horizontal bar chart with value labels inside the bars
+    fig = go.Figure([go.Bar(
+        x=stars[::-1],
+        y=names[::-1],
+        orientation='h',
+        marker_color='#4e8cff',
+        text=stars[::-1],  # Show the star count on each bar
+        textposition='inside'  # Place the value label inside the bar
+    )])
+
     # Update layout for the bar chart
     fig.update_layout(
         title_text='Top 10 Repositories by Stars',
@@ -318,7 +325,14 @@ def plotly_topic_bar(repos):
     topics, counts = zip(*topic_count.most_common(10))
     
     # Create horizontal bar chart
-    fig = go.Figure([go.Bar(x=counts[::-1], y=topics[::-1], orientation='h', marker_color='#4e8cff')])
+    fig = go.Figure([go.Bar(
+        x=counts[::-1],
+        y=topics[::-1],
+        orientation='h',
+        marker_color='#4e8cff',
+        text=counts[::-1],  # Show the count on each bar
+        textposition='inside'  # Place the value label inside the bar
+    )])
     
     # Update layout for the bar chart
     fig.update_layout(
