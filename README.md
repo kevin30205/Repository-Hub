@@ -173,6 +173,24 @@ You can run the script on your own computer to preview the generated README and 
 
 ### Categorized Repository Index
 
+### 3d-generation
+
+* **Total Repositories:** 11
+
+| Name | Status | Stars | Last Updated | Primary Language | Description | Link |
+|---|---|---|---|---|---|---|
+| DreamCraft3D_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamCraft3D (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamCraft3D_survey) |
+| GaussianIP_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
+| DreamGaussian4D_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
+| HumanNorm_survey | Private | 0 | 2025-06-01 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
+| GaussianDreamerPro_survey | Private | 0 | 2025-06-01 | C++ | Survey of GaussianDreamerPro (arXiv 2024) | [🔗](https://github.com/kevin30205/GaussianDreamerPro_survey) |
+| Stable-Dreamfusion_survey | Private | 0 | 2025-06-01 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
+| LucidDreamer_survey | Private | 0 | 2025-06-01 | Python | Survey of LucidDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/LucidDreamer_survey) |
+| Fantasia3D_survey | Private | 0 | 2025-06-01 | Python | Survey of Fantasia3D (ICCV 2023) | [🔗](https://github.com/kevin30205/Fantasia3D_survey) |
+| GaussianDreamer_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianDreamer_survey) |
+| GSGEN_survey | Private | 0 | 2025-06-01 | Python | Survey of GSGEN (CVPR 2024) | [🔗](https://github.com/kevin30205/GSGEN_survey) |
+| DreamGaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamGaussian_survey) |
+
 ### Unassigned
 
 * **Total Repositories:** 2
@@ -196,6 +214,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| GaussianIP_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
+| HumanNorm_survey | Private | 0 | 2025-06-01 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
 | Relighting4D_survey | Private | 0 | 2025-06-01 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
 | Neuman_survey | Private | 0 | 2025-06-01 | Python | Survey of Neuman (ECCV 2022) | [🔗](https://github.com/kevin30205/Neuman_survey) |
 | HumanNeRF_survey | Private | 0 | 2025-06-01 | Python | Survey of HumanNeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/HumanNeRF_survey) |
@@ -223,9 +243,7 @@ You can run the script on your own computer to preview the generated README and 
 | ARAH_survey | Private | 0 | 2025-06-01 | Python | Survey of ARAH (ECCV 2022) | [🔗](https://github.com/kevin30205/ARAH_survey) |
 | AnimatableGaussians_survey | Private | 0 | 2025-06-01 | Python | Survey of Animatable Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/AnimatableGaussians_survey) |
 | GART_survey | Private | 0 | 2025-06-01 | Python | Survey of GART (CVPR 2024) | [🔗](https://github.com/kevin30205/GART_survey) |
-| HumanNorm_survey | Private | 0 | 2025-06-01 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
 | RoGSplat_survey | Private | 0 | 2025-06-01 | Python | Survey of RoGSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/RoGSplat_survey) |
-| GaussianIP_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
 | HAHA_survey | Private | 0 | 2025-06-01 | Python | Survey of HAHA (ACCV 2024) | [🔗](https://github.com/kevin30205/HAHA_survey) |
 
 ### compression
@@ -298,6 +316,14 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| GaussianIP_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
+| DreamGaussian4D_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
+| HumanNorm_survey | Private | 0 | 2025-06-01 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
+| GaussianDreamerPro_survey | Private | 0 | 2025-06-01 | C++ | Survey of GaussianDreamerPro (arXiv 2024) | [🔗](https://github.com/kevin30205/GaussianDreamerPro_survey) |
+| LucidDreamer_survey | Private | 0 | 2025-06-01 | Python | Survey of LucidDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/LucidDreamer_survey) |
+| GaussianDreamer_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianDreamer_survey) |
+| GSGEN_survey | Private | 0 | 2025-06-01 | Python | Survey of GSGEN (CVPR 2024) | [🔗](https://github.com/kevin30205/GSGEN_survey) |
+| DreamGaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamGaussian_survey) |
 | Relightable-3D-Gaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of Relightable 3D Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/Relightable-3D-Gaussian_survey) |
 | GauHuman_survey | Private | 0 | 2025-06-01 | Python | Survey of GauHuman (CVPR 2024) | [🔗](https://github.com/kevin30205/GauHuman_survey) |
 | OccFusion_survey | Private | 0 | 2025-06-01 | Python | Survey of OccFusion (NeurIPS 2024) | [🔗](https://github.com/kevin30205/OccFusion_survey) |
@@ -334,9 +360,6 @@ You can run the script on your own computer to preview the generated README and 
 | Mini-Splatting_survey | Private | 0 | 2025-06-01 | Python | Survey of Mini-Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Mini-Splatting_survey) |
 | SpacetimeGaussians_survey | Private | 0 | 2025-06-01 | Python | Survey of SpacetimeGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/SpacetimeGaussians_survey) |
 | ContextGS_survey | Private | 0 | 2025-06-01 | Python | Survey of ContextGS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/ContextGS_survey) |
-| DreamGaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamGaussian_survey) |
-| GSGEN_survey | Private | 0 | 2025-06-01 | Python | Survey of GSGEN (CVPR 2024) | [🔗](https://github.com/kevin30205/GSGEN_survey) |
-| GaussianDreamer_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianDreamer_survey) |
 | AnimatableGaussians_survey | Private | 0 | 2025-06-01 | Python | Survey of Animatable Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/AnimatableGaussians_survey) |
 | EnvGS_survey | Private | 0 | 2025-06-01 | Python | Survey of EnvGS (CVPR 2025) | [🔗](https://github.com/kevin30205/EnvGS_survey) |
 | GART_survey | Private | 0 | 2025-06-01 | Python | Survey of GART (CVPR 2024) | [🔗](https://github.com/kevin30205/GART_survey) |
@@ -348,7 +371,6 @@ You can run the script on your own computer to preview the generated README and 
 | FSGS_survey | Private | 0 | 2025-06-01 | Python | Survey of FSGS (ECCV 2024) | [🔗](https://github.com/kevin30205/FSGS_survey) |
 | SuGaR_survey | Private | 0 | 2025-06-01 | C++ | Survey of SuGaR (CVPR 2024) | [🔗](https://github.com/kevin30205/SuGaR_survey) |
 | Ref-GS_survey | Private | 0 | 2025-06-01 | Python | Survey of Ref-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Ref-GS_survey) |
-| LucidDreamer_survey | Private | 0 | 2025-06-01 | Python | Survey of LucidDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/LucidDreamer_survey) |
 | X-Gaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of X-Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/X-Gaussian_survey) |
 | 3D-Convex-Splatting_survey | Private | 0 | 2025-06-01 | Python | Survey of 3D Convex Splatting (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-Convex-Splatting_survey) |
 | r2_gaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of R2 Gaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/r2_gaussian_survey) |
@@ -364,15 +386,12 @@ You can run the script on your own computer to preview the generated README and 
 | BAGS_survey | Private | 0 | 2025-06-01 | Python | Survey of BAGS (ECCV 2024) | [🔗](https://github.com/kevin30205/BAGS_survey) |
 | 3DGS-DR_survey | Private | 0 | 2025-06-01 | Python | Survey of 3DGS-DR (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/3DGS-DR_survey) |
 | RaDe-GS_survey | Private | 0 | 2025-06-01 | C++ | Survey of RaDe-GS (arXiv 2024) | [🔗](https://github.com/kevin30205/RaDe-GS_survey) |
-| GaussianDreamerPro_survey | Private | 0 | 2025-06-01 | C++ | Survey of GaussianDreamerPro (arXiv 2024) | [🔗](https://github.com/kevin30205/GaussianDreamerPro_survey) |
 | Ref-Gaussian_survey | Private | 0 | 2025-06-01 | C++ | Survey of Ref-Gaussian (ICLR 2025) | [🔗](https://github.com/kevin30205/Ref-Gaussian_survey) |
 | 4DGaussians_survey | Private | 0 | 2025-06-01 | Jupyter Notebook | Survey of 4DGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/4DGaussians_survey) |
 | SC-GS_survey | Private | 0 | 2025-06-01 | Python | Survey of SC-GS (CVPR 2024) | [🔗](https://github.com/kevin30205/SC-GS_survey) |
 | IRGS_survey | Private | 0 | 2025-06-01 | HTML | Survey of IRGS (CVPR 2025) | [🔗](https://github.com/kevin30205/IRGS_survey) |
 | TeT-Splatting_survey | Private | 0 | 2025-06-01 | Jupyter Notebook | Survey of TeT-Splatting (NeurIPS 2024) | [🔗](https://github.com/kevin30205/TeT-Splatting_survey) |
 | SGCR_survey | Private | 0 | 2025-06-01 | Python | Survey of SGCR (CVPR 2025) | [🔗](https://github.com/kevin30205/SGCR_survey) |
-| HumanNorm_survey | Private | 0 | 2025-06-01 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
-| DreamGaussian4D_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
 | MonoGS_survey | Private | 0 | 2025-06-01 | Python | Survey of MonoGS (CVPR 2024) | [🔗](https://github.com/kevin30205/MonoGS_survey) |
 | Beta-Splatting_survey | Private | 0 | 2025-06-01 | Python | Survey of Beta Splatting (SIGGRAPH 2025) | [🔗](https://github.com/kevin30205/Beta-Splatting_survey) |
 | AtomGS_survey | Private | 0 | 2025-06-01 | Python | Survey of AtomGS (BMVC 2024) | [🔗](https://github.com/kevin30205/AtomGS_survey) |
@@ -392,7 +411,6 @@ You can run the script on your own computer to preview the generated README and 
 | DRGS_survey | Private | 0 | 2025-06-01 | Python | Survey of DRGS (CVPRW 2024) | [🔗](https://github.com/kevin30205/DRGS_survey) |
 | BBSplat_survey | Private | 0 | 2025-06-01 | Python | Survey of BBSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/BBSplat_survey) |
 | hierarchical-3d-gaussians_survey | Private | 0 | 2025-06-01 | Python | Survey of Hierarchical 3D Gaussians (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/hierarchical-3d-gaussians_survey) |
-| GaussianIP_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
 | ControlGS_survey | Private | 0 | 2025-06-01 | C++ | Survey of ControlGS (arXiv 2025) | [🔗](https://github.com/kevin30205/ControlGS_survey) |
 | Deformable-Radial-Kernel-Splatting_survey | Private | 0 | 2025-06-01 | Python | Survey of Deformable Radial Kernel Splatting (CVPR 2025) | [🔗](https://github.com/kevin30205/Deformable-Radial-Kernel-Splatting_survey) |
 | HAHA_survey | Private | 0 | 2025-06-01 | Python | Survey of HAHA (ACCV 2024) | [🔗](https://github.com/kevin30205/HAHA_survey) |
@@ -416,30 +434,12 @@ You can run the script on your own computer to preview the generated README and 
 | Neural-Human-Performer_survey | Private | 0 | 2025-06-01 | Python | Survey of Neural Human Performer (NeurIPS 2021) | [🔗](https://github.com/kevin30205/Neural-Human-Performer_survey) |
 | RoGSplat_survey | Private | 0 | 2025-06-01 | Python | Survey of RoGSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/RoGSplat_survey) |
 
-### generation
-
-* **Total Repositories:** 10
-
-| Name | Status | Stars | Last Updated | Primary Language | Description | Link |
-|---|---|---|---|---|---|---|
-| DreamGaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamGaussian_survey) |
-| GSGEN_survey | Private | 0 | 2025-06-01 | Python | Survey of GSGEN (CVPR 2024) | [🔗](https://github.com/kevin30205/GSGEN_survey) |
-| GaussianDreamer_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianDreamer_survey) |
-| Fantasia3D_survey | Private | 0 | 2025-06-01 | Python | Survey of Fantasia3D (ICCV 2023) | [🔗](https://github.com/kevin30205/Fantasia3D_survey) |
-| LucidDreamer_survey | Private | 0 | 2025-06-01 | Python | Survey of LucidDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/LucidDreamer_survey) |
-| Stable-Dreamfusion_survey | Private | 0 | 2025-06-01 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
-| GaussianDreamerPro_survey | Private | 0 | 2025-06-01 | C++ | Survey of GaussianDreamerPro (arXiv 2024) | [🔗](https://github.com/kevin30205/GaussianDreamerPro_survey) |
-| HumanNorm_survey | Private | 0 | 2025-06-01 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
-| DreamGaussian4D_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
-| GaussianIP_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
-
 ### generative-ai
 
-* **Total Repositories:** 2
+* **Total Repositories:** 1
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
-| DreamCraft3D_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamCraft3D (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamCraft3D_survey) |
 | FramePack_survey | Private | 0 | 2025-06-01 | Python | Survey of FramePack (arXiv 2025) | [🔗](https://github.com/kevin30205/FramePack_survey) |
 
 ### nerf
@@ -448,6 +448,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| Stable-Dreamfusion_survey | Private | 0 | 2025-06-01 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
 | Relighting4D_survey | Private | 0 | 2025-06-01 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
 | TensoRF_survey | Private | 0 | 2025-06-01 | Python | Survey of TensoRF (ECCV 2022) | [🔗](https://github.com/kevin30205/TensoRF_survey) |
 | HexPlane_survey | Private | 0 | 2025-06-01 | Python | Survey of HexPlane (CVPR 2023) | [🔗](https://github.com/kevin30205/HexPlane_survey) |
@@ -497,7 +498,6 @@ You can run the script on your own computer to preview the generated README and 
 | IntrinsicAvatar_survey | Private | 0 | 2025-06-01 | Python | Survey of IntrinsicAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/IntrinsicAvatar_survey) |
 | Neural-Human-Performer_survey | Private | 0 | 2025-06-01 | Python | Survey of Neural Human Performer (NeurIPS 2021) | [🔗](https://github.com/kevin30205/Neural-Human-Performer_survey) |
 | ARAH_survey | Private | 0 | 2025-06-01 | Python | Survey of ARAH (ECCV 2022) | [🔗](https://github.com/kevin30205/ARAH_survey) |
-| Stable-Dreamfusion_survey | Private | 0 | 2025-06-01 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
 | SAX-NeRF_survey | Private | 0 | 2025-06-01 | Python | Survey of SAX-NeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SAX-NeRF_survey) |
 | HDR-Plenoxels_survey | Private | 0 | 2025-06-01 | Python | Survey of HDR-Plenoxels (ECCV 2022) | [🔗](https://github.com/kevin30205/HDR-Plenoxels_survey) |
 | TiNeuVox_survey | Private | 0 | 2025-06-01 | Python | Survey of TiNeuVox (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/TiNeuVox_survey) |
@@ -508,20 +508,13 @@ You can run the script on your own computer to preview the generated README and 
 | TensoIR_survey | Private | 0 | 2025-06-01 | Python | Survey of TensoIR (CVPR 2023) | [🔗](https://github.com/kevin30205/TensoIR_survey) |
 | NRHints_survey | Private | 0 | 2025-06-01 | Python | Survey of NRHints (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/NRHints_survey) |
 
-### persoanl
+### personal
 
-* **Total Repositories:** 1
+* **Total Repositories:** 21
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
 | NeRF_Datasets | Private | 0 | 2025-06-01 | Shell | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
-
-### personal
-
-* **Total Repositories:** 20
-
-| Name | Status | Stars | Last Updated | Primary Language | Description | Link |
-|---|---|---|---|---|---|---|
 | Repository-Hub | Private | 1 | 2025-06-01 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Traffic_Record | Private | 0 | 2025-06-01 | Unknown | The Database of Traffic Record | [🔗](https://github.com/kevin30205/Traffic_Record) |
 | Grounded-Segment-Anything_mine | Private | 0 | 2025-06-01 | Jupyter Notebook | Customized Usage of Grounded-Segment-Anything by myself | [🔗](https://github.com/kevin30205/Grounded-Segment-Anything_mine) |
@@ -622,6 +615,17 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| DreamCraft3D_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamCraft3D (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamCraft3D_survey) |
+| GaussianIP_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
+| DreamGaussian4D_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
+| HumanNorm_survey | Private | 0 | 2025-06-01 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
+| GaussianDreamerPro_survey | Private | 0 | 2025-06-01 | C++ | Survey of GaussianDreamerPro (arXiv 2024) | [🔗](https://github.com/kevin30205/GaussianDreamerPro_survey) |
+| Stable-Dreamfusion_survey | Private | 0 | 2025-06-01 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
+| LucidDreamer_survey | Private | 0 | 2025-06-01 | Python | Survey of LucidDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/LucidDreamer_survey) |
+| Fantasia3D_survey | Private | 0 | 2025-06-01 | Python | Survey of Fantasia3D (ICCV 2023) | [🔗](https://github.com/kevin30205/Fantasia3D_survey) |
+| GaussianDreamer_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianDreamer_survey) |
+| GSGEN_survey | Private | 0 | 2025-06-01 | Python | Survey of GSGEN (CVPR 2024) | [🔗](https://github.com/kevin30205/GSGEN_survey) |
+| DreamGaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamGaussian_survey) |
 | PHALP_survey | Private | 0 | 2025-06-01 | Python | Survey of PHALP (CVPR 2022) | [🔗](https://github.com/kevin30205/PHALP_survey) |
 | Relighting4D_survey | Private | 0 | 2025-06-01 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
 | Relightable-3D-Gaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of Relightable 3D Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/Relightable-3D-Gaussian_survey) |
@@ -714,12 +718,8 @@ You can run the script on your own computer to preview the generated README and 
 | Mini-Splatting_survey | Private | 0 | 2025-06-01 | Python | Survey of Mini-Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Mini-Splatting_survey) |
 | SpacetimeGaussians_survey | Private | 0 | 2025-06-01 | Python | Survey of SpacetimeGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/SpacetimeGaussians_survey) |
 | ContextGS_survey | Private | 0 | 2025-06-01 | Python | Survey of ContextGS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/ContextGS_survey) |
-| DreamGaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamGaussian_survey) |
-| GSGEN_survey | Private | 0 | 2025-06-01 | Python | Survey of GSGEN (CVPR 2024) | [🔗](https://github.com/kevin30205/GSGEN_survey) |
-| GaussianDreamer_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianDreamer_survey) |
 | AnimatableGaussians_survey | Private | 0 | 2025-06-01 | Python | Survey of Animatable Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/AnimatableGaussians_survey) |
 | EnvGS_survey | Private | 0 | 2025-06-01 | Python | Survey of EnvGS (CVPR 2025) | [🔗](https://github.com/kevin30205/EnvGS_survey) |
-| Fantasia3D_survey | Private | 0 | 2025-06-01 | Python | Survey of Fantasia3D (ICCV 2023) | [🔗](https://github.com/kevin30205/Fantasia3D_survey) |
 | GART_survey | Private | 0 | 2025-06-01 | Python | Survey of GART (CVPR 2024) | [🔗](https://github.com/kevin30205/GART_survey) |
 | DropoutGS_survey | Private | 0 | 2025-06-01 | Python | Survey of DropoutGS (CVPR 2025) | [🔗](https://github.com/kevin30205/DropoutGS_survey) |
 | DNGaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of DNGaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/DNGaussian_survey) |
@@ -729,11 +729,8 @@ You can run the script on your own computer to preview the generated README and 
 | FSGS_survey | Private | 0 | 2025-06-01 | Python | Survey of FSGS (ECCV 2024) | [🔗](https://github.com/kevin30205/FSGS_survey) |
 | SuGaR_survey | Private | 0 | 2025-06-01 | C++ | Survey of SuGaR (CVPR 2024) | [🔗](https://github.com/kevin30205/SuGaR_survey) |
 | Ref-GS_survey | Private | 0 | 2025-06-01 | Python | Survey of Ref-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Ref-GS_survey) |
-| LucidDreamer_survey | Private | 0 | 2025-06-01 | Python | Survey of LucidDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/LucidDreamer_survey) |
 | X-Gaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of X-Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/X-Gaussian_survey) |
-| DreamCraft3D_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamCraft3D (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamCraft3D_survey) |
 | 3D-Convex-Splatting_survey | Private | 0 | 2025-06-01 | Python | Survey of 3D Convex Splatting (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-Convex-Splatting_survey) |
-| Stable-Dreamfusion_survey | Private | 0 | 2025-06-01 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
 | r2_gaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of R2 Gaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/r2_gaussian_survey) |
 | FramePack_survey | Private | 0 | 2025-06-01 | Python | Survey of FramePack (arXiv 2025) | [🔗](https://github.com/kevin30205/FramePack_survey) |
 | HDR-GS_survey | Private | 0 | 2025-06-01 | Python | Survey of HDR-GS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/HDR-GS_survey) |
@@ -753,7 +750,6 @@ You can run the script on your own computer to preview the generated README and 
 | BAGS_survey | Private | 0 | 2025-06-01 | Python | Survey of BAGS (ECCV 2024) | [🔗](https://github.com/kevin30205/BAGS_survey) |
 | 3DGS-DR_survey | Private | 0 | 2025-06-01 | Python | Survey of 3DGS-DR (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/3DGS-DR_survey) |
 | RaDe-GS_survey | Private | 0 | 2025-06-01 | C++ | Survey of RaDe-GS (arXiv 2024) | [🔗](https://github.com/kevin30205/RaDe-GS_survey) |
-| GaussianDreamerPro_survey | Private | 0 | 2025-06-01 | C++ | Survey of GaussianDreamerPro (arXiv 2024) | [🔗](https://github.com/kevin30205/GaussianDreamerPro_survey) |
 | Ref-Gaussian_survey | Private | 0 | 2025-06-01 | C++ | Survey of Ref-Gaussian (ICLR 2025) | [🔗](https://github.com/kevin30205/Ref-Gaussian_survey) |
 | 4DGaussians_survey | Private | 0 | 2025-06-01 | Jupyter Notebook | Survey of 4DGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/4DGaussians_survey) |
 | SC-GS_survey | Private | 0 | 2025-06-01 | Python | Survey of SC-GS (CVPR 2024) | [🔗](https://github.com/kevin30205/SC-GS_survey) |
@@ -762,8 +758,6 @@ You can run the script on your own computer to preview the generated README and 
 | InvRender_survey | Private | 0 | 2025-06-01 | Python | Survey of InvRender (CVPR 2022) | [🔗](https://github.com/kevin30205/InvRender_survey) |
 | TeT-Splatting_survey | Private | 0 | 2025-06-01 | Jupyter Notebook | Survey of TeT-Splatting (NeurIPS 2024) | [🔗](https://github.com/kevin30205/TeT-Splatting_survey) |
 | SGCR_survey | Private | 0 | 2025-06-01 | Python | Survey of SGCR (CVPR 2025) | [🔗](https://github.com/kevin30205/SGCR_survey) |
-| HumanNorm_survey | Private | 0 | 2025-06-01 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
-| DreamGaussian4D_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
 | MonoGS_survey | Private | 0 | 2025-06-01 | Python | Survey of MonoGS (CVPR 2024) | [🔗](https://github.com/kevin30205/MonoGS_survey) |
 | Beta-Splatting_survey | Private | 0 | 2025-06-01 | Python | Survey of Beta Splatting (SIGGRAPH 2025) | [🔗](https://github.com/kevin30205/Beta-Splatting_survey) |
 | AtomGS_survey | Private | 0 | 2025-06-01 | Python | Survey of AtomGS (BMVC 2024) | [🔗](https://github.com/kevin30205/AtomGS_survey) |
@@ -784,7 +778,6 @@ You can run the script on your own computer to preview the generated README and 
 | BBSplat_survey | Private | 0 | 2025-06-01 | Python | Survey of BBSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/BBSplat_survey) |
 | TensoIR_survey | Private | 0 | 2025-06-01 | Python | Survey of TensoIR (CVPR 2023) | [🔗](https://github.com/kevin30205/TensoIR_survey) |
 | hierarchical-3d-gaussians_survey | Private | 0 | 2025-06-01 | Python | Survey of Hierarchical 3D Gaussians (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/hierarchical-3d-gaussians_survey) |
-| GaussianIP_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
 | ControlGS_survey | Private | 0 | 2025-06-01 | C++ | Survey of ControlGS (arXiv 2025) | [🔗](https://github.com/kevin30205/ControlGS_survey) |
 | Deformable-Radial-Kernel-Splatting_survey | Private | 0 | 2025-06-01 | Python | Survey of Deformable Radial Kernel Splatting (CVPR 2025) | [🔗](https://github.com/kevin30205/Deformable-Radial-Kernel-Splatting_survey) |
 | HAHA_survey | Private | 0 | 2025-06-01 | Python | Survey of HAHA (ACCV 2024) | [🔗](https://github.com/kevin30205/HAHA_survey) |
@@ -838,4 +831,4 @@ You can run the script on your own computer to preview the generated README and 
 | SAX-NeRF_survey | Private | 0 | 2025-06-01 | Python | Survey of SAX-NeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SAX-NeRF_survey) |
 
 
-> Last auto update: 2025-06-01 17:25:40 UTC+8
+> Last auto update: 2025-06-01 18:49:16 UTC+8
