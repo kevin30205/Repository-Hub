@@ -436,10 +436,12 @@ You can run the script on your own computer to preview the generated README and 
 
 ### generative-ai
 
-* **Total Repositories:** 1
+* **Total Repositories:** 3
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| Conference_Paper_Summary | Private | 0 | 2025-06-01 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
+| Gemini_API_Guideline | Private | 0 | 2025-06-01 | Unknown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
 | FramePack_survey | Private | 0 | 2025-06-01 | Python | Survey of FramePack (arXiv 2025) | [🔗](https://github.com/kevin30205/FramePack_survey) |
 
 ### nerf
@@ -514,8 +516,10 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
-| NeRF_Datasets | Private | 0 | 2025-06-01 | Shell | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
+| Conference_Paper_Summary | Private | 0 | 2025-06-01 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
+| Gemini_API_Guideline | Private | 0 | 2025-06-01 | Unknown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
 | Repository-Hub | Private | 1 | 2025-06-01 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| NeRF_Datasets | Private | 0 | 2025-06-01 | Shell | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
 | Traffic_Record | Private | 0 | 2025-06-01 | Unknown | The Database of Traffic Record | [🔗](https://github.com/kevin30205/Traffic_Record) |
 | Grounded-Segment-Anything_mine | Private | 0 | 2025-06-01 | Jupyter Notebook | Customized Usage of Grounded-Segment-Anything by myself | [🔗](https://github.com/kevin30205/Grounded-Segment-Anything_mine) |
 | OccNeRF_optimized | Private | 0 | 2025-06-01 | Python | The optimized code based on OccNeRF done by myself. | [🔗](https://github.com/kevin30205/OccNeRF_optimized) |
@@ -527,10 +531,8 @@ You can run the script on your own computer to preview the generated README and 
 | opencc-python_mine | Private | 0 | 2025-06-01 | Python | Customized Usage of opencc-python. | [🔗](https://github.com/kevin30205/opencc-python_mine) |
 | Document_Converter | Private | 0 | 2025-06-01 | Python | Customized Usage of Document Converter. | [🔗](https://github.com/kevin30205/Document_Converter) |
 | Document_Converter_marker | Private | 0 | 2025-06-01 | Python | About Customized Usage of Document Converter using Marker. | [🔗](https://github.com/kevin30205/Document_Converter_marker) |
-| Gemini_API_Guideline | Private | 0 | 2025-06-01 | Unknown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
 | Linux_Command_Memorandum | Private | 0 | 2025-06-01 | Python | A handy reference guide for common Linux commands. | [🔗](https://github.com/kevin30205/Linux_Command_Memorandum) |
 | C_Programming_Language | Private | 0 | 2025-06-01 | Python | The Guideline of C Programming Language. | [🔗](https://github.com/kevin30205/C_Programming_Language) |
-| Conference_Paper_Summary | Private | 0 | 2025-06-01 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
 | Python_Programming_Language | Private | 0 | 2025-06-01 | Python | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 | Conference_Paper_Downloader | Private | 0 | 2025-06-01 | Python | Customized Usage of Conference Paper Downloader. | [🔗](https://github.com/kevin30205/Conference_Paper_Downloader) |
 | Command_Memorandum | Private | 0 | 2025-06-01 | Shell | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
@@ -597,6 +599,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| Conference_Paper_Summary | Private | 0 | 2025-06-01 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
 | OccNeRF_optimized | Private | 0 | 2025-06-01 | Python | The optimized code based on OccNeRF done by myself. | [🔗](https://github.com/kevin30205/OccNeRF_optimized) |
 | LeetCode_Practice | Private | 0 | 2025-06-01 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | HumanNeRF_optimized | Private | 0 | 2025-06-01 | Shell | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
@@ -606,7 +609,6 @@ You can run the script on your own computer to preview the generated README and 
 | Algorithms-C-Plus-Plus_survey | Private | 0 | 2025-06-01 | C++ | Survey of C-Plus-Plus Algorithms. | [🔗](https://github.com/kevin30205/Algorithms-C-Plus-Plus_survey) |
 | Linux_Command_Memorandum | Private | 0 | 2025-06-01 | Python | A handy reference guide for common Linux commands. | [🔗](https://github.com/kevin30205/Linux_Command_Memorandum) |
 | C_Programming_Language | Private | 0 | 2025-06-01 | Python | The Guideline of C Programming Language. | [🔗](https://github.com/kevin30205/C_Programming_Language) |
-| Conference_Paper_Summary | Private | 0 | 2025-06-01 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
 | Python_Programming_Language | Private | 0 | 2025-06-01 | Python | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 
 ### survey
@@ -831,4 +833,4 @@ You can run the script on your own computer to preview the generated README and 
 | SAX-NeRF_survey | Private | 0 | 2025-06-01 | Python | Survey of SAX-NeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SAX-NeRF_survey) |
 
 
-> Last auto update: 2025-06-01 18:49:16 UTC+8
+> Last auto update: 2025-06-01 18:53:05 UTC+8
