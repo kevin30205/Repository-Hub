@@ -516,6 +516,8 @@ def update_readme(repo_stats_table, lang_table, cat_table):
 
         '### Categorized Repository Index\n\n' + cat_table +
         
+        '\n\n---\n\n' +
+        
         f'\n> Last auto update: {datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S UTC+8")}\n'
     )
 
