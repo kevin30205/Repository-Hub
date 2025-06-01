@@ -238,7 +238,15 @@ def plotly_star_bar(repos):
         plot_bgcolor='#181c20',
         font=dict(family='Segoe UI, Arial, Microsoft JhengHei, sans-serif', size=20, color='#e0e0e0'),
         margin=dict(l=60, r=40, t=60, b=40),
-        xaxis=dict(range=[0, max(stars) * 1.1 if stars else 1], zeroline=True, zerolinecolor='#888', title_font=dict(size=18), tickfont=dict(size=16)),
+        xaxis=dict(
+            range=[0, max(stars) * 1.1 if stars else 1],
+            zeroline=True,
+            zerolinecolor='#888',
+            title_font=dict(size=18),
+            tickfont=dict(size=16),
+            dtick=1,  # Force integer ticks
+            tickformat='d'  # No decimal
+        ),
         yaxis=dict(title_font=dict(size=18), tickfont=dict(size=16), automargin=True),
         legend=dict(font=dict(size=16))
     )
@@ -345,7 +353,15 @@ def plotly_topic_bar(repos):
         plot_bgcolor='#181c20',
         font=dict(family='Segoe UI, Arial, Microsoft JhengHei, sans-serif', size=20, color='#e0e0e0'),
         margin=dict(l=60, r=40, t=60, b=40),
-        xaxis=dict(range=[0, max(counts) * 1.1 if counts else 1], zeroline=True, zerolinecolor='#888', title_font=dict(size=18), tickfont=dict(size=16)),
+        xaxis=dict(
+            range=[0, max(counts) * 1.1 if counts else 1],
+            zeroline=True,
+            zerolinecolor='#888',
+            title_font=dict(size=18),
+            tickfont=dict(size=16),
+            dtick=1,  # Force integer ticks
+            tickformat='d'  # No decimal
+        ),
         yaxis=dict(title_font=dict(size=18), tickfont=dict(size=16), automargin=True),
         legend=dict(font=dict(size=16))
     )
