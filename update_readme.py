@@ -245,7 +245,7 @@ def plotly_star_bar(repos):
             title_font=dict(size=18),
             tickfont=dict(size=16),
             # dtick=1,  # ticks inteval
-            tickformat='d'  # No decimal
+            # tickformat='d'  # No decimal
         ),
         yaxis=dict(title_font=dict(size=18), tickfont=dict(size=16), automargin=True),
         legend=dict(font=dict(size=16))
@@ -360,7 +360,7 @@ def plotly_topic_bar(repos):
             title_font=dict(size=18),
             tickfont=dict(size=16),
             # dtick=1,  # ticks inteval
-            tickformat='d'  # No decimal
+            # tickformat='d'  # No decimal
         ),
         yaxis=dict(title_font=dict(size=18), tickfont=dict(size=16), automargin=True),
         legend=dict(font=dict(size=16))
