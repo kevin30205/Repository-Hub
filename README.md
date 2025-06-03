@@ -149,9 +149,8 @@ You can run the script on your own computer to preview the generated README and 
 | C++ | 21 | 9.5% |
 | Jupyter Notebook | 7 | 3.2% |
 | Unknown | 6 | 2.7% |
-| HTML | 4 | 1.8% |
+| HTML | 5 | 2.3% |
 | Shell | 3 | 1.4% |
-| Ruby | 1 | 0.5% |
 | TypeScript | 1 | 0.5% |
 | JavaScript | 1 | 0.5% |
 | Svelte | 1 | 0.5% |
@@ -316,8 +315,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| GS-3_survey | Private | 0 | 2025-06-02 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
 | GS-IR_survey | Private | 0 | 2025-06-02 | C++ | Survey of GS-IR (arXiv 2023) | [🔗](https://github.com/kevin30205/GS-IR_survey) |
-| GS-3_survey | Private | 0 | 2025-06-01 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
 | GI-GS_survey | Private | 0 | 2025-06-01 | C++ | Survey of GI-GS (ICLR 2025) | [🔗](https://github.com/kevin30205/GI-GS_survey) |
 | GaussianIP_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
 | DreamGaussian4D_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
@@ -515,8 +514,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
-| Academic-Homepage | Private | 0 | 2025-06-02 | Ruby | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
-| Repository-Hub | Private | 1 | 2025-06-01 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| Academic-Homepage | Private | 0 | 2025-06-02 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
+| Repository-Hub | Private | 1 | 2025-06-02 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Conference_Paper_Summary | Private | 0 | 2025-06-01 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
 | Gemini_API_Guideline | Private | 0 | 2025-06-01 | Unknown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
 | NeRF_Datasets | Private | 0 | 2025-06-01 | Shell | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
@@ -552,7 +551,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
-| GS-3_survey | Private | 0 | 2025-06-01 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
+| GS-3_survey | Private | 0 | 2025-06-02 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
 | Relighting4D_survey | Private | 0 | 2025-06-01 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
 | Relightable-3D-Gaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of Relightable 3D Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/Relightable-3D-Gaussian_survey) |
 | NRHints_survey | Private | 0 | 2025-06-01 | Python | Survey of NRHints (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/NRHints_survey) |
@@ -616,8 +615,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| GS-3_survey | Private | 0 | 2025-06-02 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
 | GS-IR_survey | Private | 0 | 2025-06-02 | C++ | Survey of GS-IR (arXiv 2023) | [🔗](https://github.com/kevin30205/GS-IR_survey) |
-| GS-3_survey | Private | 0 | 2025-06-01 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
 | GI-GS_survey | Private | 0 | 2025-06-01 | C++ | Survey of GI-GS (ICLR 2025) | [🔗](https://github.com/kevin30205/GI-GS_survey) |
 | DreamCraft3D_survey | Private | 0 | 2025-06-01 | Python | Survey of DreamCraft3D (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamCraft3D_survey) |
 | GaussianIP_survey | Private | 0 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
@@ -836,4 +835,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-06-02 09:26:52 UTC+8
+> Last auto update: 2025-06-03 09:24:39 UTC+8
