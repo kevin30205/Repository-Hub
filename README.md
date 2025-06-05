@@ -137,24 +137,26 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 220 |
+| Total  | 231 |
 | Public | 1 |
-| Private| 219 |
+| Private| 230 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 174 | 79.1% |
-| C++ | 21 | 9.5% |
-| Jupyter Notebook | 7 | 3.2% |
-| Unknown | 6 | 2.7% |
-| HTML | 5 | 2.3% |
-| Shell | 3 | 1.4% |
-| TypeScript | 1 | 0.5% |
-| JavaScript | 1 | 0.5% |
-| Svelte | 1 | 0.5% |
-| Cuda | 1 | 0.5% |
+| Python | 178 | 77.1% |
+| C++ | 21 | 9.1% |
+| Jupyter Notebook | 9 | 3.9% |
+| HTML | 6 | 2.6% |
+| Unknown | 6 | 2.6% |
+| Shell | 3 | 1.3% |
+| JavaScript | 2 | 0.9% |
+| Markdown | 2 | 0.9% |
+| CSS | 1 | 0.4% |
+| TypeScript | 1 | 0.4% |
+| Svelte | 1 | 0.4% |
+| Cuda | 1 | 0.4% |
 
 ![Language Distribution Overview](charts/language_pie.png)
 
@@ -311,10 +313,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### gaussian-splatting
 
-* **Total Repositories:** 105
+* **Total Repositories:** 106
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| awesome-3D-gaussian-splatting_tool | Private | 0 | 2025-06-04 | HTML | The list of papers and resources focused on 3D Gaussian Splatting. | [🔗](https://github.com/kevin30205/awesome-3D-gaussian-splatting_tool) |
 | GS-3_survey | Private | 0 | 2025-06-02 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
 | GS-IR_survey | Private | 0 | 2025-06-02 | C++ | Survey of GS-IR (arXiv 2023) | [🔗](https://github.com/kevin30205/GS-IR_survey) |
 | GI-GS_survey | Private | 0 | 2025-06-01 | C++ | Survey of GI-GS (ICLR 2025) | [🔗](https://github.com/kevin30205/GI-GS_survey) |
@@ -514,8 +517,9 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| Command_Memorandum | Private | 0 | 2025-06-04 | Shell | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
+| Repository-Hub | Private | 1 | 2025-06-04 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Academic-Homepage | Private | 0 | 2025-06-03 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
-| Repository-Hub | Private | 1 | 2025-06-03 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Conference_Paper_Summary | Private | 0 | 2025-06-01 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
 | Gemini_API_Guideline | Private | 0 | 2025-06-01 | Unknown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
 | NeRF_Datasets | Private | 0 | 2025-06-01 | Shell | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
@@ -534,7 +538,6 @@ You can run the script on your own computer to preview the generated README and 
 | C_Programming_Language | Private | 0 | 2025-06-01 | Python | The Guideline of C Programming Language. | [🔗](https://github.com/kevin30205/C_Programming_Language) |
 | Python_Programming_Language | Private | 0 | 2025-06-01 | Python | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 | Conference_Paper_Downloader | Private | 0 | 2025-06-01 | Python | Customized Usage of Conference Paper Downloader. | [🔗](https://github.com/kevin30205/Conference_Paper_Downloader) |
-| Command_Memorandum | Private | 0 | 2025-06-01 | Shell | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
 
 ### pose-estimation
 
@@ -792,10 +795,21 @@ You can run the script on your own computer to preview the generated README and 
 
 ### toolbox
 
-* **Total Repositories:** 23
+* **Total Repositories:** 34
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| STORM_tool | Private | 0 | 2025-06-04 | Python | STORM: An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. | [🔗](https://github.com/kevin30205/STORM_tool) |
+| Anthropic-courses_tool | Private | 0 | 2025-06-04 | Jupyter Notebook | Anthropic's educational courses. | [🔗](https://github.com/kevin30205/Anthropic-courses_tool) |
+| Anthropic-prompt-eng-interactive-tutorial_tool | Private | 0 | 2025-06-04 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial. | [🔗](https://github.com/kevin30205/Anthropic-prompt-eng-interactive-tutorial_tool) |
+| awesome-3D-gaussian-splatting_tool | Private | 0 | 2025-06-04 | HTML | The list of papers and resources focused on 3D Gaussian Splatting. | [🔗](https://github.com/kevin30205/awesome-3D-gaussian-splatting_tool) |
+| Personal-Academic-Website_tool | Private | 0 | 2025-06-04 | CSS | Personal Academic Website: A skeleton-site for a personal academic website written in Jekyll. | [🔗](https://github.com/kevin30205/Personal-Academic-Website_tool) |
+| Academic-Project-Page-Template_tool | Private | 0 | 2025-06-04 | JavaScript | Academic Project Page Template: A project page template for academic papers. | [🔗](https://github.com/kevin30205/Academic-Project-Page-Template_tool) |
+| GitHub-Profile-Achievements_tool | Private | 0 | 2025-06-04 | Markdown | GitHub Profile Achievements: A collection listing all Achievements available on the GitHub profile. | [🔗](https://github.com/kevin30205/GitHub-Profile-Achievements_tool) |
+| GitHub-Achievements_tool | Private | 0 | 2025-06-04 | Markdown | GitHub Achievements: A Complete List of GitHub Profile Badges and Achievements. | [🔗](https://github.com/kevin30205/GitHub-Achievements_tool) |
+| WhisperX_tool | Private | 0 | 2025-06-04 | Python | WhisperX is the Automatic Speech Recognition with Word-level Timestamps Diarization. | [🔗](https://github.com/kevin30205/WhisperX_tool) |
+| transcribe-anything_tool | Private | 0 | 2025-06-04 | Python | transcribe-anything is the service that transcribe vedios using Whisper AI. | [🔗](https://github.com/kevin30205/transcribe-anything_tool) |
+| vit-pytorch_tool | Private | 0 | 2025-06-04 | Python | vit-pytorch is the implementation of Vision Transformer in Pytorch. | [🔗](https://github.com/kevin30205/vit-pytorch_tool) |
 | yt-dlp_tool | Private | 0 | 2025-06-01 | Python | yt-dlp is the tool for downloading videos from supported websites. | [🔗](https://github.com/kevin30205/yt-dlp_tool) |
 | faster-whisper_tool | Private | 0 | 2025-06-01 | Python | faster-whisper is the tool for generating transcriptions from videos/audios. | [🔗](https://github.com/kevin30205/faster-whisper_tool) |
 | OpenCC_tool | Private | 0 | 2025-06-01 | C++ | OpenCC is the tool for conversion between Traditional and Simplified Chinese. | [🔗](https://github.com/kevin30205/OpenCC_tool) |
@@ -835,4 +849,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-06-04 09:24:42 UTC+8
+> Last auto update: 2025-06-05 09:23:36 UTC+8
