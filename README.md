@@ -137,22 +137,22 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 231 |
+| Total  | 239 |
 | Public | 1 |
-| Private| 230 |
+| Private| 238 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 178 | 77.1% |
-| C++ | 21 | 9.1% |
-| Jupyter Notebook | 9 | 3.9% |
-| HTML | 6 | 2.6% |
-| Unknown | 6 | 2.6% |
+| Python | 184 | 77.0% |
+| C++ | 22 | 9.2% |
+| Jupyter Notebook | 10 | 4.2% |
+| HTML | 6 | 2.5% |
+| Unknown | 6 | 2.5% |
 | Shell | 3 | 1.3% |
-| JavaScript | 2 | 0.9% |
-| Markdown | 2 | 0.9% |
+| JavaScript | 2 | 0.8% |
+| Markdown | 2 | 0.8% |
 | CSS | 1 | 0.4% |
 | TypeScript | 1 | 0.4% |
 | Svelte | 1 | 0.4% |
@@ -249,10 +249,12 @@ You can run the script on your own computer to preview the generated README and 
 
 ### compression
 
-* **Total Repositories:** 13
+* **Total Repositories:** 15
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| CAT-3DGS_survey | Private | 0 | 2025-06-05 | Python | Survey of CAT-3DGS (ICLR 2025) | [🔗](https://github.com/kevin30205/CAT-3DGS_survey) |
+| TC-GS_survey | Private | 0 | 2025-06-05 | C++ | Survey of TC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/TC-GS_survey) |
 | HAC_survey | Private | 0 | 2025-06-01 | Python | Survey of HAC (ECCV 2024) | [🔗](https://github.com/kevin30205/HAC_survey) |
 | LightGaussian_survey | Private | 0 | 2025-06-01 | Python | Survey of LightGaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/LightGaussian_survey) |
 | Compact-3DGS_survey | Private | 0 | 2025-06-01 | Python | Survey of Compact-3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/Compact-3DGS_survey) |
@@ -289,6 +291,17 @@ You can run the script on your own computer to preview the generated README and 
 | BeNeRF_survey | Private | 0 | 2025-06-01 | Python | Survey of BeNeRF (ECCV 2024) | [🔗](https://github.com/kevin30205/BeNeRF_survey) |
 | Gaussian-Splatting-on-the-Move_survey | Private | 0 | 2025-06-01 | Python | Survey of Gaussian Splatting on the Move (ECCV 2024) | [🔗](https://github.com/kevin30205/Gaussian-Splatting-on-the-Move_survey) |
 
+### depth-estimation
+
+* **Total Repositories:** 4
+
+| Name | Status | Stars | Last Updated | Primary Language | Description | Link |
+|---|---|---|---|---|---|---|
+| Prompt-Depth-Anything_survey | Private | 0 | 2025-06-05 | Python | Survey of Prompt Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Prompt-Depth-Anything_survey) |
+| Video-Depth-Anything_survey | Private | 0 | 2025-06-05 | Python | Survey of Video Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Video-Depth-Anything_survey) |
+| Depth-Anything-V2_survey | Private | 0 | 2025-06-05 | Python | Survey of Depth-Anything-V2 (NeurIPS 2024) | [🔗](https://github.com/kevin30205/Depth-Anything-V2_survey) |
+| Depth-Anything_survey | Private | 0 | 2025-06-05 | Python | Survey of Depth Anything (CVPR 2024) | [🔗](https://github.com/kevin30205/Depth-Anything_survey) |
+
 ### dynamic
 
 * **Total Repositories:** 15
@@ -313,10 +326,12 @@ You can run the script on your own computer to preview the generated README and 
 
 ### gaussian-splatting
 
-* **Total Repositories:** 106
+* **Total Repositories:** 108
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| CAT-3DGS_survey | Private | 0 | 2025-06-05 | Python | Survey of CAT-3DGS (ICLR 2025) | [🔗](https://github.com/kevin30205/CAT-3DGS_survey) |
+| TC-GS_survey | Private | 0 | 2025-06-05 | C++ | Survey of TC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/TC-GS_survey) |
 | awesome-3D-gaussian-splatting_tool | Private | 0 | 2025-06-04 | HTML | The list of papers and resources focused on 3D Gaussian Splatting. | [🔗](https://github.com/kevin30205/awesome-3D-gaussian-splatting_tool) |
 | GS-3_survey | Private | 0 | 2025-06-02 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
 | GS-IR_survey | Private | 0 | 2025-06-02 | C++ | Survey of GS-IR (arXiv 2023) | [🔗](https://github.com/kevin30205/GS-IR_survey) |
@@ -438,10 +453,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### generative-ai
 
-* **Total Repositories:** 2
+* **Total Repositories:** 3
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| Wan2.1_survey | Private | 0 | 2025-06-05 | Python | Survey of Wan2.1 | [🔗](https://github.com/kevin30205/Wan2.1_survey) |
 | Gemini_API_Guideline | Private | 0 | 2025-06-01 | Unknown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
 | FramePack_survey | Private | 0 | 2025-06-01 | Python | Survey of FramePack (arXiv 2025) | [🔗](https://github.com/kevin30205/FramePack_survey) |
 
@@ -517,8 +533,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| Repository-Hub | Private | 1 | 2025-06-05 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Command_Memorandum | Private | 0 | 2025-06-04 | Shell | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
-| Repository-Hub | Private | 1 | 2025-06-04 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Academic-Homepage | Private | 0 | 2025-06-03 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
 | Conference_Paper_Summary | Private | 0 | 2025-06-01 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
 | Gemini_API_Guideline | Private | 0 | 2025-06-01 | Unknown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
@@ -614,10 +630,18 @@ You can run the script on your own computer to preview the generated README and 
 
 ### survey
 
-* **Total Repositories:** 174
+* **Total Repositories:** 182
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| Prompt-Depth-Anything_survey | Private | 0 | 2025-06-05 | Python | Survey of Prompt Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Prompt-Depth-Anything_survey) |
+| Video-Depth-Anything_survey | Private | 0 | 2025-06-05 | Python | Survey of Video Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Video-Depth-Anything_survey) |
+| Depth-Anything-V2_survey | Private | 0 | 2025-06-05 | Python | Survey of Depth-Anything-V2 (NeurIPS 2024) | [🔗](https://github.com/kevin30205/Depth-Anything-V2_survey) |
+| Wan2.1_survey | Private | 0 | 2025-06-05 | Python | Survey of Wan2.1 | [🔗](https://github.com/kevin30205/Wan2.1_survey) |
+| CAT-3DGS_survey | Private | 0 | 2025-06-05 | Python | Survey of CAT-3DGS (ICLR 2025) | [🔗](https://github.com/kevin30205/CAT-3DGS_survey) |
+| TC-GS_survey | Private | 0 | 2025-06-05 | C++ | Survey of TC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/TC-GS_survey) |
+| Depth-Anything_survey | Private | 0 | 2025-06-05 | Python | Survey of Depth Anything (CVPR 2024) | [🔗](https://github.com/kevin30205/Depth-Anything_survey) |
+| bark_survey | Private | 0 | 2025-06-05 | Jupyter Notebook | Survey of bark (Suno) | [🔗](https://github.com/kevin30205/bark_survey) |
 | GS-3_survey | Private | 0 | 2025-06-02 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
 | GS-IR_survey | Private | 0 | 2025-06-02 | C++ | Survey of GS-IR (arXiv 2023) | [🔗](https://github.com/kevin30205/GS-IR_survey) |
 | GI-GS_survey | Private | 0 | 2025-06-01 | C++ | Survey of GI-GS (ICLR 2025) | [🔗](https://github.com/kevin30205/GI-GS_survey) |
@@ -834,6 +858,14 @@ You can run the script on your own computer to preview the generated README and 
 | thefuck_tool | Private | 0 | 2025-06-01 | Python | thefuck is the tool that corrects the previous console command. | [🔗](https://github.com/kevin30205/thefuck_tool) |
 | Academic-Pages-GitHub-Pages_tool | Private | 0 | 2025-06-01 | HTML | Academic Pages is the GitHub Pages template constructed by Jekyll. | [🔗](https://github.com/kevin30205/Academic-Pages-GitHub-Pages_tool) |
 
+### tts
+
+* **Total Repositories:** 1
+
+| Name | Status | Stars | Last Updated | Primary Language | Description | Link |
+|---|---|---|---|---|---|---|
+| bark_survey | Private | 0 | 2025-06-05 | Jupyter Notebook | Survey of bark (Suno) | [🔗](https://github.com/kevin30205/bark_survey) |
+
 ### x-ray
 
 * **Total Repositories:** 3
@@ -849,4 +881,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-06-05 09:23:36 UTC+8
+> Last auto update: 2025-06-06 09:23:22 UTC+8
