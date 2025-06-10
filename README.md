@@ -137,19 +137,20 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 255 |
+| Total  | 259 |
 | Public | 1 |
-| Private| 254 |
+| Private| 258 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 195 | 76.5% |
-| C++ | 24 | 9.4% |
-| Jupyter Notebook | 13 | 5.1% |
-| HTML | 6 | 2.4% |
-| Unknown | 6 | 2.4% |
+| Python | 196 | 75.7% |
+| C++ | 24 | 9.3% |
+| Jupyter Notebook | 13 | 5.0% |
+| HTML | 6 | 2.3% |
+| Unknown | 6 | 2.3% |
+| TeX | 3 | 1.2% |
 | Shell | 3 | 1.2% |
 | JavaScript | 2 | 0.8% |
 | Markdown | 2 | 0.8% |
@@ -330,10 +331,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### gaussian-splatting
 
-* **Total Repositories:** 120
+* **Total Repositories:** 121
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| 3DGRUT_survey | Private | 0 | 2025-06-09 | Python | Survey of 3DGRUT (CVPR 2025) | [🔗](https://github.com/kevin30205/3DGRUT_survey) |
 | FisherRF_survey | Private | 0 | 2025-06-08 | Python | Survey of FisherRF (ECCV 2024) | [🔗](https://github.com/kevin30205/FisherRF_survey) |
 | MoDec-GS_survey | Private | 0 | 2025-06-08 | Python | Survey of MoDec-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/MoDec-GS_survey) |
 | Sparse2DGS_survey | Private | 0 | 2025-06-08 | Python | Survey of Sparse2DGS (CVPR 2025) | [🔗](https://github.com/kevin30205/Sparse2DGS_survey) |
@@ -545,11 +547,12 @@ You can run the script on your own computer to preview the generated README and 
 
 ### personal
 
-* **Total Repositories:** 21
+* **Total Repositories:** 22
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
-| Repository-Hub | Private | 1 | 2025-06-08 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| Curriculum-Vitae | Private | 0 | 2025-06-09 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
+| Repository-Hub | Private | 1 | 2025-06-09 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Command_Memorandum | Private | 0 | 2025-06-04 | Shell | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
 | Academic-Homepage | Private | 0 | 2025-06-03 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
 | Conference_Paper_Summary | Private | 0 | 2025-06-01 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
@@ -658,10 +661,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### survey
 
-* **Total Repositories:** 198
+* **Total Repositories:** 199
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| 3DGRUT_survey | Private | 0 | 2025-06-09 | Python | Survey of 3DGRUT (CVPR 2025) | [🔗](https://github.com/kevin30205/3DGRUT_survey) |
 | FisherRF_survey | Private | 0 | 2025-06-08 | Python | Survey of FisherRF (ECCV 2024) | [🔗](https://github.com/kevin30205/FisherRF_survey) |
 | MoDec-GS_survey | Private | 0 | 2025-06-08 | Python | Survey of MoDec-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/MoDec-GS_survey) |
 | Sparse2DGS_survey | Private | 0 | 2025-06-08 | Python | Survey of Sparse2DGS (CVPR 2025) | [🔗](https://github.com/kevin30205/Sparse2DGS_survey) |
@@ -863,10 +867,12 @@ You can run the script on your own computer to preview the generated README and 
 
 ### toolbox
 
-* **Total Repositories:** 34
+* **Total Repositories:** 36
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| NTHU-Thesis-Template_tool | Private | 0 | 2025-06-10 | TeX | The LaTeX NTHU thesis template. | [🔗](https://github.com/kevin30205/NTHU-Thesis-Template_tool) |
+| Awesome-CV_tool | Private | 0 | 2025-06-09 | TeX | Awesome CV is the LaTeX template for job application. | [🔗](https://github.com/kevin30205/Awesome-CV_tool) |
 | STORM_tool | Private | 0 | 2025-06-04 | Python | STORM: An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. | [🔗](https://github.com/kevin30205/STORM_tool) |
 | Anthropic-courses_tool | Private | 0 | 2025-06-04 | Jupyter Notebook | Anthropic's educational courses. | [🔗](https://github.com/kevin30205/Anthropic-courses_tool) |
 | Anthropic-prompt-eng-interactive-tutorial_tool | Private | 0 | 2025-06-04 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial. | [🔗](https://github.com/kevin30205/Anthropic-prompt-eng-interactive-tutorial_tool) |
@@ -926,4 +932,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-06-09 09:28:30 UTC+8
+> Last auto update: 2025-06-10 09:25:36 UTC+8
