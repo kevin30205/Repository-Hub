@@ -137,21 +137,21 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 259 |
+| Total  | 262 |
 | Public | 1 |
-| Private| 258 |
+| Private| 261 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 196 | 75.7% |
-| C++ | 24 | 9.3% |
+| Python | 199 | 76.0% |
+| C++ | 24 | 9.2% |
 | Jupyter Notebook | 13 | 5.0% |
 | HTML | 6 | 2.3% |
 | Unknown | 6 | 2.3% |
-| TeX | 3 | 1.2% |
-| Shell | 3 | 1.2% |
+| TeX | 3 | 1.1% |
+| Shell | 3 | 1.1% |
 | JavaScript | 2 | 0.8% |
 | Markdown | 2 | 0.8% |
 | CSS | 1 | 0.4% |
@@ -331,18 +331,20 @@ You can run the script on your own computer to preview the generated README and 
 
 ### gaussian-splatting
 
-* **Total Repositories:** 121
+* **Total Repositories:** 123
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| PanSplat_survey | Private | 0 | 2025-06-10 | Python | Survey of PanSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/PanSplat_survey) |
+| GaussianShader_survey | Private | 0 | 2025-06-10 | C++ | Survey of GaussianShader (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianShader_survey) |
+| ReCap_survey | Private | 0 | 2025-06-10 | Python | Survey of ReCap (CVPR 2025) | [🔗](https://github.com/kevin30205/ReCap_survey) |
+| Luminance-GS_survey | Private | 0 | 2025-06-10 | Python | Survey of Luminance-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Luminance-GS_survey) |
+| FisherRF_survey | Private | 0 | 2025-06-10 | Python | Survey of FisherRF (ECCV 2024) | [🔗](https://github.com/kevin30205/FisherRF_survey) |
 | 3DGRUT_survey | Private | 0 | 2025-06-09 | Python | Survey of 3DGRUT (CVPR 2025) | [🔗](https://github.com/kevin30205/3DGRUT_survey) |
-| FisherRF_survey | Private | 0 | 2025-06-08 | Python | Survey of FisherRF (ECCV 2024) | [🔗](https://github.com/kevin30205/FisherRF_survey) |
 | MoDec-GS_survey | Private | 0 | 2025-06-08 | Python | Survey of MoDec-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/MoDec-GS_survey) |
 | Sparse2DGS_survey | Private | 0 | 2025-06-08 | Python | Survey of Sparse2DGS (CVPR 2025) | [🔗](https://github.com/kevin30205/Sparse2DGS_survey) |
 | DashGaussian_survey | Private | 0 | 2025-06-08 | C++ | Survey of DashGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DashGaussian_survey) |
 | GaussianSpa_survey | Private | 0 | 2025-06-08 | Python | Survey of GaussianSpa (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianSpa_survey) |
-| GaussianShader_survey | Private | 0 | 2025-06-08 | C++ | Survey of GaussianShader (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianShader_survey) |
-| ReCap_survey | Private | 0 | 2025-06-08 | Python | Survey of ReCap (CVPR 2025) | [🔗](https://github.com/kevin30205/ReCap_survey) |
 | EOGS_survey | Private | 0 | 2025-06-07 | Python | Survey of EOGS (CVPR 2025) | [🔗](https://github.com/kevin30205/EOGS_survey) |
 | GS-LPM_survey | Private | 0 | 2025-06-07 | Python | Survey of GS-LPM (CVPR 2025) | [🔗](https://github.com/kevin30205/GS-LPM_survey) |
 | TC-GS_survey | Private | 0 | 2025-06-07 | C++ | Survey of TC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/TC-GS_survey) |
@@ -481,10 +483,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### nerf
 
-* **Total Repositories:** 59
+* **Total Repositories:** 60
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| ActiveNeRF_survey | Private | 0 | 2025-06-10 | Python | Survey of  ActiveNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/ActiveNeRF_survey) |
 | NRHints_survey | Private | 0 | 2025-06-06 | Python | Survey of NRHints (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/NRHints_survey) |
 | Stable-Dreamfusion_survey | Private | 0 | 2025-06-01 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
 | Relighting4D_survey | Private | 0 | 2025-06-01 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
@@ -551,8 +554,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| Repository-Hub | Private | 1 | 2025-06-10 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Curriculum-Vitae | Private | 0 | 2025-06-09 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
-| Repository-Hub | Private | 1 | 2025-06-09 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Command_Memorandum | Private | 0 | 2025-06-04 | Shell | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
 | Academic-Homepage | Private | 0 | 2025-06-03 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
 | Conference_Paper_Summary | Private | 0 | 2025-06-01 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
@@ -589,7 +592,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
-| ReCap_survey | Private | 0 | 2025-06-08 | Python | Survey of ReCap (CVPR 2025) | [🔗](https://github.com/kevin30205/ReCap_survey) |
+| ReCap_survey | Private | 0 | 2025-06-10 | Python | Survey of ReCap (CVPR 2025) | [🔗](https://github.com/kevin30205/ReCap_survey) |
 | RNG_survey | Private | 0 | 2025-06-07 | Python | Survey of RNG (CVPR 2025) | [🔗](https://github.com/kevin30205/RNG_survey) |
 | NRHints_survey | Private | 0 | 2025-06-06 | Python | Survey of NRHints (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/NRHints_survey) |
 | GS-3_survey | Private | 0 | 2025-06-02 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
@@ -661,20 +664,23 @@ You can run the script on your own computer to preview the generated README and 
 
 ### survey
 
-* **Total Repositories:** 199
+* **Total Repositories:** 202
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| PanSplat_survey | Private | 0 | 2025-06-10 | Python | Survey of PanSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/PanSplat_survey) |
+| GaussianShader_survey | Private | 0 | 2025-06-10 | C++ | Survey of GaussianShader (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianShader_survey) |
+| ReCap_survey | Private | 0 | 2025-06-10 | Python | Survey of ReCap (CVPR 2025) | [🔗](https://github.com/kevin30205/ReCap_survey) |
+| Luminance-GS_survey | Private | 0 | 2025-06-10 | Python | Survey of Luminance-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Luminance-GS_survey) |
+| FisherRF_survey | Private | 0 | 2025-06-10 | Python | Survey of FisherRF (ECCV 2024) | [🔗](https://github.com/kevin30205/FisherRF_survey) |
+| ActiveNeRF_survey | Private | 0 | 2025-06-10 | Python | Survey of  ActiveNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/ActiveNeRF_survey) |
 | 3DGRUT_survey | Private | 0 | 2025-06-09 | Python | Survey of 3DGRUT (CVPR 2025) | [🔗](https://github.com/kevin30205/3DGRUT_survey) |
-| FisherRF_survey | Private | 0 | 2025-06-08 | Python | Survey of FisherRF (ECCV 2024) | [🔗](https://github.com/kevin30205/FisherRF_survey) |
 | MoDec-GS_survey | Private | 0 | 2025-06-08 | Python | Survey of MoDec-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/MoDec-GS_survey) |
 | Sparse2DGS_survey | Private | 0 | 2025-06-08 | Python | Survey of Sparse2DGS (CVPR 2025) | [🔗](https://github.com/kevin30205/Sparse2DGS_survey) |
 | DashGaussian_survey | Private | 0 | 2025-06-08 | C++ | Survey of DashGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DashGaussian_survey) |
 | SAM-2_survey | Private | 0 | 2025-06-08 | Jupyter Notebook | Survey of SAM 2 (ICLR 2025) | [🔗](https://github.com/kevin30205/SAM-2_survey) |
 | SAM-HQ_survey | Private | 0 | 2025-06-08 | Jupyter Notebook | Survey of SAM-HQ (NeurIPS 2023) | [🔗](https://github.com/kevin30205/SAM-HQ_survey) |
 | GaussianSpa_survey | Private | 0 | 2025-06-08 | Python | Survey of GaussianSpa (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianSpa_survey) |
-| GaussianShader_survey | Private | 0 | 2025-06-08 | C++ | Survey of GaussianShader (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianShader_survey) |
-| ReCap_survey | Private | 0 | 2025-06-08 | Python | Survey of ReCap (CVPR 2025) | [🔗](https://github.com/kevin30205/ReCap_survey) |
 | fish-speech_survey | Private | 0 | 2025-06-07 | Python | Survey of Fish Speech | [🔗](https://github.com/kevin30205/fish-speech_survey) |
 | EOGS_survey | Private | 0 | 2025-06-07 | Python | Survey of EOGS (CVPR 2025) | [🔗](https://github.com/kevin30205/EOGS_survey) |
 | GS-LPM_survey | Private | 0 | 2025-06-07 | Python | Survey of GS-LPM (CVPR 2025) | [🔗](https://github.com/kevin30205/GS-LPM_survey) |
@@ -932,4 +938,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-06-10 09:25:36 UTC+8
+> Last auto update: 2025-06-11 09:25:18 UTC+8
