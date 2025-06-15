@@ -420,8 +420,8 @@ def generate_categorized_table(categories):
         md += f'* **Total Repositories:** {len(repos)}\n\n'
 
         # Table header
-        md += '| Name | Status | Stars | Last Updated | Primary Language | Description | Link |\n'
-        md += '|---|---|---|---|---|---|---|\n'
+        md += '| Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |\n'
+        md += '|---|---|---|---|---|---|---|---|\n'
 
         # Iterate through each repository in the category
         # the repos are sorted by last updated time in descending order by default
@@ -432,6 +432,8 @@ def generate_categorized_table(categories):
             
             stars = repo['stargazers_count']
             
+            creation = repo['created_at'][:10]
+            
             updated = repo['updated_at'][:10]
             
             lang = repo.get('language') or 'Unknown'
@@ -441,7 +443,7 @@ def generate_categorized_table(categories):
             url = repo['html_url']
             
             # update the markdown table with repo info
-            md += f'| {name} | {private} | {stars} | {updated} | {lang} | {desc} | [🔗]({url}) |\n'
+            md += f'| {name} | {private} | {stars} | {creation} | {updated} | {lang} | {desc} | [🔗]({url}) |\n'
 
         # Add a newline at the end for better formatting
         md += '\n'
