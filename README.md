@@ -137,16 +137,16 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 263 |
+| Total  | 265 |
 | Public | 1 |
-| Private| 262 |
+| Private| 264 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 199 | 75.7% |
-| C++ | 25 | 9.5% |
+| Python | 200 | 75.5% |
+| C++ | 26 | 9.8% |
 | Jupyter Notebook | 13 | 4.9% |
 | HTML | 6 | 2.3% |
 | Unknown | 6 | 2.3% |
@@ -331,10 +331,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### gaussian-splatting
 
-* **Total Repositories:** 124
+* **Total Repositories:** 125
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| StopThePop_survey | Private | 0 | 2025-06-14 | Python | Survey of StopThePop (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/StopThePop_survey) |
 | 3DGRUT_survey | Private | 0 | 2025-06-13 | Python | Survey of 3DGRUT (CVPR 2025) | [🔗](https://github.com/kevin30205/3DGRUT_survey) |
 | 4DTAM_survey | Private | 0 | 2025-06-11 | C++ | Survey of 4DTAM (CVPR 2025) | [🔗](https://github.com/kevin30205/4DTAM_survey) |
 | PanSplat_survey | Private | 0 | 2025-06-11 | Python | Survey of PanSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/PanSplat_survey) |
@@ -484,10 +485,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### nerf
 
-* **Total Repositories:** 60
+* **Total Repositories:** 61
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| LAENeRF_survey | Private | 0 | 2025-06-14 | C++ | Survey of LAENeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/LAENeRF_survey) |
 | ActiveNeRF_survey | Private | 0 | 2025-06-11 | Python | Survey of  ActiveNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/ActiveNeRF_survey) |
 | NRHints_survey | Private | 0 | 2025-06-06 | Python | Survey of NRHints (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/NRHints_survey) |
 | Stable-Dreamfusion_survey | Private | 0 | 2025-06-01 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
@@ -555,7 +557,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
-| Repository-Hub | Private | 1 | 2025-06-13 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| Repository-Hub | Private | 1 | 2025-06-14 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Curriculum-Vitae | Private | 0 | 2025-06-09 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
 | Command_Memorandum | Private | 0 | 2025-06-04 | Shell | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
 | Academic-Homepage | Private | 0 | 2025-06-03 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
@@ -665,10 +667,12 @@ You can run the script on your own computer to preview the generated README and 
 
 ### survey
 
-* **Total Repositories:** 203
+* **Total Repositories:** 205
 
 | Name | Status | Stars | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|
+| LAENeRF_survey | Private | 0 | 2025-06-14 | C++ | Survey of LAENeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/LAENeRF_survey) |
+| StopThePop_survey | Private | 0 | 2025-06-14 | Python | Survey of StopThePop (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/StopThePop_survey) |
 | 3DGRUT_survey | Private | 0 | 2025-06-13 | Python | Survey of 3DGRUT (CVPR 2025) | [🔗](https://github.com/kevin30205/3DGRUT_survey) |
 | 4DTAM_survey | Private | 0 | 2025-06-11 | C++ | Survey of 4DTAM (CVPR 2025) | [🔗](https://github.com/kevin30205/4DTAM_survey) |
 | ActiveNeRF_survey | Private | 0 | 2025-06-11 | Python | Survey of  ActiveNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/ActiveNeRF_survey) |
@@ -940,4 +944,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-06-14 09:21:56 UTC+8
+> Last auto update: 2025-06-15 09:41:21 UTC+8
