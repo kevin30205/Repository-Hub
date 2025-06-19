@@ -154,10 +154,10 @@ You can run the script on your own computer to preview the generated README and 
 | Shell | 3 | 1.1% |
 | JavaScript | 2 | 0.8% |
 | Markdown | 2 | 0.8% |
+| Cuda | 1 | 0.4% |
 | CSS | 1 | 0.4% |
 | TypeScript | 1 | 0.4% |
 | Svelte | 1 | 0.4% |
-| Cuda | 1 | 0.4% |
 
 ![Language Distribution Overview](charts/language_pie.png)
 
@@ -181,17 +181,17 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| DreamCraft3D_survey | Private | 0 | 2025-04-24 | 2025-06-01 | Python | Survey of DreamCraft3D (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamCraft3D_survey) |
-| GaussianIP_survey | Private | 0 | 2025-05-29 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
-| DreamGaussian4D_survey | Private | 0 | 2025-05-11 | 2025-06-01 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
-| HumanNorm_survey | Private | 0 | 2025-05-09 | 2025-06-01 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
-| GaussianDreamerPro_survey | Private | 0 | 2025-05-06 | 2025-06-01 | C++ | Survey of GaussianDreamerPro (arXiv 2024) | [🔗](https://github.com/kevin30205/GaussianDreamerPro_survey) |
-| Stable-Dreamfusion_survey | Private | 0 | 2025-04-24 | 2025-06-01 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
-| LucidDreamer_survey | Private | 0 | 2025-04-20 | 2025-06-01 | Python | Survey of LucidDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/LucidDreamer_survey) |
-| Fantasia3D_survey | Private | 0 | 2025-04-19 | 2025-06-01 | Python | Survey of Fantasia3D (ICCV 2023) | [🔗](https://github.com/kevin30205/Fantasia3D_survey) |
-| GaussianDreamer_survey | Private | 0 | 2025-04-18 | 2025-06-01 | Python | Survey of GaussianDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianDreamer_survey) |
-| GSGEN_survey | Private | 0 | 2025-04-14 | 2025-06-01 | Python | Survey of GSGEN (CVPR 2024) | [🔗](https://github.com/kevin30205/GSGEN_survey) |
-| DreamGaussian_survey | Private | 0 | 2025-04-13 | 2025-06-01 | Python | Survey of DreamGaussian (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamGaussian_survey) |
+| GaussianIP_survey | Private | 0 | 2025-05-29 | 2025-06-18 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
+| DreamGaussian4D_survey | Private | 0 | 2025-05-11 | 2025-06-18 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
+| HumanNorm_survey | Private | 0 | 2025-05-09 | 2025-06-18 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
+| GaussianDreamerPro_survey | Private | 0 | 2025-05-06 | 2025-06-18 | C++ | Survey of GaussianDreamerPro (arXiv 2024) | [🔗](https://github.com/kevin30205/GaussianDreamerPro_survey) |
+| Stable-Dreamfusion_survey | Private | 0 | 2025-04-24 | 2025-06-18 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
+| DreamCraft3D_survey | Private | 0 | 2025-04-24 | 2025-06-18 | Python | Survey of DreamCraft3D (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamCraft3D_survey) |
+| LucidDreamer_survey | Private | 0 | 2025-04-20 | 2025-06-18 | Python | Survey of LucidDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/LucidDreamer_survey) |
+| Fantasia3D_survey | Private | 0 | 2025-04-19 | 2025-06-18 | Python | Survey of Fantasia3D (ICCV 2023) | [🔗](https://github.com/kevin30205/Fantasia3D_survey) |
+| GaussianDreamer_survey | Private | 0 | 2025-04-18 | 2025-06-18 | Python | Survey of GaussianDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianDreamer_survey) |
+| GSGEN_survey | Private | 0 | 2025-04-14 | 2025-06-18 | Python | Survey of GSGEN (CVPR 2024) | [🔗](https://github.com/kevin30205/GSGEN_survey) |
+| DreamGaussian_survey | Private | 0 | 2025-04-13 | 2025-06-18 | Python | Survey of DreamGaussian (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamGaussian_survey) |
 
 ### Unassigned
 
@@ -208,8 +208,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| DashGaussian_survey | Private | 0 | 2025-06-07 | 2025-06-08 | C++ | Survey of DashGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DashGaussian_survey) |
-| InstantSplat_survey | Private | 0 | 2025-04-08 | 2025-06-01 | Python | Survey of InstantSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/InstantSplat_survey) |
+| DashGaussian_survey | Private | 0 | 2025-06-07 | 2025-06-18 | C++ | Survey of DashGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DashGaussian_survey) |
+| InstantSplat_survey | Private | 0 | 2025-04-08 | 2025-06-18 | Python | Survey of InstantSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/InstantSplat_survey) |
 
 ### avatar
 
@@ -217,37 +217,37 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| GaussianIP_survey | Private | 0 | 2025-05-29 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
-| HumanNorm_survey | Private | 0 | 2025-05-09 | 2025-06-01 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
-| Relighting4D_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
-| Neuman_survey | Private | 0 | 2023-08-13 | 2025-06-01 | Python | Survey of Neuman (ECCV 2022) | [🔗](https://github.com/kevin30205/Neuman_survey) |
-| HumanNeRF_survey | Private | 0 | 2023-08-27 | 2025-06-01 | Python | Survey of HumanNeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/HumanNeRF_survey) |
-| MonoHuman_survey | Private | 0 | 2023-08-27 | 2025-06-01 | Python | Survey of MonoHuman (CVPR 2023) | [🔗](https://github.com/kevin30205/MonoHuman_survey) |
-| NVR-in-Minutes_survey | Private | 0 | 2023-09-26 | 2025-06-01 | Python | Survey of NVR-in-Minutes (CVPR 2023) | [🔗](https://github.com/kevin30205/NVR-in-Minutes_survey) |
-| Vid2Avatar_survey | Private | 0 | 2023-09-26 | 2025-06-01 | Python | Survey of Vid2Avatar (CVPR 2023) | [🔗](https://github.com/kevin30205/Vid2Avatar_survey) |
-| SHERF_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of SHERF (ICCV 2023) | [🔗](https://github.com/kevin30205/SHERF_survey) |
-| TransHuman_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of TransHuman (ICCV 2023) | [🔗](https://github.com/kevin30205/TransHuman_survey) |
-| OccNeRF_survey | Private | 0 | 2024-01-30 | 2025-06-01 | Python | Survey of OccNeRF (ICCV 2023) | [🔗](https://github.com/kevin30205/OccNeRF_survey) |
-| GauHuman_survey | Private | 0 | 2025-03-28 | 2025-06-01 | Python | Survey of GauHuman (CVPR 2024) | [🔗](https://github.com/kevin30205/GauHuman_survey) |
-| InstantAvatar_survey | Private | 0 | 2025-03-28 | 2025-06-01 | Python | Survey of InstantAvatar (CVPR 2023) | [🔗](https://github.com/kevin30205/InstantAvatar_survey) |
-| OccFusion_survey | Private | 0 | 2025-03-28 | 2025-06-01 | Python | Survey of OccFusion (NeurIPS 2024) | [🔗](https://github.com/kevin30205/OccFusion_survey) |
-| HumanNeRF-SE_survey | Private | 0 | 2025-03-29 | 2025-06-01 | Python | Survey of HumanNeRF-SE (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNeRF-SE_survey) |
-| HUGS_survey | Private | 0 | 2025-03-30 | 2025-06-01 | Python | Survey of HUGS (CVPR 2024) | [🔗](https://github.com/kevin30205/HUGS_survey) |
-| GaussianAvatar_survey | Private | 0 | 2025-03-31 | 2025-06-01 | Python | Survey of GaussianAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianAvatar_survey) |
-| SplattingAvatar_survey | Private | 0 | 2025-03-30 | 2025-06-01 | Python | Survey of SplattingAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/SplattingAvatar_survey) |
-| Animatable-NeRF_survey | Private | 0 | 2025-03-29 | 2025-06-01 | Python | Survey of Animatable-NeRF (ICCV 2021) | [🔗](https://github.com/kevin30205/Animatable-NeRF_survey) |
-| GoMAvatar_survey | Private | 0 | 2025-03-31 | 2025-06-01 | Python | Survey of GoMAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/GoMAvatar_survey) |
-| GPS-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-01 | C++ | Survey of GPS-Gaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/GPS-Gaussian_survey) |
-| 3DGS-Avatar_survey | Private | 0 | 2025-04-04 | 2025-06-01 | Python | Survey of 3DGS-Avatar (CVPR 2024) | [🔗](https://github.com/kevin30205/3DGS-Avatar_survey) |
-| Neural-Body_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of Neural Body (CVPR 2021) | [🔗](https://github.com/kevin30205/Neural-Body_survey) |
-| TAVA_survey | Private | 0 | 2025-04-04 | 2025-06-01 | Python | Survey of TAVA (ECCV 2022) | [🔗](https://github.com/kevin30205/TAVA_survey) |
-| IntrinsicAvatar_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of IntrinsicAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/IntrinsicAvatar_survey) |
-| Neural-Human-Performer_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of Neural Human Performer (NeurIPS 2021) | [🔗](https://github.com/kevin30205/Neural-Human-Performer_survey) |
-| ARAH_survey | Private | 0 | 2025-04-04 | 2025-06-01 | Python | Survey of ARAH (ECCV 2022) | [🔗](https://github.com/kevin30205/ARAH_survey) |
-| AnimatableGaussians_survey | Private | 0 | 2025-04-19 | 2025-06-01 | Python | Survey of Animatable Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/AnimatableGaussians_survey) |
-| GART_survey | Private | 0 | 2025-04-17 | 2025-06-01 | Python | Survey of GART (CVPR 2024) | [🔗](https://github.com/kevin30205/GART_survey) |
-| RoGSplat_survey | Private | 0 | 2025-05-09 | 2025-06-01 | Python | Survey of RoGSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/RoGSplat_survey) |
-| HAHA_survey | Private | 0 | 2025-05-21 | 2025-06-01 | Python | Survey of HAHA (ACCV 2024) | [🔗](https://github.com/kevin30205/HAHA_survey) |
+| GaussianIP_survey | Private | 0 | 2025-05-29 | 2025-06-18 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
+| HAHA_survey | Private | 0 | 2025-05-21 | 2025-06-18 | Python | Survey of HAHA (ACCV 2024) | [🔗](https://github.com/kevin30205/HAHA_survey) |
+| RoGSplat_survey | Private | 0 | 2025-05-09 | 2025-06-18 | Python | Survey of RoGSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/RoGSplat_survey) |
+| HumanNorm_survey | Private | 0 | 2025-05-09 | 2025-06-18 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
+| Relighting4D_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
+| GART_survey | Private | 0 | 2025-04-17 | 2025-06-18 | Python | Survey of GART (CVPR 2024) | [🔗](https://github.com/kevin30205/GART_survey) |
+| AnimatableGaussians_survey | Private | 0 | 2025-04-19 | 2025-06-18 | Python | Survey of Animatable Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/AnimatableGaussians_survey) |
+| ARAH_survey | Private | 0 | 2025-04-04 | 2025-06-18 | Python | Survey of ARAH (ECCV 2022) | [🔗](https://github.com/kevin30205/ARAH_survey) |
+| Neural-Human-Performer_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of Neural Human Performer (NeurIPS 2021) | [🔗](https://github.com/kevin30205/Neural-Human-Performer_survey) |
+| IntrinsicAvatar_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of IntrinsicAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/IntrinsicAvatar_survey) |
+| TAVA_survey | Private | 0 | 2025-04-04 | 2025-06-18 | Python | Survey of TAVA (ECCV 2022) | [🔗](https://github.com/kevin30205/TAVA_survey) |
+| Neural-Body_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of Neural Body (CVPR 2021) | [🔗](https://github.com/kevin30205/Neural-Body_survey) |
+| 3DGS-Avatar_survey | Private | 0 | 2025-04-04 | 2025-06-18 | Python | Survey of 3DGS-Avatar (CVPR 2024) | [🔗](https://github.com/kevin30205/3DGS-Avatar_survey) |
+| GPS-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-18 | C++ | Survey of GPS-Gaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/GPS-Gaussian_survey) |
+| GoMAvatar_survey | Private | 0 | 2025-03-31 | 2025-06-18 | Python | Survey of GoMAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/GoMAvatar_survey) |
+| Animatable-NeRF_survey | Private | 0 | 2025-03-29 | 2025-06-18 | Python | Survey of Animatable-NeRF (ICCV 2021) | [🔗](https://github.com/kevin30205/Animatable-NeRF_survey) |
+| SplattingAvatar_survey | Private | 0 | 2025-03-30 | 2025-06-18 | Python | Survey of SplattingAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/SplattingAvatar_survey) |
+| GaussianAvatar_survey | Private | 0 | 2025-03-31 | 2025-06-18 | Python | Survey of GaussianAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianAvatar_survey) |
+| HUGS_survey | Private | 0 | 2025-03-30 | 2025-06-18 | Python | Survey of HUGS (CVPR 2024) | [🔗](https://github.com/kevin30205/HUGS_survey) |
+| HumanNeRF-SE_survey | Private | 0 | 2025-03-29 | 2025-06-18 | Python | Survey of HumanNeRF-SE (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNeRF-SE_survey) |
+| OccFusion_survey | Private | 0 | 2025-03-28 | 2025-06-18 | Python | Survey of OccFusion (NeurIPS 2024) | [🔗](https://github.com/kevin30205/OccFusion_survey) |
+| InstantAvatar_survey | Private | 0 | 2025-03-28 | 2025-06-18 | Python | Survey of InstantAvatar (CVPR 2023) | [🔗](https://github.com/kevin30205/InstantAvatar_survey) |
+| GauHuman_survey | Private | 0 | 2025-03-28 | 2025-06-18 | Python | Survey of GauHuman (CVPR 2024) | [🔗](https://github.com/kevin30205/GauHuman_survey) |
+| OccNeRF_survey | Private | 0 | 2024-01-30 | 2025-06-18 | Python | Survey of OccNeRF (ICCV 2023) | [🔗](https://github.com/kevin30205/OccNeRF_survey) |
+| TransHuman_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of TransHuman (ICCV 2023) | [🔗](https://github.com/kevin30205/TransHuman_survey) |
+| SHERF_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of SHERF (ICCV 2023) | [🔗](https://github.com/kevin30205/SHERF_survey) |
+| NVR-in-Minutes_survey | Private | 0 | 2023-09-26 | 2025-06-18 | Python | Survey of NVR-in-Minutes (CVPR 2023) | [🔗](https://github.com/kevin30205/NVR-in-Minutes_survey) |
+| Neuman_survey | Private | 0 | 2023-08-13 | 2025-06-18 | Python | Survey of Neuman (ECCV 2022) | [🔗](https://github.com/kevin30205/Neuman_survey) |
+| MonoHuman_survey | Private | 0 | 2023-08-27 | 2025-06-18 | Python | Survey of MonoHuman (CVPR 2023) | [🔗](https://github.com/kevin30205/MonoHuman_survey) |
+| HumanNeRF_survey | Private | 0 | 2023-08-27 | 2025-06-18 | Python | Survey of HumanNeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/HumanNeRF_survey) |
+| Vid2Avatar_survey | Private | 0 | 2023-09-26 | 2025-06-18 | Python | Survey of Vid2Avatar (CVPR 2023) | [🔗](https://github.com/kevin30205/Vid2Avatar_survey) |
 
 ### compression
 
@@ -255,23 +255,23 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| GaussianSpa_survey | Private | 0 | 2025-06-07 | 2025-06-08 | Python | Survey of GaussianSpa (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianSpa_survey) |
-| TC-GS_survey | Private | 0 | 2025-06-05 | 2025-06-07 | C++ | Survey of TC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/TC-GS_survey) |
-| PUP-3D-GS_survey | Private | 0 | 2025-06-07 | 2025-06-07 | Python | Survey of PUP 3D-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/PUP-3D-GS_survey) |
-| CAT-3DGS_survey | Private | 0 | 2025-06-05 | 2025-06-06 | Python | Survey of CAT-3DGS (ICLR 2025) | [🔗](https://github.com/kevin30205/CAT-3DGS_survey) |
-| HAC_survey | Private | 0 | 2025-04-09 | 2025-06-01 | Python | Survey of HAC (ECCV 2024) | [🔗](https://github.com/kevin30205/HAC_survey) |
-| LightGaussian_survey | Private | 0 | 2025-04-10 | 2025-06-01 | Python | Survey of LightGaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/LightGaussian_survey) |
-| Compact-3DGS_survey | Private | 0 | 2025-04-10 | 2025-06-01 | Python | Survey of Compact-3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/Compact-3DGS_survey) |
-| C3DGS_survey | Private | 0 | 2025-04-11 | 2025-06-01 | Python | Survey of C3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/C3DGS_survey) |
-| HAC-plus_survey | Private | 0 | 2025-04-09 | 2025-06-01 | C++ | Survey of HAC++ (arXiv 2025) | [🔗](https://github.com/kevin30205/HAC-plus_survey) |
-| PCGS_survey | Private | 0 | 2025-04-10 | 2025-06-01 | C++ | Survey of PCGS (arXiv 2025) | [🔗](https://github.com/kevin30205/PCGS_survey) |
-| EAGLES_survey | Private | 0 | 2025-04-11 | 2025-06-01 | C++ | Survey of EAGLES (ECCV 2024) | [🔗](https://github.com/kevin30205/EAGLES_survey) |
-| FCGS_survey | Private | 0 | 2025-04-12 | 2025-06-01 | C++ | Survey of FCGS (ICLR 2025) | [🔗](https://github.com/kevin30205/FCGS_survey) |
-| Mini-Splatting_survey | Private | 0 | 2025-04-11 | 2025-06-01 | Python | Survey of Mini-Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Mini-Splatting_survey) |
-| ContextGS_survey | Private | 0 | 2025-04-09 | 2025-06-01 | Python | Survey of ContextGS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/ContextGS_survey) |
-| MaskGaussian_survey | Private | 0 | 2025-04-21 | 2025-06-01 | C++ | Survey of MaskGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/MaskGaussian_survey) |
-| Self-Organizing-Gaussians_survey | Private | 0 | 2025-05-14 | 2025-06-01 | Python | Survey of Self-Organizing Gaussians (ECCV 2024) | [🔗](https://github.com/kevin30205/Self-Organizing-Gaussians_survey) |
-| ControlGS_survey | Private | 0 | 2025-05-29 | 2025-06-01 | C++ | Survey of ControlGS (arXiv 2025) | [🔗](https://github.com/kevin30205/ControlGS_survey) |
+| GaussianSpa_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of GaussianSpa (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianSpa_survey) |
+| TC-GS_survey | Private | 0 | 2025-06-05 | 2025-06-18 | C++ | Survey of TC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/TC-GS_survey) |
+| PUP-3D-GS_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of PUP 3D-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/PUP-3D-GS_survey) |
+| CAT-3DGS_survey | Private | 0 | 2025-06-05 | 2025-06-18 | Python | Survey of CAT-3DGS (ICLR 2025) | [🔗](https://github.com/kevin30205/CAT-3DGS_survey) |
+| ControlGS_survey | Private | 0 | 2025-05-29 | 2025-06-18 | C++ | Survey of ControlGS (arXiv 2025) | [🔗](https://github.com/kevin30205/ControlGS_survey) |
+| Self-Organizing-Gaussians_survey | Private | 0 | 2025-05-14 | 2025-06-18 | Python | Survey of Self-Organizing Gaussians (ECCV 2024) | [🔗](https://github.com/kevin30205/Self-Organizing-Gaussians_survey) |
+| MaskGaussian_survey | Private | 0 | 2025-04-21 | 2025-06-18 | C++ | Survey of MaskGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/MaskGaussian_survey) |
+| ContextGS_survey | Private | 0 | 2025-04-09 | 2025-06-18 | Python | Survey of ContextGS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/ContextGS_survey) |
+| Mini-Splatting_survey | Private | 0 | 2025-04-11 | 2025-06-18 | Python | Survey of Mini-Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Mini-Splatting_survey) |
+| FCGS_survey | Private | 0 | 2025-04-12 | 2025-06-18 | C++ | Survey of FCGS (ICLR 2025) | [🔗](https://github.com/kevin30205/FCGS_survey) |
+| EAGLES_survey | Private | 0 | 2025-04-11 | 2025-06-18 | C++ | Survey of EAGLES (ECCV 2024) | [🔗](https://github.com/kevin30205/EAGLES_survey) |
+| PCGS_survey | Private | 0 | 2025-04-10 | 2025-06-18 | C++ | Survey of PCGS (arXiv 2025) | [🔗](https://github.com/kevin30205/PCGS_survey) |
+| HAC-plus_survey | Private | 0 | 2025-04-09 | 2025-06-18 | C++ | Survey of HAC++ (arXiv 2025) | [🔗](https://github.com/kevin30205/HAC-plus_survey) |
+| C3DGS_survey | Private | 0 | 2025-04-11 | 2025-06-18 | Python | Survey of C3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/C3DGS_survey) |
+| Compact-3DGS_survey | Private | 0 | 2025-04-10 | 2025-06-18 | Python | Survey of Compact-3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/Compact-3DGS_survey) |
+| LightGaussian_survey | Private | 0 | 2025-04-10 | 2025-06-18 | Python | Survey of LightGaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/LightGaussian_survey) |
+| HAC_survey | Private | 0 | 2025-04-09 | 2025-06-18 | Python | Survey of HAC (ECCV 2024) | [🔗](https://github.com/kevin30205/HAC_survey) |
 
 ### dataset
 
@@ -287,13 +287,13 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Deblur-NeRF_survey | Private | 0 | 2024-01-10 | 2025-06-01 | Python | Survey of Deblur-NeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/Deblur-NeRF_survey) |
-| BAD-NeRF_survey | Private | 0 | 2024-03-13 | 2025-06-01 | Python | Survey of BAD-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/BAD-NeRF_survey) |
-| Deblurring-3D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of Deblurring 3D Gaussian Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Deblurring-3D-Gaussian-Splatting_survey) |
-| BAD-Gaussians_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of BAD-Gaussians (ECCV 2024) | [🔗](https://github.com/kevin30205/BAD-Gaussians_survey) |
-| BAGS_survey | Private | 0 | 2025-05-04 | 2025-06-01 | Python | Survey of BAGS (ECCV 2024) | [🔗](https://github.com/kevin30205/BAGS_survey) |
-| BeNeRF_survey | Private | 0 | 2025-04-28 | 2025-06-01 | Python | Survey of BeNeRF (ECCV 2024) | [🔗](https://github.com/kevin30205/BeNeRF_survey) |
-| Gaussian-Splatting-on-the-Move_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of Gaussian Splatting on the Move (ECCV 2024) | [🔗](https://github.com/kevin30205/Gaussian-Splatting-on-the-Move_survey) |
+| Gaussian-Splatting-on-the-Move_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of Gaussian Splatting on the Move (ECCV 2024) | [🔗](https://github.com/kevin30205/Gaussian-Splatting-on-the-Move_survey) |
+| BeNeRF_survey | Private | 0 | 2025-04-28 | 2025-06-18 | Python | Survey of BeNeRF (ECCV 2024) | [🔗](https://github.com/kevin30205/BeNeRF_survey) |
+| BAGS_survey | Private | 0 | 2025-05-04 | 2025-06-18 | Python | Survey of BAGS (ECCV 2024) | [🔗](https://github.com/kevin30205/BAGS_survey) |
+| BAD-Gaussians_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of BAD-Gaussians (ECCV 2024) | [🔗](https://github.com/kevin30205/BAD-Gaussians_survey) |
+| Deblurring-3D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of Deblurring 3D Gaussian Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Deblurring-3D-Gaussian-Splatting_survey) |
+| BAD-NeRF_survey | Private | 0 | 2024-03-13 | 2025-06-18 | Python | Survey of BAD-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/BAD-NeRF_survey) |
+| Deblur-NeRF_survey | Private | 0 | 2024-01-10 | 2025-06-18 | Python | Survey of Deblur-NeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/Deblur-NeRF_survey) |
 
 ### depth-estimation
 
@@ -312,22 +312,22 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| MoDec-GS_survey | Private | 0 | 2025-06-08 | 2025-06-08 | Python | Survey of MoDec-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/MoDec-GS_survey) |
-| HexPlane_survey | Private | 0 | 2023-08-18 | 2025-06-01 | Python | Survey of HexPlane (CVPR 2023) | [🔗](https://github.com/kevin30205/HexPlane_survey) |
-| K-Planes_survey | Private | 0 | 2023-08-13 | 2025-06-01 | Python | Survey of K-Planes (CVPR 2023) | [🔗](https://github.com/kevin30205/K-Planes_survey) |
-| HyperNeRF_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of HyperNeRF (SIGGRAPH Asia 2021) | [🔗](https://github.com/kevin30205/HyperNeRF_survey) |
-| LocalRF_survey | Private | 0 | 2024-01-10 | 2025-06-01 | Python | Survey of LocalRF (CVPR 2023) | [🔗](https://github.com/kevin30205/LocalRF_survey) |
-| ENeRF_survey | Private | 0 | 2024-02-17 | 2025-06-01 | Python | Survey of ENeRF (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/ENeRF_survey) |
-| Tensor4D_survey | Private | 0 | 2024-03-23 | 2025-06-01 | Python | Survey of Tensor4D (CVPR 2023) | [🔗](https://github.com/kevin30205/Tensor4D_survey) |
-| DynamicNeRF_survey | Private | 0 | 2024-04-12 | 2025-06-01 | Python | Survey of DynamicNeRF (ICCV 2021) | [🔗](https://github.com/kevin30205/DynamicNeRF_survey) |
-| RoDynRF_survey | Private | 0 | 2024-04-12 | 2025-06-01 | Python | Survey of RoDynRF (CVPR 2023) | [🔗](https://github.com/kevin30205/RoDynRF_survey) |
-| 4D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of 4D Gaussian Splatting (ICLR 2024) | [🔗](https://github.com/kevin30205/4D-Gaussian-Splatting_survey) |
-| Deformable-3D-Gaussians_survey | Private | 0 | 2025-04-12 | 2025-06-01 | Python | Survey of Deformable 3D Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/Deformable-3D-Gaussians_survey) |
-| SpacetimeGaussians_survey | Private | 0 | 2025-04-13 | 2025-06-01 | Python | Survey of SpacetimeGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/SpacetimeGaussians_survey) |
-| TiNeuVox_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of TiNeuVox (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/TiNeuVox_survey) |
-| 4DGaussians_survey | Private | 0 | 2025-05-07 | 2025-06-01 | Jupyter Notebook | Survey of 4DGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/4DGaussians_survey) |
-| GaGS_survey | Private | 0 | 2025-05-15 | 2025-06-01 | C++ | Survey of GaGS (CVPR 2024) | [🔗](https://github.com/kevin30205/GaGS_survey) |
-| GaussianPrediction_survey | Private | 0 | 2025-05-30 | 2025-06-01 | HTML | Survey of GaussianPrediction (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/GaussianPrediction_survey) |
+| MoDec-GS_survey | Private | 0 | 2025-06-08 | 2025-06-18 | Python | Survey of MoDec-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/MoDec-GS_survey) |
+| GaussianPrediction_survey | Private | 0 | 2025-05-30 | 2025-06-18 | HTML | Survey of GaussianPrediction (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/GaussianPrediction_survey) |
+| GaGS_survey | Private | 0 | 2025-05-15 | 2025-06-18 | C++ | Survey of GaGS (CVPR 2024) | [🔗](https://github.com/kevin30205/GaGS_survey) |
+| 4DGaussians_survey | Private | 0 | 2025-05-07 | 2025-06-18 | Jupyter Notebook | Survey of 4DGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/4DGaussians_survey) |
+| TiNeuVox_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of TiNeuVox (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/TiNeuVox_survey) |
+| SpacetimeGaussians_survey | Private | 0 | 2025-04-13 | 2025-06-18 | Python | Survey of SpacetimeGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/SpacetimeGaussians_survey) |
+| Deformable-3D-Gaussians_survey | Private | 0 | 2025-04-12 | 2025-06-18 | Python | Survey of Deformable 3D Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/Deformable-3D-Gaussians_survey) |
+| 4D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of 4D Gaussian Splatting (ICLR 2024) | [🔗](https://github.com/kevin30205/4D-Gaussian-Splatting_survey) |
+| Tensor4D_survey | Private | 0 | 2024-03-23 | 2025-06-18 | Python | Survey of Tensor4D (CVPR 2023) | [🔗](https://github.com/kevin30205/Tensor4D_survey) |
+| RoDynRF_survey | Private | 0 | 2024-04-12 | 2025-06-18 | Python | Survey of RoDynRF (CVPR 2023) | [🔗](https://github.com/kevin30205/RoDynRF_survey) |
+| DynamicNeRF_survey | Private | 0 | 2024-04-12 | 2025-06-18 | Python | Survey of DynamicNeRF (ICCV 2021) | [🔗](https://github.com/kevin30205/DynamicNeRF_survey) |
+| HyperNeRF_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of HyperNeRF (SIGGRAPH Asia 2021) | [🔗](https://github.com/kevin30205/HyperNeRF_survey) |
+| ENeRF_survey | Private | 0 | 2024-02-17 | 2025-06-18 | Python | Survey of ENeRF (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/ENeRF_survey) |
+| LocalRF_survey | Private | 0 | 2024-01-10 | 2025-06-18 | Python | Survey of LocalRF (CVPR 2023) | [🔗](https://github.com/kevin30205/LocalRF_survey) |
+| K-Planes_survey | Private | 0 | 2023-08-13 | 2025-06-18 | Python | Survey of K-Planes (CVPR 2023) | [🔗](https://github.com/kevin30205/K-Planes_survey) |
+| HexPlane_survey | Private | 0 | 2023-08-18 | 2025-06-18 | Python | Survey of HexPlane (CVPR 2023) | [🔗](https://github.com/kevin30205/HexPlane_survey) |
 
 ### gaussian-splatting
 
@@ -335,132 +335,132 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| StopThePop_survey | Private | 0 | 2025-06-14 | 2025-06-15 | Python | Survey of StopThePop (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/StopThePop_survey) |
-| ABC-GS_survey | Private | 0 | 2025-06-15 | 2025-06-15 | Python | Survey of ABC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/ABC-GS_survey) |
-| 3DGRUT_survey | Private | 0 | 2025-06-09 | 2025-06-13 | Python | Survey of 3DGRUT (CVPR 2025) | [🔗](https://github.com/kevin30205/3DGRUT_survey) |
-| 4DTAM_survey | Private | 0 | 2025-06-11 | 2025-06-11 | C++ | Survey of 4DTAM (CVPR 2025) | [🔗](https://github.com/kevin30205/4DTAM_survey) |
-| PanSplat_survey | Private | 0 | 2025-06-10 | 2025-06-11 | Python | Survey of PanSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/PanSplat_survey) |
-| RNG_survey | Private | 0 | 2025-06-07 | 2025-06-11 | Python | Survey of RNG (CVPR 2025) | [🔗](https://github.com/kevin30205/RNG_survey) |
-| GaussianShader_survey | Private | 0 | 2025-06-08 | 2025-06-10 | C++ | Survey of GaussianShader (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianShader_survey) |
-| ReCap_survey | Private | 0 | 2025-06-08 | 2025-06-10 | Python | Survey of ReCap (CVPR 2025) | [🔗](https://github.com/kevin30205/ReCap_survey) |
-| Luminance-GS_survey | Private | 0 | 2025-06-10 | 2025-06-10 | Python | Survey of Luminance-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Luminance-GS_survey) |
-| FisherRF_survey | Private | 0 | 2025-06-08 | 2025-06-10 | Python | Survey of FisherRF (ECCV 2024) | [🔗](https://github.com/kevin30205/FisherRF_survey) |
-| MoDec-GS_survey | Private | 0 | 2025-06-08 | 2025-06-08 | Python | Survey of MoDec-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/MoDec-GS_survey) |
-| Sparse2DGS_survey | Private | 0 | 2025-06-07 | 2025-06-08 | Python | Survey of Sparse2DGS (CVPR 2025) | [🔗](https://github.com/kevin30205/Sparse2DGS_survey) |
-| DashGaussian_survey | Private | 0 | 2025-06-07 | 2025-06-08 | C++ | Survey of DashGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DashGaussian_survey) |
-| GaussianSpa_survey | Private | 0 | 2025-06-07 | 2025-06-08 | Python | Survey of GaussianSpa (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianSpa_survey) |
-| EOGS_survey | Private | 0 | 2025-06-07 | 2025-06-07 | Python | Survey of EOGS (CVPR 2025) | [🔗](https://github.com/kevin30205/EOGS_survey) |
-| GS-LPM_survey | Private | 0 | 2025-06-07 | 2025-06-07 | Python | Survey of GS-LPM (CVPR 2025) | [🔗](https://github.com/kevin30205/GS-LPM_survey) |
-| TC-GS_survey | Private | 0 | 2025-06-05 | 2025-06-07 | C++ | Survey of TC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/TC-GS_survey) |
-| PUP-3D-GS_survey | Private | 0 | 2025-06-07 | 2025-06-07 | Python | Survey of PUP 3D-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/PUP-3D-GS_survey) |
-| Speedy-Splat_survey | Private | 0 | 2025-06-07 | 2025-06-07 | Python | Survey of Speedy-Splat (CVPR 2025) | [🔗](https://github.com/kevin30205/Speedy-Splat_survey) |
-| CAT-3DGS_survey | Private | 0 | 2025-06-05 | 2025-06-06 | Python | Survey of CAT-3DGS (ICLR 2025) | [🔗](https://github.com/kevin30205/CAT-3DGS_survey) |
+| ABC-GS_survey | Private | 0 | 2025-06-15 | 2025-06-18 | Python | Survey of ABC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/ABC-GS_survey) |
+| StopThePop_survey | Private | 0 | 2025-06-14 | 2025-06-18 | Python | Survey of StopThePop (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/StopThePop_survey) |
+| 3DGRUT_survey | Private | 0 | 2025-06-09 | 2025-06-18 | Python | Survey of 3DGRUT (CVPR 2025) | [🔗](https://github.com/kevin30205/3DGRUT_survey) |
+| 4DTAM_survey | Private | 0 | 2025-06-11 | 2025-06-18 | C++ | Survey of 4DTAM (CVPR 2025) | [🔗](https://github.com/kevin30205/4DTAM_survey) |
+| PanSplat_survey | Private | 0 | 2025-06-10 | 2025-06-18 | Python | Survey of PanSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/PanSplat_survey) |
+| RNG_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of RNG (CVPR 2025) | [🔗](https://github.com/kevin30205/RNG_survey) |
+| GaussianShader_survey | Private | 0 | 2025-06-08 | 2025-06-18 | C++ | Survey of GaussianShader (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianShader_survey) |
+| ReCap_survey | Private | 0 | 2025-06-08 | 2025-06-18 | Python | Survey of ReCap (CVPR 2025) | [🔗](https://github.com/kevin30205/ReCap_survey) |
+| Luminance-GS_survey | Private | 0 | 2025-06-10 | 2025-06-18 | Python | Survey of Luminance-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Luminance-GS_survey) |
+| FisherRF_survey | Private | 0 | 2025-06-08 | 2025-06-18 | Python | Survey of FisherRF (ECCV 2024) | [🔗](https://github.com/kevin30205/FisherRF_survey) |
+| MoDec-GS_survey | Private | 0 | 2025-06-08 | 2025-06-18 | Python | Survey of MoDec-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/MoDec-GS_survey) |
+| Sparse2DGS_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of Sparse2DGS (CVPR 2025) | [🔗](https://github.com/kevin30205/Sparse2DGS_survey) |
+| DashGaussian_survey | Private | 0 | 2025-06-07 | 2025-06-18 | C++ | Survey of DashGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DashGaussian_survey) |
+| GaussianSpa_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of GaussianSpa (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianSpa_survey) |
+| EOGS_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of EOGS (CVPR 2025) | [🔗](https://github.com/kevin30205/EOGS_survey) |
+| GS-LPM_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of GS-LPM (CVPR 2025) | [🔗](https://github.com/kevin30205/GS-LPM_survey) |
+| TC-GS_survey | Private | 0 | 2025-06-05 | 2025-06-18 | C++ | Survey of TC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/TC-GS_survey) |
+| PUP-3D-GS_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of PUP 3D-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/PUP-3D-GS_survey) |
+| Speedy-Splat_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of Speedy-Splat (CVPR 2025) | [🔗](https://github.com/kevin30205/Speedy-Splat_survey) |
+| CAT-3DGS_survey | Private | 0 | 2025-06-05 | 2025-06-18 | Python | Survey of CAT-3DGS (ICLR 2025) | [🔗](https://github.com/kevin30205/CAT-3DGS_survey) |
+| GS-3_survey | Private | 0 | 2025-05-30 | 2025-06-18 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
+| GS-IR_survey | Private | 0 | 2025-05-30 | 2025-06-18 | C++ | Survey of GS-IR (arXiv 2023) | [🔗](https://github.com/kevin30205/GS-IR_survey) |
+| GI-GS_survey | Private | 0 | 2025-05-30 | 2025-06-18 | C++ | Survey of GI-GS (ICLR 2025) | [🔗](https://github.com/kevin30205/GI-GS_survey) |
+| GaussianPrediction_survey | Private | 0 | 2025-05-30 | 2025-06-18 | HTML | Survey of GaussianPrediction (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/GaussianPrediction_survey) |
+| AdR-Gaussian_survey | Private | 0 | 2025-05-30 | 2025-06-18 | Python | Survey of AdR-Gaussian (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/AdR-Gaussian_survey) |
+| CoR-GS_survey | Private | 0 | 2025-05-29 | 2025-06-18 | Python | Survey of CoR-GS (ECCV 2024) | [🔗](https://github.com/kevin30205/CoR-GS_survey) |
+| GaussianIP_survey | Private | 0 | 2025-05-29 | 2025-06-18 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
+| SparseGS_survey | Private | 0 | 2025-05-19 | 2025-06-18 | Python | Survey of SparseGS (3DV 2025) | [🔗](https://github.com/kevin30205/SparseGS_survey) |
+| HAHA_survey | Private | 0 | 2025-05-21 | 2025-06-18 | Python | Survey of HAHA (ACCV 2024) | [🔗](https://github.com/kevin30205/HAHA_survey) |
+| Deformable-Radial-Kernel-Splatting_survey | Private | 0 | 2025-05-21 | 2025-06-18 | Python | Survey of Deformable Radial Kernel Splatting (CVPR 2025) | [🔗](https://github.com/kevin30205/Deformable-Radial-Kernel-Splatting_survey) |
+| ControlGS_survey | Private | 0 | 2025-05-29 | 2025-06-18 | C++ | Survey of ControlGS (arXiv 2025) | [🔗](https://github.com/kevin30205/ControlGS_survey) |
+| hierarchical-3d-gaussians_survey | Private | 0 | 2025-05-21 | 2025-06-18 | Python | Survey of Hierarchical 3D Gaussians (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/hierarchical-3d-gaussians_survey) |
+| BBSplat_survey | Private | 0 | 2025-05-15 | 2025-06-18 | Python | Survey of BBSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/BBSplat_survey) |
+| DRGS_survey | Private | 0 | 2025-05-19 | 2025-06-18 | Python | Survey of DRGS (CVPRW 2024) | [🔗](https://github.com/kevin30205/DRGS_survey) |
+| Gaussian-Splatting-on-the-Move_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of Gaussian Splatting on the Move (ECCV 2024) | [🔗](https://github.com/kevin30205/Gaussian-Splatting-on-the-Move_survey) |
+| Taming-3DGS_survey | Private | 0 | 2025-05-18 | 2025-06-18 | Python | Survey of Taming 3DGS (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/Taming-3DGS_survey) |
+| SteepGS_survey | Private | 0 | 2025-05-19 | 2025-06-18 | Python | Survey of SteepGS (CVPR 2025) | [🔗](https://github.com/kevin30205/SteepGS_survey) |
+| CoherentGS_survey | Private | 0 | 2025-05-14 | 2025-06-18 | Python | Survey of CoherentGS (ECCV 2024) | [🔗](https://github.com/kevin30205/CoherentGS_survey) |
+| GaGS_survey | Private | 0 | 2025-05-15 | 2025-06-18 | C++ | Survey of GaGS (CVPR 2024) | [🔗](https://github.com/kevin30205/GaGS_survey) |
+| Analytic-Splatting_survey | Private | 0 | 2025-05-15 | 2025-06-18 | Python | Survey of Analytic-Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Analytic-Splatting_survey) |
+| OP43DGS_survey | Private | 0 | 2025-05-14 | 2025-06-18 | Cuda | Survey of OP43DGS (ECCV 2024) | [🔗](https://github.com/kevin30205/OP43DGS_survey) |
+| HoGS_survey | Private | 0 | 2025-05-13 | 2025-06-18 | C++ | Survey of HoGS (CVPR 2025) | [🔗](https://github.com/kevin30205/HoGS_survey) |
+| Sparse-Voxels-Rasterizer_survey | Private | 0 | 2025-05-13 | 2025-06-18 | Jupyter Notebook | Survey of Sparse Voxels Rasterizer (CVPR 2025) | [🔗](https://github.com/kevin30205/Sparse-Voxels-Rasterizer_survey) |
+| GES_survey | Private | 0 | 2025-05-14 | 2025-06-18 | Python | Survey of GES (CVPR 2024) | [🔗](https://github.com/kevin30205/GES_survey) |
+| Self-Organizing-Gaussians_survey | Private | 0 | 2025-05-14 | 2025-06-18 | Python | Survey of Self-Organizing Gaussians (ECCV 2024) | [🔗](https://github.com/kevin30205/Self-Organizing-Gaussians_survey) |
+| 3D-Student-Splatting-and-Scooping_survey | Private | 0 | 2025-05-13 | 2025-06-18 | Python | Survey of 3D Student Splatting and Scooping (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-Student-Splatting-and-Scooping_survey) |
+| AtomGS_survey | Private | 0 | 2025-05-12 | 2025-06-18 | Python | Survey of AtomGS (BMVC 2024) | [🔗](https://github.com/kevin30205/AtomGS_survey) |
+| RoGSplat_survey | Private | 0 | 2025-05-09 | 2025-06-18 | Python | Survey of RoGSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/RoGSplat_survey) |
+| Beta-Splatting_survey | Private | 0 | 2025-05-12 | 2025-06-18 | Python | Survey of Beta Splatting (SIGGRAPH 2025) | [🔗](https://github.com/kevin30205/Beta-Splatting_survey) |
+| MonoGS_survey | Private | 0 | 2025-05-11 | 2025-06-18 | Python | Survey of MonoGS (CVPR 2024) | [🔗](https://github.com/kevin30205/MonoGS_survey) |
+| DreamGaussian4D_survey | Private | 0 | 2025-05-11 | 2025-06-18 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
+| HumanNorm_survey | Private | 0 | 2025-05-09 | 2025-06-18 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
+| SGCR_survey | Private | 0 | 2025-05-12 | 2025-06-18 | Python | Survey of SGCR (CVPR 2025) | [🔗](https://github.com/kevin30205/SGCR_survey) |
+| TeT-Splatting_survey | Private | 0 | 2025-05-07 | 2025-06-18 | Jupyter Notebook | Survey of TeT-Splatting (NeurIPS 2024) | [🔗](https://github.com/kevin30205/TeT-Splatting_survey) |
+| IRGS_survey | Private | 0 | 2025-05-07 | 2025-06-18 | HTML | Survey of IRGS (CVPR 2025) | [🔗](https://github.com/kevin30205/IRGS_survey) |
+| SC-GS_survey | Private | 0 | 2025-05-07 | 2025-06-18 | Python | Survey of SC-GS (CVPR 2024) | [🔗](https://github.com/kevin30205/SC-GS_survey) |
+| 4DGaussians_survey | Private | 0 | 2025-05-07 | 2025-06-18 | Jupyter Notebook | Survey of 4DGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/4DGaussians_survey) |
+| Ref-Gaussian_survey | Private | 0 | 2025-05-05 | 2025-06-18 | C++ | Survey of Ref-Gaussian (ICLR 2025) | [🔗](https://github.com/kevin30205/Ref-Gaussian_survey) |
+| RaDe-GS_survey | Private | 0 | 2025-04-30 | 2025-06-18 | C++ | Survey of RaDe-GS (arXiv 2024) | [🔗](https://github.com/kevin30205/RaDe-GS_survey) |
+| GaussianDreamerPro_survey | Private | 0 | 2025-05-06 | 2025-06-18 | C++ | Survey of GaussianDreamerPro (arXiv 2024) | [🔗](https://github.com/kevin30205/GaussianDreamerPro_survey) |
+| 3DGS-DR_survey | Private | 0 | 2025-05-05 | 2025-06-18 | Python | Survey of 3DGS-DR (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/3DGS-DR_survey) |
+| BAGS_survey | Private | 0 | 2025-05-04 | 2025-06-18 | Python | Survey of BAGS (ECCV 2024) | [🔗](https://github.com/kevin30205/BAGS_survey) |
+| DoF-Gaussian_survey | Private | 0 | 2025-05-02 | 2025-06-18 | Python | Survey of DoF-Gaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DoF-Gaussian_survey) |
+| DropGaussian_survey | Private | 0 | 2025-05-04 | 2025-06-18 | Python | Survey of DropGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DropGaussian_survey) |
+| MAtCha-Gaussians_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of MAtCha Gaussians (CVPR 2025) | [🔗](https://github.com/kevin30205/MAtCha-Gaussians_survey) |
+| Gaussian-Frosting_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of Gaussian Frosting (ECCV 2024) | [🔗](https://github.com/kevin30205/Gaussian-Frosting_survey) |
+| BAD-Gaussians_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of BAD-Gaussians (ECCV 2024) | [🔗](https://github.com/kevin30205/BAD-Gaussians_survey) |
+| SplatFormer_survey | Private | 0 | 2025-04-25 | 2025-06-18 | Python | Survey of SplatFormer (ICLR 2025) | [🔗](https://github.com/kevin30205/SplatFormer_survey) |
+| GaussHDR_survey | Private | 0 | 2025-04-25 | 2025-06-18 | Python | Survey of GaussHDR (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussHDR_survey) |
+| NexusGS_survey | Private | 0 | 2025-04-26 | 2025-06-18 | Python | Survey of NexusGS (CVPR 2025) | [🔗](https://github.com/kevin30205/NexusGS_survey) |
+| HDR-GS_survey | Private | 0 | 2025-04-25 | 2025-06-18 | Python | Survey of HDR-GS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/HDR-GS_survey) |
+| r2_gaussian_survey | Private | 0 | 2025-04-23 | 2025-06-18 | Python | Survey of R2 Gaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/r2_gaussian_survey) |
+| 3D-Convex-Splatting_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of 3D Convex Splatting (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-Convex-Splatting_survey) |
+| X-Gaussian_survey | Private | 0 | 2025-04-22 | 2025-06-18 | Python | Survey of X-Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/X-Gaussian_survey) |
+| LucidDreamer_survey | Private | 0 | 2025-04-20 | 2025-06-18 | Python | Survey of LucidDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/LucidDreamer_survey) |
+| FSGS_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of FSGS (ECCV 2024) | [🔗](https://github.com/kevin30205/FSGS_survey) |
+| Ref-GS_survey | Private | 0 | 2025-04-22 | 2025-06-18 | Python | Survey of Ref-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Ref-GS_survey) |
+| SuGaR_survey | Private | 0 | 2025-04-22 | 2025-06-18 | C++ | Survey of SuGaR (CVPR 2024) | [🔗](https://github.com/kevin30205/SuGaR_survey) |
+| Vol3DGS_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of Vol3DGS (CVPR 2025) | [🔗](https://github.com/kevin30205/Vol3DGS_survey) |
+| GFSGS_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of GFSGS (CVPR 2025) | [🔗](https://github.com/kevin30205/GFSGS_survey) |
+| MaskGaussian_survey | Private | 0 | 2025-04-21 | 2025-06-18 | C++ | Survey of MaskGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/MaskGaussian_survey) |
+| DNGaussian_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of DNGaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/DNGaussian_survey) |
+| DropoutGS_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of DropoutGS (CVPR 2025) | [🔗](https://github.com/kevin30205/DropoutGS_survey) |
+| GART_survey | Private | 0 | 2025-04-17 | 2025-06-18 | Python | Survey of GART (CVPR 2024) | [🔗](https://github.com/kevin30205/GART_survey) |
+| EnvGS_survey | Private | 0 | 2025-04-18 | 2025-06-18 | Python | Survey of EnvGS (CVPR 2025) | [🔗](https://github.com/kevin30205/EnvGS_survey) |
+| AnimatableGaussians_survey | Private | 0 | 2025-04-19 | 2025-06-18 | Python | Survey of Animatable Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/AnimatableGaussians_survey) |
+| GaussianDreamer_survey | Private | 0 | 2025-04-18 | 2025-06-18 | Python | Survey of GaussianDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianDreamer_survey) |
+| GSGEN_survey | Private | 0 | 2025-04-14 | 2025-06-18 | Python | Survey of GSGEN (CVPR 2024) | [🔗](https://github.com/kevin30205/GSGEN_survey) |
+| DreamGaussian_survey | Private | 0 | 2025-04-13 | 2025-06-18 | Python | Survey of DreamGaussian (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamGaussian_survey) |
+| SpacetimeGaussians_survey | Private | 0 | 2025-04-13 | 2025-06-18 | Python | Survey of SpacetimeGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/SpacetimeGaussians_survey) |
+| ContextGS_survey | Private | 0 | 2025-04-09 | 2025-06-18 | Python | Survey of ContextGS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/ContextGS_survey) |
+| Mini-Splatting_survey | Private | 0 | 2025-04-11 | 2025-06-18 | Python | Survey of Mini-Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Mini-Splatting_survey) |
+| GSDF_survey | Private | 0 | 2025-04-10 | 2025-06-18 | Python | Survey of GSDF (NeurIPS 2024) | [🔗](https://github.com/kevin30205/GSDF_survey) |
+| Grendel-GS_survey | Private | 0 | 2025-04-12 | 2025-06-18 | Python | Survey of Grendel-GS (ICLR 2025) | [🔗](https://github.com/kevin30205/Grendel-GS_survey) |
+| Deformable-3D-Gaussians_survey | Private | 0 | 2025-04-12 | 2025-06-18 | Python | Survey of Deformable 3D Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/Deformable-3D-Gaussians_survey) |
+| FCGS_survey | Private | 0 | 2025-04-12 | 2025-06-18 | C++ | Survey of FCGS (ICLR 2025) | [🔗](https://github.com/kevin30205/FCGS_survey) |
+| EAGLES_survey | Private | 0 | 2025-04-11 | 2025-06-18 | C++ | Survey of EAGLES (ECCV 2024) | [🔗](https://github.com/kevin30205/EAGLES_survey) |
+| 3DGS-MCMC_survey | Private | 0 | 2025-04-08 | 2025-06-18 | Python | Survey of 3DGS-MCMC (NeurIPS 2024) | [🔗](https://github.com/kevin30205/3DGS-MCMC_survey) |
+| PCGS_survey | Private | 0 | 2025-04-10 | 2025-06-18 | C++ | Survey of PCGS (arXiv 2025) | [🔗](https://github.com/kevin30205/PCGS_survey) |
+| HAC-plus_survey | Private | 0 | 2025-04-09 | 2025-06-18 | C++ | Survey of HAC++ (arXiv 2025) | [🔗](https://github.com/kevin30205/HAC-plus_survey) |
+| C3DGS_survey | Private | 0 | 2025-04-11 | 2025-06-18 | Python | Survey of C3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/C3DGS_survey) |
+| Octree-GS_survey | Private | 0 | 2025-04-09 | 2025-06-18 | C++ | Survey of Octree-GS (arXiv 2024) | [🔗](https://github.com/kevin30205/Octree-GS_survey) |
+| Scaffold-GS_survey | Private | 0 | 2025-04-09 | 2025-06-18 | C++ | Survey of Scaffold-GS (CVPR 2024) | [🔗](https://github.com/kevin30205/Scaffold-GS_survey) |
+| Compact-3DGS_survey | Private | 0 | 2025-04-10 | 2025-06-18 | Python | Survey of Compact-3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/Compact-3DGS_survey) |
+| LightGaussian_survey | Private | 0 | 2025-04-10 | 2025-06-18 | Python | Survey of LightGaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/LightGaussian_survey) |
+| HAC_survey | Private | 0 | 2025-04-09 | 2025-06-18 | Python | Survey of HAC (ECCV 2024) | [🔗](https://github.com/kevin30205/HAC_survey) |
+| InstantSplat_survey | Private | 0 | 2025-04-08 | 2025-06-18 | Python | Survey of InstantSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/InstantSplat_survey) |
+| 3D-HGS_survey | Private | 0 | 2025-04-08 | 2025-06-18 | Python | Survey of 3D-HGS (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-HGS_survey) |
+| 4D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of 4D Gaussian Splatting (ICLR 2024) | [🔗](https://github.com/kevin30205/4D-Gaussian-Splatting_survey) |
+| 3DGS-Avatar_survey | Private | 0 | 2025-04-04 | 2025-06-18 | Python | Survey of 3DGS-Avatar (CVPR 2024) | [🔗](https://github.com/kevin30205/3DGS-Avatar_survey) |
+| Gaussian-Opacity-Fields_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of Gaussian Opacity Fields (GOF) (SIGGRAPH ASIA 2024) | [🔗](https://github.com/kevin30205/Gaussian-Opacity-Fields_survey) |
+| GPS-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-18 | C++ | Survey of GPS-Gaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/GPS-Gaussian_survey) |
+| GoMAvatar_survey | Private | 0 | 2025-03-31 | 2025-06-18 | Python | Survey of GoMAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/GoMAvatar_survey) |
+| Mani-GS_survey | Private | 0 | 2025-04-03 | 2025-06-18 | Python | Survey of Mani-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Mani-GS_survey) |
+| 2D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of 2D Gaussian Splatting (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/2D-Gaussian-Splatting_survey) |
+| Relightable-3D-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-18 | Python | Survey of Relightable 3D Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/Relightable-3D-Gaussian_survey) |
+| Mip-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of Mip-Splatting (CVPR 2024) | [🔗](https://github.com/kevin30205/Mip-Splatting_survey) |
+| 3D-Gaussian-Splatting_survey | Private | 0 | 2025-03-31 | 2025-06-18 | Python | Survey of 3D Gaussian Splatting (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/3D-Gaussian-Splatting_survey) |
+| LangSplat_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of LangSplat (CVPR 2024) | [🔗](https://github.com/kevin30205/LangSplat_survey) |
+| Deblurring-3D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of Deblurring 3D Gaussian Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Deblurring-3D-Gaussian-Splatting_survey) |
+| SplattingAvatar_survey | Private | 0 | 2025-03-30 | 2025-06-18 | Python | Survey of SplattingAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/SplattingAvatar_survey) |
+| GaussianAvatar_survey | Private | 0 | 2025-03-31 | 2025-06-18 | Python | Survey of GaussianAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianAvatar_survey) |
+| HUGS_survey | Private | 0 | 2025-03-30 | 2025-06-18 | Python | Survey of HUGS (CVPR 2024) | [🔗](https://github.com/kevin30205/HUGS_survey) |
+| OccFusion_survey | Private | 0 | 2025-03-28 | 2025-06-18 | Python | Survey of OccFusion (NeurIPS 2024) | [🔗](https://github.com/kevin30205/OccFusion_survey) |
+| GauHuman_survey | Private | 0 | 2025-03-28 | 2025-06-18 | Python | Survey of GauHuman (CVPR 2024) | [🔗](https://github.com/kevin30205/GauHuman_survey) |
 | awesome-3D-gaussian-splatting_tool | Private | 0 | 2025-06-04 | 2025-06-04 | HTML | The list of papers and resources focused on 3D Gaussian Splatting. | [🔗](https://github.com/kevin30205/awesome-3D-gaussian-splatting_tool) |
-| GS-3_survey | Private | 0 | 2025-05-30 | 2025-06-02 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
-| GS-IR_survey | Private | 0 | 2025-05-30 | 2025-06-02 | C++ | Survey of GS-IR (arXiv 2023) | [🔗](https://github.com/kevin30205/GS-IR_survey) |
-| GI-GS_survey | Private | 0 | 2025-05-30 | 2025-06-01 | C++ | Survey of GI-GS (ICLR 2025) | [🔗](https://github.com/kevin30205/GI-GS_survey) |
-| GaussianIP_survey | Private | 0 | 2025-05-29 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
-| DreamGaussian4D_survey | Private | 0 | 2025-05-11 | 2025-06-01 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
-| HumanNorm_survey | Private | 0 | 2025-05-09 | 2025-06-01 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
-| GaussianDreamerPro_survey | Private | 0 | 2025-05-06 | 2025-06-01 | C++ | Survey of GaussianDreamerPro (arXiv 2024) | [🔗](https://github.com/kevin30205/GaussianDreamerPro_survey) |
-| LucidDreamer_survey | Private | 0 | 2025-04-20 | 2025-06-01 | Python | Survey of LucidDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/LucidDreamer_survey) |
-| GaussianDreamer_survey | Private | 0 | 2025-04-18 | 2025-06-01 | Python | Survey of GaussianDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianDreamer_survey) |
-| GSGEN_survey | Private | 0 | 2025-04-14 | 2025-06-01 | Python | Survey of GSGEN (CVPR 2024) | [🔗](https://github.com/kevin30205/GSGEN_survey) |
-| DreamGaussian_survey | Private | 0 | 2025-04-13 | 2025-06-01 | Python | Survey of DreamGaussian (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamGaussian_survey) |
-| Relightable-3D-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-01 | Python | Survey of Relightable 3D Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/Relightable-3D-Gaussian_survey) |
-| GauHuman_survey | Private | 0 | 2025-03-28 | 2025-06-01 | Python | Survey of GauHuman (CVPR 2024) | [🔗](https://github.com/kevin30205/GauHuman_survey) |
-| OccFusion_survey | Private | 0 | 2025-03-28 | 2025-06-01 | Python | Survey of OccFusion (NeurIPS 2024) | [🔗](https://github.com/kevin30205/OccFusion_survey) |
-| HUGS_survey | Private | 0 | 2025-03-30 | 2025-06-01 | Python | Survey of HUGS (CVPR 2024) | [🔗](https://github.com/kevin30205/HUGS_survey) |
-| GaussianAvatar_survey | Private | 0 | 2025-03-31 | 2025-06-01 | Python | Survey of GaussianAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianAvatar_survey) |
-| SplattingAvatar_survey | Private | 0 | 2025-03-30 | 2025-06-01 | Python | Survey of SplattingAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/SplattingAvatar_survey) |
-| Deblurring-3D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of Deblurring 3D Gaussian Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Deblurring-3D-Gaussian-Splatting_survey) |
-| LangSplat_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of LangSplat (CVPR 2024) | [🔗](https://github.com/kevin30205/LangSplat_survey) |
-| 3D-Gaussian-Splatting_survey | Private | 0 | 2025-03-31 | 2025-06-01 | Python | Survey of 3D Gaussian Splatting (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/3D-Gaussian-Splatting_survey) |
-| Mip-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of Mip-Splatting (CVPR 2024) | [🔗](https://github.com/kevin30205/Mip-Splatting_survey) |
-| 2D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of 2D Gaussian Splatting (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/2D-Gaussian-Splatting_survey) |
-| Mani-GS_survey | Private | 0 | 2025-04-03 | 2025-06-01 | Python | Survey of Mani-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Mani-GS_survey) |
-| GoMAvatar_survey | Private | 0 | 2025-03-31 | 2025-06-01 | Python | Survey of GoMAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/GoMAvatar_survey) |
-| GPS-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-01 | C++ | Survey of GPS-Gaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/GPS-Gaussian_survey) |
-| Gaussian-Opacity-Fields_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of Gaussian Opacity Fields (GOF) (SIGGRAPH ASIA 2024) | [🔗](https://github.com/kevin30205/Gaussian-Opacity-Fields_survey) |
-| 3DGS-Avatar_survey | Private | 0 | 2025-04-04 | 2025-06-01 | Python | Survey of 3DGS-Avatar (CVPR 2024) | [🔗](https://github.com/kevin30205/3DGS-Avatar_survey) |
-| 4D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of 4D Gaussian Splatting (ICLR 2024) | [🔗](https://github.com/kevin30205/4D-Gaussian-Splatting_survey) |
-| 3D-HGS_survey | Private | 0 | 2025-04-08 | 2025-06-01 | Python | Survey of 3D-HGS (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-HGS_survey) |
-| InstantSplat_survey | Private | 0 | 2025-04-08 | 2025-06-01 | Python | Survey of InstantSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/InstantSplat_survey) |
-| HAC_survey | Private | 0 | 2025-04-09 | 2025-06-01 | Python | Survey of HAC (ECCV 2024) | [🔗](https://github.com/kevin30205/HAC_survey) |
-| LightGaussian_survey | Private | 0 | 2025-04-10 | 2025-06-01 | Python | Survey of LightGaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/LightGaussian_survey) |
-| Compact-3DGS_survey | Private | 0 | 2025-04-10 | 2025-06-01 | Python | Survey of Compact-3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/Compact-3DGS_survey) |
-| C3DGS_survey | Private | 0 | 2025-04-11 | 2025-06-01 | Python | Survey of C3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/C3DGS_survey) |
-| Scaffold-GS_survey | Private | 0 | 2025-04-09 | 2025-06-01 | C++ | Survey of Scaffold-GS (CVPR 2024) | [🔗](https://github.com/kevin30205/Scaffold-GS_survey) |
-| Octree-GS_survey | Private | 0 | 2025-04-09 | 2025-06-01 | C++ | Survey of Octree-GS (arXiv 2024) | [🔗](https://github.com/kevin30205/Octree-GS_survey) |
-| HAC-plus_survey | Private | 0 | 2025-04-09 | 2025-06-01 | C++ | Survey of HAC++ (arXiv 2025) | [🔗](https://github.com/kevin30205/HAC-plus_survey) |
-| PCGS_survey | Private | 0 | 2025-04-10 | 2025-06-01 | C++ | Survey of PCGS (arXiv 2025) | [🔗](https://github.com/kevin30205/PCGS_survey) |
-| 3DGS-MCMC_survey | Private | 0 | 2025-04-08 | 2025-06-01 | Python | Survey of 3DGS-MCMC (NeurIPS 2024) | [🔗](https://github.com/kevin30205/3DGS-MCMC_survey) |
-| EAGLES_survey | Private | 0 | 2025-04-11 | 2025-06-01 | C++ | Survey of EAGLES (ECCV 2024) | [🔗](https://github.com/kevin30205/EAGLES_survey) |
-| FCGS_survey | Private | 0 | 2025-04-12 | 2025-06-01 | C++ | Survey of FCGS (ICLR 2025) | [🔗](https://github.com/kevin30205/FCGS_survey) |
-| Deformable-3D-Gaussians_survey | Private | 0 | 2025-04-12 | 2025-06-01 | Python | Survey of Deformable 3D Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/Deformable-3D-Gaussians_survey) |
-| Grendel-GS_survey | Private | 0 | 2025-04-12 | 2025-06-01 | Python | Survey of Grendel-GS (ICLR 2025) | [🔗](https://github.com/kevin30205/Grendel-GS_survey) |
-| GSDF_survey | Private | 0 | 2025-04-10 | 2025-06-01 | Python | Survey of GSDF (NeurIPS 2024) | [🔗](https://github.com/kevin30205/GSDF_survey) |
-| Mini-Splatting_survey | Private | 0 | 2025-04-11 | 2025-06-01 | Python | Survey of Mini-Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Mini-Splatting_survey) |
-| SpacetimeGaussians_survey | Private | 0 | 2025-04-13 | 2025-06-01 | Python | Survey of SpacetimeGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/SpacetimeGaussians_survey) |
-| ContextGS_survey | Private | 0 | 2025-04-09 | 2025-06-01 | Python | Survey of ContextGS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/ContextGS_survey) |
-| AnimatableGaussians_survey | Private | 0 | 2025-04-19 | 2025-06-01 | Python | Survey of Animatable Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/AnimatableGaussians_survey) |
-| EnvGS_survey | Private | 0 | 2025-04-18 | 2025-06-01 | Python | Survey of EnvGS (CVPR 2025) | [🔗](https://github.com/kevin30205/EnvGS_survey) |
-| GART_survey | Private | 0 | 2025-04-17 | 2025-06-01 | Python | Survey of GART (CVPR 2024) | [🔗](https://github.com/kevin30205/GART_survey) |
-| DropoutGS_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of DropoutGS (CVPR 2025) | [🔗](https://github.com/kevin30205/DropoutGS_survey) |
-| DNGaussian_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of DNGaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/DNGaussian_survey) |
-| MaskGaussian_survey | Private | 0 | 2025-04-21 | 2025-06-01 | C++ | Survey of MaskGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/MaskGaussian_survey) |
-| GFSGS_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of GFSGS (CVPR 2025) | [🔗](https://github.com/kevin30205/GFSGS_survey) |
-| Vol3DGS_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of Vol3DGS (CVPR 2025) | [🔗](https://github.com/kevin30205/Vol3DGS_survey) |
-| FSGS_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of FSGS (ECCV 2024) | [🔗](https://github.com/kevin30205/FSGS_survey) |
-| SuGaR_survey | Private | 0 | 2025-04-22 | 2025-06-01 | C++ | Survey of SuGaR (CVPR 2024) | [🔗](https://github.com/kevin30205/SuGaR_survey) |
-| Ref-GS_survey | Private | 0 | 2025-04-22 | 2025-06-01 | Python | Survey of Ref-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Ref-GS_survey) |
-| X-Gaussian_survey | Private | 0 | 2025-04-22 | 2025-06-01 | Python | Survey of X-Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/X-Gaussian_survey) |
-| 3D-Convex-Splatting_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of 3D Convex Splatting (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-Convex-Splatting_survey) |
-| r2_gaussian_survey | Private | 0 | 2025-04-23 | 2025-06-01 | Python | Survey of R2 Gaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/r2_gaussian_survey) |
-| HDR-GS_survey | Private | 0 | 2025-04-25 | 2025-06-01 | Python | Survey of HDR-GS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/HDR-GS_survey) |
-| NexusGS_survey | Private | 0 | 2025-04-26 | 2025-06-01 | Python | Survey of NexusGS (CVPR 2025) | [🔗](https://github.com/kevin30205/NexusGS_survey) |
-| GaussHDR_survey | Private | 0 | 2025-04-25 | 2025-06-01 | Python | Survey of GaussHDR (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussHDR_survey) |
-| SplatFormer_survey | Private | 0 | 2025-04-25 | 2025-06-01 | Python | Survey of SplatFormer (ICLR 2025) | [🔗](https://github.com/kevin30205/SplatFormer_survey) |
-| BAD-Gaussians_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of BAD-Gaussians (ECCV 2024) | [🔗](https://github.com/kevin30205/BAD-Gaussians_survey) |
-| Gaussian-Frosting_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of Gaussian Frosting (ECCV 2024) | [🔗](https://github.com/kevin30205/Gaussian-Frosting_survey) |
-| MAtCha-Gaussians_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of MAtCha Gaussians (CVPR 2025) | [🔗](https://github.com/kevin30205/MAtCha-Gaussians_survey) |
-| DropGaussian_survey | Private | 0 | 2025-05-04 | 2025-06-01 | Python | Survey of DropGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DropGaussian_survey) |
-| DoF-Gaussian_survey | Private | 0 | 2025-05-02 | 2025-06-01 | Python | Survey of DoF-Gaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DoF-Gaussian_survey) |
-| BAGS_survey | Private | 0 | 2025-05-04 | 2025-06-01 | Python | Survey of BAGS (ECCV 2024) | [🔗](https://github.com/kevin30205/BAGS_survey) |
-| 3DGS-DR_survey | Private | 0 | 2025-05-05 | 2025-06-01 | Python | Survey of 3DGS-DR (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/3DGS-DR_survey) |
-| RaDe-GS_survey | Private | 0 | 2025-04-30 | 2025-06-01 | C++ | Survey of RaDe-GS (arXiv 2024) | [🔗](https://github.com/kevin30205/RaDe-GS_survey) |
-| Ref-Gaussian_survey | Private | 0 | 2025-05-05 | 2025-06-01 | C++ | Survey of Ref-Gaussian (ICLR 2025) | [🔗](https://github.com/kevin30205/Ref-Gaussian_survey) |
-| 4DGaussians_survey | Private | 0 | 2025-05-07 | 2025-06-01 | Jupyter Notebook | Survey of 4DGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/4DGaussians_survey) |
-| SC-GS_survey | Private | 0 | 2025-05-07 | 2025-06-01 | Python | Survey of SC-GS (CVPR 2024) | [🔗](https://github.com/kevin30205/SC-GS_survey) |
-| IRGS_survey | Private | 0 | 2025-05-07 | 2025-06-01 | HTML | Survey of IRGS (CVPR 2025) | [🔗](https://github.com/kevin30205/IRGS_survey) |
-| TeT-Splatting_survey | Private | 0 | 2025-05-07 | 2025-06-01 | Jupyter Notebook | Survey of TeT-Splatting (NeurIPS 2024) | [🔗](https://github.com/kevin30205/TeT-Splatting_survey) |
-| SGCR_survey | Private | 0 | 2025-05-12 | 2025-06-01 | Python | Survey of SGCR (CVPR 2025) | [🔗](https://github.com/kevin30205/SGCR_survey) |
-| MonoGS_survey | Private | 0 | 2025-05-11 | 2025-06-01 | Python | Survey of MonoGS (CVPR 2024) | [🔗](https://github.com/kevin30205/MonoGS_survey) |
-| Beta-Splatting_survey | Private | 0 | 2025-05-12 | 2025-06-01 | Python | Survey of Beta Splatting (SIGGRAPH 2025) | [🔗](https://github.com/kevin30205/Beta-Splatting_survey) |
-| AtomGS_survey | Private | 0 | 2025-05-12 | 2025-06-01 | Python | Survey of AtomGS (BMVC 2024) | [🔗](https://github.com/kevin30205/AtomGS_survey) |
-| RoGSplat_survey | Private | 0 | 2025-05-09 | 2025-06-01 | Python | Survey of RoGSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/RoGSplat_survey) |
-| 3D-Student-Splatting-and-Scooping_survey | Private | 0 | 2025-05-13 | 2025-06-01 | Python | Survey of 3D Student Splatting and Scooping (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-Student-Splatting-and-Scooping_survey) |
-| Self-Organizing-Gaussians_survey | Private | 0 | 2025-05-14 | 2025-06-01 | Python | Survey of Self-Organizing Gaussians (ECCV 2024) | [🔗](https://github.com/kevin30205/Self-Organizing-Gaussians_survey) |
-| GES_survey | Private | 0 | 2025-05-14 | 2025-06-01 | Python | Survey of GES (CVPR 2024) | [🔗](https://github.com/kevin30205/GES_survey) |
-| Sparse-Voxels-Rasterizer_survey | Private | 0 | 2025-05-13 | 2025-06-01 | Jupyter Notebook | Survey of Sparse Voxels Rasterizer (CVPR 2025) | [🔗](https://github.com/kevin30205/Sparse-Voxels-Rasterizer_survey) |
-| HoGS_survey | Private | 0 | 2025-05-13 | 2025-06-01 | C++ | Survey of HoGS (CVPR 2025) | [🔗](https://github.com/kevin30205/HoGS_survey) |
-| OP43DGS_survey | Private | 0 | 2025-05-14 | 2025-06-01 | Cuda | Survey of OP43DGS (ECCV 2024) | [🔗](https://github.com/kevin30205/OP43DGS_survey) |
-| Analytic-Splatting_survey | Private | 0 | 2025-05-15 | 2025-06-01 | Python | Survey of Analytic-Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Analytic-Splatting_survey) |
-| GaGS_survey | Private | 0 | 2025-05-15 | 2025-06-01 | C++ | Survey of GaGS (CVPR 2024) | [🔗](https://github.com/kevin30205/GaGS_survey) |
-| CoherentGS_survey | Private | 0 | 2025-05-14 | 2025-06-01 | Python | Survey of CoherentGS (ECCV 2024) | [🔗](https://github.com/kevin30205/CoherentGS_survey) |
-| SteepGS_survey | Private | 0 | 2025-05-19 | 2025-06-01 | Python | Survey of SteepGS (CVPR 2025) | [🔗](https://github.com/kevin30205/SteepGS_survey) |
-| Taming-3DGS_survey | Private | 0 | 2025-05-18 | 2025-06-01 | Python | Survey of Taming 3DGS (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/Taming-3DGS_survey) |
-| Gaussian-Splatting-on-the-Move_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of Gaussian Splatting on the Move (ECCV 2024) | [🔗](https://github.com/kevin30205/Gaussian-Splatting-on-the-Move_survey) |
-| DRGS_survey | Private | 0 | 2025-05-19 | 2025-06-01 | Python | Survey of DRGS (CVPRW 2024) | [🔗](https://github.com/kevin30205/DRGS_survey) |
-| BBSplat_survey | Private | 0 | 2025-05-15 | 2025-06-01 | Python | Survey of BBSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/BBSplat_survey) |
-| hierarchical-3d-gaussians_survey | Private | 0 | 2025-05-21 | 2025-06-01 | Python | Survey of Hierarchical 3D Gaussians (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/hierarchical-3d-gaussians_survey) |
-| ControlGS_survey | Private | 0 | 2025-05-29 | 2025-06-01 | C++ | Survey of ControlGS (arXiv 2025) | [🔗](https://github.com/kevin30205/ControlGS_survey) |
-| Deformable-Radial-Kernel-Splatting_survey | Private | 0 | 2025-05-21 | 2025-06-01 | Python | Survey of Deformable Radial Kernel Splatting (CVPR 2025) | [🔗](https://github.com/kevin30205/Deformable-Radial-Kernel-Splatting_survey) |
-| HAHA_survey | Private | 0 | 2025-05-21 | 2025-06-01 | Python | Survey of HAHA (ACCV 2024) | [🔗](https://github.com/kevin30205/HAHA_survey) |
-| SparseGS_survey | Private | 0 | 2025-05-19 | 2025-06-01 | Python | Survey of SparseGS (3DV 2025) | [🔗](https://github.com/kevin30205/SparseGS_survey) |
-| CoR-GS_survey | Private | 0 | 2025-05-29 | 2025-06-01 | Python | Survey of CoR-GS (ECCV 2024) | [🔗](https://github.com/kevin30205/CoR-GS_survey) |
-| AdR-Gaussian_survey | Private | 0 | 2025-05-30 | 2025-06-01 | Python | Survey of AdR-Gaussian (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/AdR-Gaussian_survey) |
-| GaussianPrediction_survey | Private | 0 | 2025-05-30 | 2025-06-01 | HTML | Survey of GaussianPrediction (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/GaussianPrediction_survey) |
 
 ### generalization
 
@@ -468,11 +468,11 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| SHERF_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of SHERF (ICCV 2023) | [🔗](https://github.com/kevin30205/SHERF_survey) |
-| TransHuman_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of TransHuman (ICCV 2023) | [🔗](https://github.com/kevin30205/TransHuman_survey) |
-| GPS-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-01 | C++ | Survey of GPS-Gaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/GPS-Gaussian_survey) |
-| Neural-Human-Performer_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of Neural Human Performer (NeurIPS 2021) | [🔗](https://github.com/kevin30205/Neural-Human-Performer_survey) |
-| RoGSplat_survey | Private | 0 | 2025-05-09 | 2025-06-01 | Python | Survey of RoGSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/RoGSplat_survey) |
+| RoGSplat_survey | Private | 0 | 2025-05-09 | 2025-06-18 | Python | Survey of RoGSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/RoGSplat_survey) |
+| Neural-Human-Performer_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of Neural Human Performer (NeurIPS 2021) | [🔗](https://github.com/kevin30205/Neural-Human-Performer_survey) |
+| GPS-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-18 | C++ | Survey of GPS-Gaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/GPS-Gaussian_survey) |
+| TransHuman_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of TransHuman (ICCV 2023) | [🔗](https://github.com/kevin30205/TransHuman_survey) |
+| SHERF_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of SHERF (ICCV 2023) | [🔗](https://github.com/kevin30205/SHERF_survey) |
 
 ### generative-ai
 
@@ -480,9 +480,9 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| FramePack_survey | Private | 0 | 2025-04-24 | 2025-06-18 | Python | Survey of FramePack (arXiv 2025) | [🔗](https://github.com/kevin30205/FramePack_survey) |
 | Wan2.1_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Wan2.1 | [🔗](https://github.com/kevin30205/Wan2.1_survey) |
 | Gemini_API_Guideline | Private | 0 | 2025-01-28 | 2025-06-01 | Unknown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
-| FramePack_survey | Private | 0 | 2025-04-24 | 2025-06-01 | Python | Survey of FramePack (arXiv 2025) | [🔗](https://github.com/kevin30205/FramePack_survey) |
 
 ### nerf
 
@@ -490,67 +490,67 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| LAENeRF_survey | Private | 0 | 2025-06-14 | 2025-06-15 | HTML | Survey of LAENeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/LAENeRF_survey) |
-| ActiveNeRF_survey | Private | 0 | 2025-06-10 | 2025-06-11 | Python | Survey of  ActiveNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/ActiveNeRF_survey) |
-| NRHints_survey | Private | 0 | 2025-05-30 | 2025-06-06 | Python | Survey of NRHints (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/NRHints_survey) |
-| Stable-Dreamfusion_survey | Private | 0 | 2025-04-24 | 2025-06-01 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
-| Relighting4D_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
-| TensoRF_survey | Private | 0 | 2023-08-16 | 2025-06-01 | Python | Survey of TensoRF (ECCV 2022) | [🔗](https://github.com/kevin30205/TensoRF_survey) |
-| HexPlane_survey | Private | 0 | 2023-08-18 | 2025-06-01 | Python | Survey of HexPlane (CVPR 2023) | [🔗](https://github.com/kevin30205/HexPlane_survey) |
-| Neuman_survey | Private | 0 | 2023-08-13 | 2025-06-01 | Python | Survey of Neuman (ECCV 2022) | [🔗](https://github.com/kevin30205/Neuman_survey) |
-| HumanNeRF_survey | Private | 0 | 2023-08-27 | 2025-06-01 | Python | Survey of HumanNeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/HumanNeRF_survey) |
-| MonoHuman_survey | Private | 0 | 2023-08-27 | 2025-06-01 | Python | Survey of MonoHuman (CVPR 2023) | [🔗](https://github.com/kevin30205/MonoHuman_survey) |
-| NoPe-NeRF_survey | Private | 0 | 2023-08-29 | 2025-06-01 | Python | Survey of NoPe-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/NoPe-NeRF_survey) |
-| EfficientNeRF_survey | Private | 0 | 2023-08-30 | 2025-06-01 | Python | Survey of EfficientNeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/EfficientNeRF_survey) |
-| SinNeRF_survey | Private | 0 | 2023-08-30 | 2025-06-01 | Python | Survey of SinNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/SinNeRF_survey) |
-| ABLE-NeRF_survey | Private | 0 | 2023-08-29 | 2025-06-01 | Python | Survey of ABLE-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/ABLE-NeRF_survey) |
-| DVGOv2_survey | Private | 0 | 2023-09-03 | 2025-06-01 | Python | Survey of DVGO_v2 (CVPR 2022) | [🔗](https://github.com/kevin30205/DVGOv2_survey) |
-| DVGOv1_survey | Private | 0 | 2023-09-04 | 2025-06-01 | Python | Survey of DVGO_v1 (CVPR 2022) | [🔗](https://github.com/kevin30205/DVGOv1_survey) |
-| Ref-NeRF_pl_survey | Private | 0 | 2023-09-12 | 2025-06-01 | Python | Survey of Ref-NeRF (CVPR 2022) [PyTorch Lightning Version] | [🔗](https://github.com/kevin30205/Ref-NeRF_pl_survey) |
-| Instant-NGP_survey | Private | 0 | 2023-09-14 | 2025-06-01 | Python | Survey of Instant-NGP (SIGGRAPH 2022) [Pytorch Version] | [🔗](https://github.com/kevin30205/Instant-NGP_survey) |
-| Plenoxels_survey | Private | 0 | 2023-09-14 | 2025-06-01 | C++ | Survey of Plenoxels (CVPR 2022) | [🔗](https://github.com/kevin30205/Plenoxels_survey) |
-| Zip-NeRF_survey | Private | 0 | 2023-09-15 | 2025-06-01 | Python | Survey of Zip-NeRF (ICCV 2023) [PyTorch Version] | [🔗](https://github.com/kevin30205/Zip-NeRF_survey) |
-| NeRF_PyTorch_survey | Private | 0 | 2023-08-28 | 2025-06-01 | Python | Survey of NeRF (ECCV 2020) [Pytorch Version] | [🔗](https://github.com/kevin30205/NeRF_PyTorch_survey) |
-| mipNeRF_PyTorch_survey | Private | 0 | 2023-08-13 | 2025-06-01 | Python | Survey of mipNeRF (ICCV 2021) [Pytorch Version] | [🔗](https://github.com/kevin30205/mipNeRF_PyTorch_survey) |
-| K-Planes_survey | Private | 0 | 2023-08-13 | 2025-06-01 | Python | Survey of K-Planes (CVPR 2023) | [🔗](https://github.com/kevin30205/K-Planes_survey) |
-| TILTED_survey | Private | 0 | 2023-09-25 | 2025-06-01 | Python | Survey of TILTED (ICCV 2023) | [🔗](https://github.com/kevin30205/TILTED_survey) |
-| NVR-in-Minutes_survey | Private | 0 | 2023-09-26 | 2025-06-01 | Python | Survey of NVR-in-Minutes (CVPR 2023) | [🔗](https://github.com/kevin30205/NVR-in-Minutes_survey) |
-| Vid2Avatar_survey | Private | 0 | 2023-09-26 | 2025-06-01 | Python | Survey of Vid2Avatar (CVPR 2023) | [🔗](https://github.com/kevin30205/Vid2Avatar_survey) |
-| Tri-MipRF_survey | Private | 0 | 2023-10-07 | 2025-06-01 | Python | Survey of Tri-MipRF (ICCV 2023) | [🔗](https://github.com/kevin30205/Tri-MipRF_survey) |
-| Strivec_survey | Private | 0 | 2023-11-08 | 2025-06-01 | Python | Survey of Strivec (ICCV 2023) | [🔗](https://github.com/kevin30205/Strivec_survey) |
-| SHERF_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of SHERF (ICCV 2023) | [🔗](https://github.com/kevin30205/SHERF_survey) |
-| NeRFplusplus_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of NeRF++ (arXiv 2020) | [🔗](https://github.com/kevin30205/NeRFplusplus_survey) |
-| HyperNeRF_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of HyperNeRF (SIGGRAPH Asia 2021) | [🔗](https://github.com/kevin30205/HyperNeRF_survey) |
-| TransHuman_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of TransHuman (ICCV 2023) | [🔗](https://github.com/kevin30205/TransHuman_survey) |
-| Ref-NeuS_survey | Private | 0 | 2024-01-10 | 2025-06-01 | Python | Survey of Ref-NeuS (ICCV 2023) | [🔗](https://github.com/kevin30205/Ref-NeuS_survey) |
-| Deblur-NeRF_survey | Private | 0 | 2024-01-10 | 2025-06-01 | Python | Survey of Deblur-NeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/Deblur-NeRF_survey) |
-| LocalRF_survey | Private | 0 | 2024-01-10 | 2025-06-01 | Python | Survey of LocalRF (CVPR 2023) | [🔗](https://github.com/kevin30205/LocalRF_survey) |
-| OccNeRF_survey | Private | 0 | 2024-01-30 | 2025-06-01 | Python | Survey of OccNeRF (ICCV 2023) | [🔗](https://github.com/kevin30205/OccNeRF_survey) |
-| ENeRF_survey | Private | 0 | 2024-02-17 | 2025-06-01 | Python | Survey of ENeRF (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/ENeRF_survey) |
-| BAD-NeRF_survey | Private | 0 | 2024-03-13 | 2025-06-01 | Python | Survey of BAD-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/BAD-NeRF_survey) |
-| NeuS_survey | Private | 0 | 2024-03-13 | 2025-06-01 | Python | Survey of NeuS (NeurIPS 2021) | [🔗](https://github.com/kevin30205/NeuS_survey) |
-| NeRFReN_survey | Private | 0 | 2024-03-23 | 2025-06-01 | Python | Survey of NeRFReN (CVPR 2022) | [🔗](https://github.com/kevin30205/NeRFReN_survey) |
-| Tensor4D_survey | Private | 0 | 2024-03-23 | 2025-06-01 | Python | Survey of Tensor4D (CVPR 2023) | [🔗](https://github.com/kevin30205/Tensor4D_survey) |
-| DynamicNeRF_survey | Private | 0 | 2024-04-12 | 2025-06-01 | Python | Survey of DynamicNeRF (ICCV 2021) | [🔗](https://github.com/kevin30205/DynamicNeRF_survey) |
-| RoDynRF_survey | Private | 0 | 2024-04-12 | 2025-06-01 | Python | Survey of RoDynRF (CVPR 2023) | [🔗](https://github.com/kevin30205/RoDynRF_survey) |
-| Eikonal-Fields_survey | Private | 0 | 2024-04-17 | 2025-06-01 | Python | Survey of Eikonal Fields (SIGGRAPH 2022) | [🔗](https://github.com/kevin30205/Eikonal-Fields_survey) |
-| REF_square_NeRF_survey | Private | 0 | 2024-04-17 | 2025-06-01 | Python | Survey of REF Square NeRF (arXiv 2023/11) | [🔗](https://github.com/kevin30205/REF_square_NeRF_survey) |
-| InstantAvatar_survey | Private | 0 | 2025-03-28 | 2025-06-01 | Python | Survey of InstantAvatar (CVPR 2023) | [🔗](https://github.com/kevin30205/InstantAvatar_survey) |
-| HumanNeRF-SE_survey | Private | 0 | 2025-03-29 | 2025-06-01 | Python | Survey of HumanNeRF-SE (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNeRF-SE_survey) |
-| Animatable-NeRF_survey | Private | 0 | 2025-03-29 | 2025-06-01 | Python | Survey of Animatable-NeRF (ICCV 2021) | [🔗](https://github.com/kevin30205/Animatable-NeRF_survey) |
-| Neural-Body_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of Neural Body (CVPR 2021) | [🔗](https://github.com/kevin30205/Neural-Body_survey) |
-| TAVA_survey | Private | 0 | 2025-04-04 | 2025-06-01 | Python | Survey of TAVA (ECCV 2022) | [🔗](https://github.com/kevin30205/TAVA_survey) |
-| IntrinsicAvatar_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of IntrinsicAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/IntrinsicAvatar_survey) |
-| Neural-Human-Performer_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of Neural Human Performer (NeurIPS 2021) | [🔗](https://github.com/kevin30205/Neural-Human-Performer_survey) |
-| ARAH_survey | Private | 0 | 2025-04-04 | 2025-06-01 | Python | Survey of ARAH (ECCV 2022) | [🔗](https://github.com/kevin30205/ARAH_survey) |
-| SAX-NeRF_survey | Private | 0 | 2025-04-22 | 2025-06-01 | Python | Survey of SAX-NeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SAX-NeRF_survey) |
-| HDR-Plenoxels_survey | Private | 0 | 2025-04-26 | 2025-06-01 | Python | Survey of HDR-Plenoxels (ECCV 2022) | [🔗](https://github.com/kevin30205/HDR-Plenoxels_survey) |
-| TiNeuVox_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of TiNeuVox (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/TiNeuVox_survey) |
-| SCINeRF_survey | Private | 0 | 2025-04-28 | 2025-06-01 | Python | Survey of SCINeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SCINeRF_survey) |
-| HDR-NeRF_survey | Private | 0 | 2025-04-26 | 2025-06-01 | Python | Survey of HDR-NeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/HDR-NeRF_survey) |
-| BeNeRF_survey | Private | 0 | 2025-04-28 | 2025-06-01 | Python | Survey of BeNeRF (ECCV 2024) | [🔗](https://github.com/kevin30205/BeNeRF_survey) |
-| InvRender_survey | Private | 0 | 2025-05-06 | 2025-06-01 | Python | Survey of InvRender (CVPR 2022) | [🔗](https://github.com/kevin30205/InvRender_survey) |
-| TensoIR_survey | Private | 0 | 2025-05-06 | 2025-06-01 | Python | Survey of TensoIR (CVPR 2023) | [🔗](https://github.com/kevin30205/TensoIR_survey) |
+| LAENeRF_survey | Private | 0 | 2025-06-14 | 2025-06-18 | HTML | Survey of LAENeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/LAENeRF_survey) |
+| ActiveNeRF_survey | Private | 0 | 2025-06-10 | 2025-06-18 | Python | Survey of  ActiveNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/ActiveNeRF_survey) |
+| NRHints_survey | Private | 0 | 2025-05-30 | 2025-06-18 | Python | Survey of NRHints (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/NRHints_survey) |
+| TensoIR_survey | Private | 0 | 2025-05-06 | 2025-06-18 | Python | Survey of TensoIR (CVPR 2023) | [🔗](https://github.com/kevin30205/TensoIR_survey) |
+| InvRender_survey | Private | 0 | 2025-05-06 | 2025-06-18 | Python | Survey of InvRender (CVPR 2022) | [🔗](https://github.com/kevin30205/InvRender_survey) |
+| BeNeRF_survey | Private | 0 | 2025-04-28 | 2025-06-18 | Python | Survey of BeNeRF (ECCV 2024) | [🔗](https://github.com/kevin30205/BeNeRF_survey) |
+| HDR-NeRF_survey | Private | 0 | 2025-04-26 | 2025-06-18 | Python | Survey of HDR-NeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/HDR-NeRF_survey) |
+| SCINeRF_survey | Private | 0 | 2025-04-28 | 2025-06-18 | Python | Survey of SCINeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SCINeRF_survey) |
+| TiNeuVox_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of TiNeuVox (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/TiNeuVox_survey) |
+| HDR-Plenoxels_survey | Private | 0 | 2025-04-26 | 2025-06-18 | Python | Survey of HDR-Plenoxels (ECCV 2022) | [🔗](https://github.com/kevin30205/HDR-Plenoxels_survey) |
+| SAX-NeRF_survey | Private | 0 | 2025-04-22 | 2025-06-18 | Python | Survey of SAX-NeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SAX-NeRF_survey) |
+| Stable-Dreamfusion_survey | Private | 0 | 2025-04-24 | 2025-06-18 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
+| Relighting4D_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
+| ARAH_survey | Private | 0 | 2025-04-04 | 2025-06-18 | Python | Survey of ARAH (ECCV 2022) | [🔗](https://github.com/kevin30205/ARAH_survey) |
+| Neural-Human-Performer_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of Neural Human Performer (NeurIPS 2021) | [🔗](https://github.com/kevin30205/Neural-Human-Performer_survey) |
+| IntrinsicAvatar_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of IntrinsicAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/IntrinsicAvatar_survey) |
+| TAVA_survey | Private | 0 | 2025-04-04 | 2025-06-18 | Python | Survey of TAVA (ECCV 2022) | [🔗](https://github.com/kevin30205/TAVA_survey) |
+| Neural-Body_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of Neural Body (CVPR 2021) | [🔗](https://github.com/kevin30205/Neural-Body_survey) |
+| Animatable-NeRF_survey | Private | 0 | 2025-03-29 | 2025-06-18 | Python | Survey of Animatable-NeRF (ICCV 2021) | [🔗](https://github.com/kevin30205/Animatable-NeRF_survey) |
+| HumanNeRF-SE_survey | Private | 0 | 2025-03-29 | 2025-06-18 | Python | Survey of HumanNeRF-SE (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNeRF-SE_survey) |
+| InstantAvatar_survey | Private | 0 | 2025-03-28 | 2025-06-18 | Python | Survey of InstantAvatar (CVPR 2023) | [🔗](https://github.com/kevin30205/InstantAvatar_survey) |
+| Tensor4D_survey | Private | 0 | 2024-03-23 | 2025-06-18 | Python | Survey of Tensor4D (CVPR 2023) | [🔗](https://github.com/kevin30205/Tensor4D_survey) |
+| REF_square_NeRF_survey | Private | 0 | 2024-04-17 | 2025-06-18 | Python | Survey of REF Square NeRF (arXiv 2023/11) | [🔗](https://github.com/kevin30205/REF_square_NeRF_survey) |
+| Eikonal-Fields_survey | Private | 0 | 2024-04-17 | 2025-06-18 | Python | Survey of Eikonal Fields (SIGGRAPH 2022) | [🔗](https://github.com/kevin30205/Eikonal-Fields_survey) |
+| RoDynRF_survey | Private | 0 | 2024-04-12 | 2025-06-18 | Python | Survey of RoDynRF (CVPR 2023) | [🔗](https://github.com/kevin30205/RoDynRF_survey) |
+| DynamicNeRF_survey | Private | 0 | 2024-04-12 | 2025-06-18 | Python | Survey of DynamicNeRF (ICCV 2021) | [🔗](https://github.com/kevin30205/DynamicNeRF_survey) |
+| NeRFReN_survey | Private | 0 | 2024-03-23 | 2025-06-18 | Python | Survey of NeRFReN (CVPR 2022) | [🔗](https://github.com/kevin30205/NeRFReN_survey) |
+| BAD-NeRF_survey | Private | 0 | 2024-03-13 | 2025-06-18 | Python | Survey of BAD-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/BAD-NeRF_survey) |
+| HyperNeRF_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of HyperNeRF (SIGGRAPH Asia 2021) | [🔗](https://github.com/kevin30205/HyperNeRF_survey) |
+| Deblur-NeRF_survey | Private | 0 | 2024-01-10 | 2025-06-18 | Python | Survey of Deblur-NeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/Deblur-NeRF_survey) |
+| NeuS_survey | Private | 0 | 2024-03-13 | 2025-06-18 | Python | Survey of NeuS (NeurIPS 2021) | [🔗](https://github.com/kevin30205/NeuS_survey) |
+| ENeRF_survey | Private | 0 | 2024-02-17 | 2025-06-18 | Python | Survey of ENeRF (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/ENeRF_survey) |
+| OccNeRF_survey | Private | 0 | 2024-01-30 | 2025-06-18 | Python | Survey of OccNeRF (ICCV 2023) | [🔗](https://github.com/kevin30205/OccNeRF_survey) |
+| LocalRF_survey | Private | 0 | 2024-01-10 | 2025-06-18 | Python | Survey of LocalRF (CVPR 2023) | [🔗](https://github.com/kevin30205/LocalRF_survey) |
+| Ref-NeuS_survey | Private | 0 | 2024-01-10 | 2025-06-18 | Python | Survey of Ref-NeuS (ICCV 2023) | [🔗](https://github.com/kevin30205/Ref-NeuS_survey) |
+| NeRFplusplus_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of NeRF++ (arXiv 2020) | [🔗](https://github.com/kevin30205/NeRFplusplus_survey) |
+| NoPe-NeRF_survey | Private | 0 | 2023-08-29 | 2025-06-18 | Python | Survey of NoPe-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/NoPe-NeRF_survey) |
+| TransHuman_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of TransHuman (ICCV 2023) | [🔗](https://github.com/kevin30205/TransHuman_survey) |
+| SHERF_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of SHERF (ICCV 2023) | [🔗](https://github.com/kevin30205/SHERF_survey) |
+| TILTED_survey | Private | 0 | 2023-09-25 | 2025-06-18 | Python | Survey of TILTED (ICCV 2023) | [🔗](https://github.com/kevin30205/TILTED_survey) |
+| Ref-NeRF_pl_survey | Private | 0 | 2023-09-12 | 2025-06-18 | Python | Survey of Ref-NeRF (CVPR 2022) [PyTorch Lightning Version] | [🔗](https://github.com/kevin30205/Ref-NeRF_pl_survey) |
+| Strivec_survey | Private | 0 | 2023-11-08 | 2025-06-18 | Python | Survey of Strivec (ICCV 2023) | [🔗](https://github.com/kevin30205/Strivec_survey) |
+| K-Planes_survey | Private | 0 | 2023-08-13 | 2025-06-18 | Python | Survey of K-Planes (CVPR 2023) | [🔗](https://github.com/kevin30205/K-Planes_survey) |
+| HexPlane_survey | Private | 0 | 2023-08-18 | 2025-06-18 | Python | Survey of HexPlane (CVPR 2023) | [🔗](https://github.com/kevin30205/HexPlane_survey) |
+| Tri-MipRF_survey | Private | 0 | 2023-10-07 | 2025-06-18 | Python | Survey of Tri-MipRF (ICCV 2023) | [🔗](https://github.com/kevin30205/Tri-MipRF_survey) |
+| TensoRF_survey | Private | 0 | 2023-08-16 | 2025-06-18 | Python | Survey of TensoRF (ECCV 2022) | [🔗](https://github.com/kevin30205/TensoRF_survey) |
+| EfficientNeRF_survey | Private | 0 | 2023-08-30 | 2025-06-18 | Python | Survey of EfficientNeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/EfficientNeRF_survey) |
+| ABLE-NeRF_survey | Private | 0 | 2023-08-29 | 2025-06-18 | Python | Survey of ABLE-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/ABLE-NeRF_survey) |
+| Zip-NeRF_survey | Private | 0 | 2023-09-15 | 2025-06-18 | Python | Survey of Zip-NeRF (ICCV 2023) [PyTorch Version] | [🔗](https://github.com/kevin30205/Zip-NeRF_survey) |
+| SinNeRF_survey | Private | 0 | 2023-08-30 | 2025-06-18 | Python | Survey of SinNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/SinNeRF_survey) |
+| mipNeRF_PyTorch_survey | Private | 0 | 2023-08-13 | 2025-06-18 | Python | Survey of mipNeRF (ICCV 2021) [Pytorch Version] | [🔗](https://github.com/kevin30205/mipNeRF_PyTorch_survey) |
+| Plenoxels_survey | Private | 0 | 2023-09-14 | 2025-06-18 | C++ | Survey of Plenoxels (CVPR 2022) | [🔗](https://github.com/kevin30205/Plenoxels_survey) |
+| NVR-in-Minutes_survey | Private | 0 | 2023-09-26 | 2025-06-18 | Python | Survey of NVR-in-Minutes (CVPR 2023) | [🔗](https://github.com/kevin30205/NVR-in-Minutes_survey) |
+| Neuman_survey | Private | 0 | 2023-08-13 | 2025-06-18 | Python | Survey of Neuman (ECCV 2022) | [🔗](https://github.com/kevin30205/Neuman_survey) |
+| NeRF_PyTorch_survey | Private | 0 | 2023-08-28 | 2025-06-18 | Python | Survey of NeRF (ECCV 2020) [Pytorch Version] | [🔗](https://github.com/kevin30205/NeRF_PyTorch_survey) |
+| MonoHuman_survey | Private | 0 | 2023-08-27 | 2025-06-18 | Python | Survey of MonoHuman (CVPR 2023) | [🔗](https://github.com/kevin30205/MonoHuman_survey) |
+| Instant-NGP_survey | Private | 0 | 2023-09-14 | 2025-06-18 | Python | Survey of Instant-NGP (SIGGRAPH 2022) [Pytorch Version] | [🔗](https://github.com/kevin30205/Instant-NGP_survey) |
+| HumanNeRF_survey | Private | 0 | 2023-08-27 | 2025-06-18 | Python | Survey of HumanNeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/HumanNeRF_survey) |
+| DVGOv2_survey | Private | 0 | 2023-09-03 | 2025-06-18 | Python | Survey of DVGO_v2 (CVPR 2022) | [🔗](https://github.com/kevin30205/DVGOv2_survey) |
+| DVGOv1_survey | Private | 0 | 2023-09-04 | 2025-06-18 | Python | Survey of DVGO_v1 (CVPR 2022) | [🔗](https://github.com/kevin30205/DVGOv1_survey) |
+| Vid2Avatar_survey | Private | 0 | 2023-09-26 | 2025-06-18 | Python | Survey of Vid2Avatar (CVPR 2023) | [🔗](https://github.com/kevin30205/Vid2Avatar_survey) |
 
 ### personal
 
@@ -558,7 +558,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-06-17 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-06-18 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Curriculum-Vitae | Private | 0 | 2025-06-09 | 2025-06-09 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
 | Command_Memorandum | Private | 0 | 2023-09-05 | 2025-06-04 | Shell | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
 | Academic-Homepage | Private | 0 | 2025-05-20 | 2025-06-03 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
@@ -596,12 +596,12 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| RNG_survey | Private | 0 | 2025-06-07 | 2025-06-11 | Python | Survey of RNG (CVPR 2025) | [🔗](https://github.com/kevin30205/RNG_survey) |
-| ReCap_survey | Private | 0 | 2025-06-08 | 2025-06-10 | Python | Survey of ReCap (CVPR 2025) | [🔗](https://github.com/kevin30205/ReCap_survey) |
-| NRHints_survey | Private | 0 | 2025-05-30 | 2025-06-06 | Python | Survey of NRHints (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/NRHints_survey) |
-| GS-3_survey | Private | 0 | 2025-05-30 | 2025-06-02 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
-| Relighting4D_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
-| Relightable-3D-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-01 | Python | Survey of Relightable 3D Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/Relightable-3D-Gaussian_survey) |
+| RNG_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of RNG (CVPR 2025) | [🔗](https://github.com/kevin30205/RNG_survey) |
+| ReCap_survey | Private | 0 | 2025-06-08 | 2025-06-18 | Python | Survey of ReCap (CVPR 2025) | [🔗](https://github.com/kevin30205/ReCap_survey) |
+| NRHints_survey | Private | 0 | 2025-05-30 | 2025-06-18 | Python | Survey of NRHints (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/NRHints_survey) |
+| GS-3_survey | Private | 0 | 2025-05-30 | 2025-06-18 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
+| Relighting4D_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
+| Relightable-3D-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-18 | Python | Survey of Relightable 3D Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/Relightable-3D-Gaussian_survey) |
 
 ### segmentation
 
@@ -619,7 +619,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| MonoGS_survey | Private | 0 | 2025-05-11 | 2025-06-01 | Python | Survey of MonoGS (CVPR 2024) | [🔗](https://github.com/kevin30205/MonoGS_survey) |
+| MonoGS_survey | Private | 0 | 2025-05-11 | 2025-06-18 | Python | Survey of MonoGS (CVPR 2024) | [🔗](https://github.com/kevin30205/MonoGS_survey) |
 
 ### smpl
 
@@ -637,16 +637,16 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| SinNeRF_survey | Private | 0 | 2023-08-30 | 2025-06-01 | Python | Survey of SinNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/SinNeRF_survey) |
-| DropoutGS_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of DropoutGS (CVPR 2025) | [🔗](https://github.com/kevin30205/DropoutGS_survey) |
-| DNGaussian_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of DNGaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/DNGaussian_survey) |
-| FSGS_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of FSGS (ECCV 2024) | [🔗](https://github.com/kevin30205/FSGS_survey) |
-| NexusGS_survey | Private | 0 | 2025-04-26 | 2025-06-01 | Python | Survey of NexusGS (CVPR 2025) | [🔗](https://github.com/kevin30205/NexusGS_survey) |
-| DropGaussian_survey | Private | 0 | 2025-05-04 | 2025-06-01 | Python | Survey of DropGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DropGaussian_survey) |
-| CoherentGS_survey | Private | 0 | 2025-05-14 | 2025-06-01 | Python | Survey of CoherentGS (ECCV 2024) | [🔗](https://github.com/kevin30205/CoherentGS_survey) |
-| DRGS_survey | Private | 0 | 2025-05-19 | 2025-06-01 | Python | Survey of DRGS (CVPRW 2024) | [🔗](https://github.com/kevin30205/DRGS_survey) |
-| SparseGS_survey | Private | 0 | 2025-05-19 | 2025-06-01 | Python | Survey of SparseGS (3DV 2025) | [🔗](https://github.com/kevin30205/SparseGS_survey) |
-| CoR-GS_survey | Private | 0 | 2025-05-29 | 2025-06-01 | Python | Survey of CoR-GS (ECCV 2024) | [🔗](https://github.com/kevin30205/CoR-GS_survey) |
+| CoR-GS_survey | Private | 0 | 2025-05-29 | 2025-06-18 | Python | Survey of CoR-GS (ECCV 2024) | [🔗](https://github.com/kevin30205/CoR-GS_survey) |
+| SparseGS_survey | Private | 0 | 2025-05-19 | 2025-06-18 | Python | Survey of SparseGS (3DV 2025) | [🔗](https://github.com/kevin30205/SparseGS_survey) |
+| DRGS_survey | Private | 0 | 2025-05-19 | 2025-06-18 | Python | Survey of DRGS (CVPRW 2024) | [🔗](https://github.com/kevin30205/DRGS_survey) |
+| CoherentGS_survey | Private | 0 | 2025-05-14 | 2025-06-18 | Python | Survey of CoherentGS (ECCV 2024) | [🔗](https://github.com/kevin30205/CoherentGS_survey) |
+| DropGaussian_survey | Private | 0 | 2025-05-04 | 2025-06-18 | Python | Survey of DropGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DropGaussian_survey) |
+| NexusGS_survey | Private | 0 | 2025-04-26 | 2025-06-18 | Python | Survey of NexusGS (CVPR 2025) | [🔗](https://github.com/kevin30205/NexusGS_survey) |
+| FSGS_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of FSGS (ECCV 2024) | [🔗](https://github.com/kevin30205/FSGS_survey) |
+| DNGaussian_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of DNGaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/DNGaussian_survey) |
+| DropoutGS_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of DropoutGS (CVPR 2025) | [🔗](https://github.com/kevin30205/DropoutGS_survey) |
+| SinNeRF_survey | Private | 0 | 2023-08-30 | 2025-06-18 | Python | Survey of SinNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/SinNeRF_survey) |
 
 ### study
 
@@ -672,212 +672,212 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| LAENeRF_survey | Private | 0 | 2025-06-14 | 2025-06-15 | HTML | Survey of LAENeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/LAENeRF_survey) |
-| StopThePop_survey | Private | 0 | 2025-06-14 | 2025-06-15 | Python | Survey of StopThePop (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/StopThePop_survey) |
-| ABC-GS_survey | Private | 0 | 2025-06-15 | 2025-06-15 | Python | Survey of ABC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/ABC-GS_survey) |
-| 3DGRUT_survey | Private | 0 | 2025-06-09 | 2025-06-13 | Python | Survey of 3DGRUT (CVPR 2025) | [🔗](https://github.com/kevin30205/3DGRUT_survey) |
-| 4DTAM_survey | Private | 0 | 2025-06-11 | 2025-06-11 | C++ | Survey of 4DTAM (CVPR 2025) | [🔗](https://github.com/kevin30205/4DTAM_survey) |
-| ActiveNeRF_survey | Private | 0 | 2025-06-10 | 2025-06-11 | Python | Survey of  ActiveNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/ActiveNeRF_survey) |
-| PanSplat_survey | Private | 0 | 2025-06-10 | 2025-06-11 | Python | Survey of PanSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/PanSplat_survey) |
-| RNG_survey | Private | 0 | 2025-06-07 | 2025-06-11 | Python | Survey of RNG (CVPR 2025) | [🔗](https://github.com/kevin30205/RNG_survey) |
-| GaussianShader_survey | Private | 0 | 2025-06-08 | 2025-06-10 | C++ | Survey of GaussianShader (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianShader_survey) |
-| ReCap_survey | Private | 0 | 2025-06-08 | 2025-06-10 | Python | Survey of ReCap (CVPR 2025) | [🔗](https://github.com/kevin30205/ReCap_survey) |
-| Luminance-GS_survey | Private | 0 | 2025-06-10 | 2025-06-10 | Python | Survey of Luminance-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Luminance-GS_survey) |
-| FisherRF_survey | Private | 0 | 2025-06-08 | 2025-06-10 | Python | Survey of FisherRF (ECCV 2024) | [🔗](https://github.com/kevin30205/FisherRF_survey) |
-| MoDec-GS_survey | Private | 0 | 2025-06-08 | 2025-06-08 | Python | Survey of MoDec-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/MoDec-GS_survey) |
-| Sparse2DGS_survey | Private | 0 | 2025-06-07 | 2025-06-08 | Python | Survey of Sparse2DGS (CVPR 2025) | [🔗](https://github.com/kevin30205/Sparse2DGS_survey) |
-| DashGaussian_survey | Private | 0 | 2025-06-07 | 2025-06-08 | C++ | Survey of DashGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DashGaussian_survey) |
+| ABC-GS_survey | Private | 0 | 2025-06-15 | 2025-06-18 | Python | Survey of ABC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/ABC-GS_survey) |
+| LAENeRF_survey | Private | 0 | 2025-06-14 | 2025-06-18 | HTML | Survey of LAENeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/LAENeRF_survey) |
+| StopThePop_survey | Private | 0 | 2025-06-14 | 2025-06-18 | Python | Survey of StopThePop (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/StopThePop_survey) |
+| 3DGRUT_survey | Private | 0 | 2025-06-09 | 2025-06-18 | Python | Survey of 3DGRUT (CVPR 2025) | [🔗](https://github.com/kevin30205/3DGRUT_survey) |
+| 4DTAM_survey | Private | 0 | 2025-06-11 | 2025-06-18 | C++ | Survey of 4DTAM (CVPR 2025) | [🔗](https://github.com/kevin30205/4DTAM_survey) |
+| ActiveNeRF_survey | Private | 0 | 2025-06-10 | 2025-06-18 | Python | Survey of  ActiveNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/ActiveNeRF_survey) |
+| PanSplat_survey | Private | 0 | 2025-06-10 | 2025-06-18 | Python | Survey of PanSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/PanSplat_survey) |
+| RNG_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of RNG (CVPR 2025) | [🔗](https://github.com/kevin30205/RNG_survey) |
+| GaussianShader_survey | Private | 0 | 2025-06-08 | 2025-06-18 | C++ | Survey of GaussianShader (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianShader_survey) |
+| ReCap_survey | Private | 0 | 2025-06-08 | 2025-06-18 | Python | Survey of ReCap (CVPR 2025) | [🔗](https://github.com/kevin30205/ReCap_survey) |
+| Luminance-GS_survey | Private | 0 | 2025-06-10 | 2025-06-18 | Python | Survey of Luminance-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Luminance-GS_survey) |
+| FisherRF_survey | Private | 0 | 2025-06-08 | 2025-06-18 | Python | Survey of FisherRF (ECCV 2024) | [🔗](https://github.com/kevin30205/FisherRF_survey) |
+| MoDec-GS_survey | Private | 0 | 2025-06-08 | 2025-06-18 | Python | Survey of MoDec-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/MoDec-GS_survey) |
+| Sparse2DGS_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of Sparse2DGS (CVPR 2025) | [🔗](https://github.com/kevin30205/Sparse2DGS_survey) |
+| DashGaussian_survey | Private | 0 | 2025-06-07 | 2025-06-18 | C++ | Survey of DashGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DashGaussian_survey) |
+| GaussianSpa_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of GaussianSpa (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianSpa_survey) |
+| EOGS_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of EOGS (CVPR 2025) | [🔗](https://github.com/kevin30205/EOGS_survey) |
+| GS-LPM_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of GS-LPM (CVPR 2025) | [🔗](https://github.com/kevin30205/GS-LPM_survey) |
+| TC-GS_survey | Private | 0 | 2025-06-05 | 2025-06-18 | C++ | Survey of TC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/TC-GS_survey) |
+| PUP-3D-GS_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of PUP 3D-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/PUP-3D-GS_survey) |
+| Speedy-Splat_survey | Private | 0 | 2025-06-07 | 2025-06-18 | Python | Survey of Speedy-Splat (CVPR 2025) | [🔗](https://github.com/kevin30205/Speedy-Splat_survey) |
+| NRHints_survey | Private | 0 | 2025-05-30 | 2025-06-18 | Python | Survey of NRHints (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/NRHints_survey) |
+| CAT-3DGS_survey | Private | 0 | 2025-06-05 | 2025-06-18 | Python | Survey of CAT-3DGS (ICLR 2025) | [🔗](https://github.com/kevin30205/CAT-3DGS_survey) |
+| GS-3_survey | Private | 0 | 2025-05-30 | 2025-06-18 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
+| GS-IR_survey | Private | 0 | 2025-05-30 | 2025-06-18 | C++ | Survey of GS-IR (arXiv 2023) | [🔗](https://github.com/kevin30205/GS-IR_survey) |
+| GI-GS_survey | Private | 0 | 2025-05-30 | 2025-06-18 | C++ | Survey of GI-GS (ICLR 2025) | [🔗](https://github.com/kevin30205/GI-GS_survey) |
+| GaussianPrediction_survey | Private | 0 | 2025-05-30 | 2025-06-18 | HTML | Survey of GaussianPrediction (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/GaussianPrediction_survey) |
+| AdR-Gaussian_survey | Private | 0 | 2025-05-30 | 2025-06-18 | Python | Survey of AdR-Gaussian (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/AdR-Gaussian_survey) |
+| CoR-GS_survey | Private | 0 | 2025-05-29 | 2025-06-18 | Python | Survey of CoR-GS (ECCV 2024) | [🔗](https://github.com/kevin30205/CoR-GS_survey) |
+| GaussianIP_survey | Private | 0 | 2025-05-29 | 2025-06-18 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
+| SparseGS_survey | Private | 0 | 2025-05-19 | 2025-06-18 | Python | Survey of SparseGS (3DV 2025) | [🔗](https://github.com/kevin30205/SparseGS_survey) |
+| HAHA_survey | Private | 0 | 2025-05-21 | 2025-06-18 | Python | Survey of HAHA (ACCV 2024) | [🔗](https://github.com/kevin30205/HAHA_survey) |
+| Deformable-Radial-Kernel-Splatting_survey | Private | 0 | 2025-05-21 | 2025-06-18 | Python | Survey of Deformable Radial Kernel Splatting (CVPR 2025) | [🔗](https://github.com/kevin30205/Deformable-Radial-Kernel-Splatting_survey) |
+| ControlGS_survey | Private | 0 | 2025-05-29 | 2025-06-18 | C++ | Survey of ControlGS (arXiv 2025) | [🔗](https://github.com/kevin30205/ControlGS_survey) |
+| TensoIR_survey | Private | 0 | 2025-05-06 | 2025-06-18 | Python | Survey of TensoIR (CVPR 2023) | [🔗](https://github.com/kevin30205/TensoIR_survey) |
+| hierarchical-3d-gaussians_survey | Private | 0 | 2025-05-21 | 2025-06-18 | Python | Survey of Hierarchical 3D Gaussians (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/hierarchical-3d-gaussians_survey) |
+| BBSplat_survey | Private | 0 | 2025-05-15 | 2025-06-18 | Python | Survey of BBSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/BBSplat_survey) |
+| DRGS_survey | Private | 0 | 2025-05-19 | 2025-06-18 | Python | Survey of DRGS (CVPRW 2024) | [🔗](https://github.com/kevin30205/DRGS_survey) |
+| Gaussian-Splatting-on-the-Move_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of Gaussian Splatting on the Move (ECCV 2024) | [🔗](https://github.com/kevin30205/Gaussian-Splatting-on-the-Move_survey) |
+| Taming-3DGS_survey | Private | 0 | 2025-05-18 | 2025-06-18 | Python | Survey of Taming 3DGS (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/Taming-3DGS_survey) |
+| SteepGS_survey | Private | 0 | 2025-05-19 | 2025-06-18 | Python | Survey of SteepGS (CVPR 2025) | [🔗](https://github.com/kevin30205/SteepGS_survey) |
+| CoherentGS_survey | Private | 0 | 2025-05-14 | 2025-06-18 | Python | Survey of CoherentGS (ECCV 2024) | [🔗](https://github.com/kevin30205/CoherentGS_survey) |
+| GaGS_survey | Private | 0 | 2025-05-15 | 2025-06-18 | C++ | Survey of GaGS (CVPR 2024) | [🔗](https://github.com/kevin30205/GaGS_survey) |
+| Analytic-Splatting_survey | Private | 0 | 2025-05-15 | 2025-06-18 | Python | Survey of Analytic-Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Analytic-Splatting_survey) |
+| OP43DGS_survey | Private | 0 | 2025-05-14 | 2025-06-18 | Cuda | Survey of OP43DGS (ECCV 2024) | [🔗](https://github.com/kevin30205/OP43DGS_survey) |
+| HoGS_survey | Private | 0 | 2025-05-13 | 2025-06-18 | C++ | Survey of HoGS (CVPR 2025) | [🔗](https://github.com/kevin30205/HoGS_survey) |
+| Sparse-Voxels-Rasterizer_survey | Private | 0 | 2025-05-13 | 2025-06-18 | Jupyter Notebook | Survey of Sparse Voxels Rasterizer (CVPR 2025) | [🔗](https://github.com/kevin30205/Sparse-Voxels-Rasterizer_survey) |
+| GES_survey | Private | 0 | 2025-05-14 | 2025-06-18 | Python | Survey of GES (CVPR 2024) | [🔗](https://github.com/kevin30205/GES_survey) |
+| Self-Organizing-Gaussians_survey | Private | 0 | 2025-05-14 | 2025-06-18 | Python | Survey of Self-Organizing Gaussians (ECCV 2024) | [🔗](https://github.com/kevin30205/Self-Organizing-Gaussians_survey) |
+| 3D-Student-Splatting-and-Scooping_survey | Private | 0 | 2025-05-13 | 2025-06-18 | Python | Survey of 3D Student Splatting and Scooping (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-Student-Splatting-and-Scooping_survey) |
+| AtomGS_survey | Private | 0 | 2025-05-12 | 2025-06-18 | Python | Survey of AtomGS (BMVC 2024) | [🔗](https://github.com/kevin30205/AtomGS_survey) |
+| RoGSplat_survey | Private | 0 | 2025-05-09 | 2025-06-18 | Python | Survey of RoGSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/RoGSplat_survey) |
+| Beta-Splatting_survey | Private | 0 | 2025-05-12 | 2025-06-18 | Python | Survey of Beta Splatting (SIGGRAPH 2025) | [🔗](https://github.com/kevin30205/Beta-Splatting_survey) |
+| MonoGS_survey | Private | 0 | 2025-05-11 | 2025-06-18 | Python | Survey of MonoGS (CVPR 2024) | [🔗](https://github.com/kevin30205/MonoGS_survey) |
+| DreamGaussian4D_survey | Private | 0 | 2025-05-11 | 2025-06-18 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
+| HumanNorm_survey | Private | 0 | 2025-05-09 | 2025-06-18 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
+| SGCR_survey | Private | 0 | 2025-05-12 | 2025-06-18 | Python | Survey of SGCR (CVPR 2025) | [🔗](https://github.com/kevin30205/SGCR_survey) |
+| TeT-Splatting_survey | Private | 0 | 2025-05-07 | 2025-06-18 | Jupyter Notebook | Survey of TeT-Splatting (NeurIPS 2024) | [🔗](https://github.com/kevin30205/TeT-Splatting_survey) |
+| InvRender_survey | Private | 0 | 2025-05-06 | 2025-06-18 | Python | Survey of InvRender (CVPR 2022) | [🔗](https://github.com/kevin30205/InvRender_survey) |
+| IRGS_survey | Private | 0 | 2025-05-07 | 2025-06-18 | HTML | Survey of IRGS (CVPR 2025) | [🔗](https://github.com/kevin30205/IRGS_survey) |
+| BeNeRF_survey | Private | 0 | 2025-04-28 | 2025-06-18 | Python | Survey of BeNeRF (ECCV 2024) | [🔗](https://github.com/kevin30205/BeNeRF_survey) |
+| SC-GS_survey | Private | 0 | 2025-05-07 | 2025-06-18 | Python | Survey of SC-GS (CVPR 2024) | [🔗](https://github.com/kevin30205/SC-GS_survey) |
+| 4DGaussians_survey | Private | 0 | 2025-05-07 | 2025-06-18 | Jupyter Notebook | Survey of 4DGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/4DGaussians_survey) |
+| Ref-Gaussian_survey | Private | 0 | 2025-05-05 | 2025-06-18 | C++ | Survey of Ref-Gaussian (ICLR 2025) | [🔗](https://github.com/kevin30205/Ref-Gaussian_survey) |
+| RaDe-GS_survey | Private | 0 | 2025-04-30 | 2025-06-18 | C++ | Survey of RaDe-GS (arXiv 2024) | [🔗](https://github.com/kevin30205/RaDe-GS_survey) |
+| GaussianDreamerPro_survey | Private | 0 | 2025-05-06 | 2025-06-18 | C++ | Survey of GaussianDreamerPro (arXiv 2024) | [🔗](https://github.com/kevin30205/GaussianDreamerPro_survey) |
+| 3DGS-DR_survey | Private | 0 | 2025-05-05 | 2025-06-18 | Python | Survey of 3DGS-DR (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/3DGS-DR_survey) |
+| BAGS_survey | Private | 0 | 2025-05-04 | 2025-06-18 | Python | Survey of BAGS (ECCV 2024) | [🔗](https://github.com/kevin30205/BAGS_survey) |
+| DoF-Gaussian_survey | Private | 0 | 2025-05-02 | 2025-06-18 | Python | Survey of DoF-Gaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DoF-Gaussian_survey) |
+| DropGaussian_survey | Private | 0 | 2025-05-04 | 2025-06-18 | Python | Survey of DropGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DropGaussian_survey) |
+| MAtCha-Gaussians_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of MAtCha Gaussians (CVPR 2025) | [🔗](https://github.com/kevin30205/MAtCha-Gaussians_survey) |
+| HDR-NeRF_survey | Private | 0 | 2025-04-26 | 2025-06-18 | Python | Survey of HDR-NeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/HDR-NeRF_survey) |
+| Gaussian-Frosting_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of Gaussian Frosting (ECCV 2024) | [🔗](https://github.com/kevin30205/Gaussian-Frosting_survey) |
+| SCINeRF_survey | Private | 0 | 2025-04-28 | 2025-06-18 | Python | Survey of SCINeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SCINeRF_survey) |
+| BAD-Gaussians_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of BAD-Gaussians (ECCV 2024) | [🔗](https://github.com/kevin30205/BAD-Gaussians_survey) |
+| TiNeuVox_survey | Private | 0 | 2025-04-30 | 2025-06-18 | Python | Survey of TiNeuVox (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/TiNeuVox_survey) |
+| SplatFormer_survey | Private | 0 | 2025-04-25 | 2025-06-18 | Python | Survey of SplatFormer (ICLR 2025) | [🔗](https://github.com/kevin30205/SplatFormer_survey) |
+| HDR-Plenoxels_survey | Private | 0 | 2025-04-26 | 2025-06-18 | Python | Survey of HDR-Plenoxels (ECCV 2022) | [🔗](https://github.com/kevin30205/HDR-Plenoxels_survey) |
+| GaussHDR_survey | Private | 0 | 2025-04-25 | 2025-06-18 | Python | Survey of GaussHDR (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussHDR_survey) |
+| SAX-NeRF_survey | Private | 0 | 2025-04-22 | 2025-06-18 | Python | Survey of SAX-NeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SAX-NeRF_survey) |
+| NexusGS_survey | Private | 0 | 2025-04-26 | 2025-06-18 | Python | Survey of NexusGS (CVPR 2025) | [🔗](https://github.com/kevin30205/NexusGS_survey) |
+| HDR-GS_survey | Private | 0 | 2025-04-25 | 2025-06-18 | Python | Survey of HDR-GS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/HDR-GS_survey) |
+| FramePack_survey | Private | 0 | 2025-04-24 | 2025-06-18 | Python | Survey of FramePack (arXiv 2025) | [🔗](https://github.com/kevin30205/FramePack_survey) |
+| r2_gaussian_survey | Private | 0 | 2025-04-23 | 2025-06-18 | Python | Survey of R2 Gaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/r2_gaussian_survey) |
+| Stable-Dreamfusion_survey | Private | 0 | 2025-04-24 | 2025-06-18 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
+| 3D-Convex-Splatting_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of 3D Convex Splatting (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-Convex-Splatting_survey) |
+| DreamCraft3D_survey | Private | 0 | 2025-04-24 | 2025-06-18 | Python | Survey of DreamCraft3D (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamCraft3D_survey) |
+| X-Gaussian_survey | Private | 0 | 2025-04-22 | 2025-06-18 | Python | Survey of X-Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/X-Gaussian_survey) |
+| LucidDreamer_survey | Private | 0 | 2025-04-20 | 2025-06-18 | Python | Survey of LucidDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/LucidDreamer_survey) |
+| FSGS_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of FSGS (ECCV 2024) | [🔗](https://github.com/kevin30205/FSGS_survey) |
+| Ref-GS_survey | Private | 0 | 2025-04-22 | 2025-06-18 | Python | Survey of Ref-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Ref-GS_survey) |
+| SuGaR_survey | Private | 0 | 2025-04-22 | 2025-06-18 | C++ | Survey of SuGaR (CVPR 2024) | [🔗](https://github.com/kevin30205/SuGaR_survey) |
+| Vol3DGS_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of Vol3DGS (CVPR 2025) | [🔗](https://github.com/kevin30205/Vol3DGS_survey) |
+| GFSGS_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of GFSGS (CVPR 2025) | [🔗](https://github.com/kevin30205/GFSGS_survey) |
+| MaskGaussian_survey | Private | 0 | 2025-04-21 | 2025-06-18 | C++ | Survey of MaskGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/MaskGaussian_survey) |
+| DNGaussian_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of DNGaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/DNGaussian_survey) |
+| DropoutGS_survey | Private | 0 | 2025-04-21 | 2025-06-18 | Python | Survey of DropoutGS (CVPR 2025) | [🔗](https://github.com/kevin30205/DropoutGS_survey) |
+| Relighting4D_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
+| GART_survey | Private | 0 | 2025-04-17 | 2025-06-18 | Python | Survey of GART (CVPR 2024) | [🔗](https://github.com/kevin30205/GART_survey) |
+| Fantasia3D_survey | Private | 0 | 2025-04-19 | 2025-06-18 | Python | Survey of Fantasia3D (ICCV 2023) | [🔗](https://github.com/kevin30205/Fantasia3D_survey) |
+| EnvGS_survey | Private | 0 | 2025-04-18 | 2025-06-18 | Python | Survey of EnvGS (CVPR 2025) | [🔗](https://github.com/kevin30205/EnvGS_survey) |
+| AnimatableGaussians_survey | Private | 0 | 2025-04-19 | 2025-06-18 | Python | Survey of Animatable Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/AnimatableGaussians_survey) |
+| GaussianDreamer_survey | Private | 0 | 2025-04-18 | 2025-06-18 | Python | Survey of GaussianDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianDreamer_survey) |
+| GSGEN_survey | Private | 0 | 2025-04-14 | 2025-06-18 | Python | Survey of GSGEN (CVPR 2024) | [🔗](https://github.com/kevin30205/GSGEN_survey) |
+| DreamGaussian_survey | Private | 0 | 2025-04-13 | 2025-06-18 | Python | Survey of DreamGaussian (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamGaussian_survey) |
+| SpacetimeGaussians_survey | Private | 0 | 2025-04-13 | 2025-06-18 | Python | Survey of SpacetimeGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/SpacetimeGaussians_survey) |
+| ContextGS_survey | Private | 0 | 2025-04-09 | 2025-06-18 | Python | Survey of ContextGS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/ContextGS_survey) |
+| Mini-Splatting_survey | Private | 0 | 2025-04-11 | 2025-06-18 | Python | Survey of Mini-Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Mini-Splatting_survey) |
+| GSDF_survey | Private | 0 | 2025-04-10 | 2025-06-18 | Python | Survey of GSDF (NeurIPS 2024) | [🔗](https://github.com/kevin30205/GSDF_survey) |
+| ARAH_survey | Private | 0 | 2025-04-04 | 2025-06-18 | Python | Survey of ARAH (ECCV 2022) | [🔗](https://github.com/kevin30205/ARAH_survey) |
+| Grendel-GS_survey | Private | 0 | 2025-04-12 | 2025-06-18 | Python | Survey of Grendel-GS (ICLR 2025) | [🔗](https://github.com/kevin30205/Grendel-GS_survey) |
+| Deformable-3D-Gaussians_survey | Private | 0 | 2025-04-12 | 2025-06-18 | Python | Survey of Deformable 3D Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/Deformable-3D-Gaussians_survey) |
+| FCGS_survey | Private | 0 | 2025-04-12 | 2025-06-18 | C++ | Survey of FCGS (ICLR 2025) | [🔗](https://github.com/kevin30205/FCGS_survey) |
+| EAGLES_survey | Private | 0 | 2025-04-11 | 2025-06-18 | C++ | Survey of EAGLES (ECCV 2024) | [🔗](https://github.com/kevin30205/EAGLES_survey) |
+| 3DGS-MCMC_survey | Private | 0 | 2025-04-08 | 2025-06-18 | Python | Survey of 3DGS-MCMC (NeurIPS 2024) | [🔗](https://github.com/kevin30205/3DGS-MCMC_survey) |
+| Neural-Human-Performer_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of Neural Human Performer (NeurIPS 2021) | [🔗](https://github.com/kevin30205/Neural-Human-Performer_survey) |
+| PCGS_survey | Private | 0 | 2025-04-10 | 2025-06-18 | C++ | Survey of PCGS (arXiv 2025) | [🔗](https://github.com/kevin30205/PCGS_survey) |
+| HAC-plus_survey | Private | 0 | 2025-04-09 | 2025-06-18 | C++ | Survey of HAC++ (arXiv 2025) | [🔗](https://github.com/kevin30205/HAC-plus_survey) |
+| C3DGS_survey | Private | 0 | 2025-04-11 | 2025-06-18 | Python | Survey of C3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/C3DGS_survey) |
+| Octree-GS_survey | Private | 0 | 2025-04-09 | 2025-06-18 | C++ | Survey of Octree-GS (arXiv 2024) | [🔗](https://github.com/kevin30205/Octree-GS_survey) |
+| Scaffold-GS_survey | Private | 0 | 2025-04-09 | 2025-06-18 | C++ | Survey of Scaffold-GS (CVPR 2024) | [🔗](https://github.com/kevin30205/Scaffold-GS_survey) |
+| IntrinsicAvatar_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of IntrinsicAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/IntrinsicAvatar_survey) |
+| TAVA_survey | Private | 0 | 2025-04-04 | 2025-06-18 | Python | Survey of TAVA (ECCV 2022) | [🔗](https://github.com/kevin30205/TAVA_survey) |
+| Compact-3DGS_survey | Private | 0 | 2025-04-10 | 2025-06-18 | Python | Survey of Compact-3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/Compact-3DGS_survey) |
+| LightGaussian_survey | Private | 0 | 2025-04-10 | 2025-06-18 | Python | Survey of LightGaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/LightGaussian_survey) |
+| HAC_survey | Private | 0 | 2025-04-09 | 2025-06-18 | Python | Survey of HAC (ECCV 2024) | [🔗](https://github.com/kevin30205/HAC_survey) |
+| InstantSplat_survey | Private | 0 | 2025-04-08 | 2025-06-18 | Python | Survey of InstantSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/InstantSplat_survey) |
+| 3D-HGS_survey | Private | 0 | 2025-04-08 | 2025-06-18 | Python | Survey of 3D-HGS (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-HGS_survey) |
+| Neural-Body_survey | Private | 0 | 2025-04-05 | 2025-06-18 | Python | Survey of Neural Body (CVPR 2021) | [🔗](https://github.com/kevin30205/Neural-Body_survey) |
+| 4D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of 4D Gaussian Splatting (ICLR 2024) | [🔗](https://github.com/kevin30205/4D-Gaussian-Splatting_survey) |
+| 3DGS-Avatar_survey | Private | 0 | 2025-04-04 | 2025-06-18 | Python | Survey of 3DGS-Avatar (CVPR 2024) | [🔗](https://github.com/kevin30205/3DGS-Avatar_survey) |
+| Gaussian-Opacity-Fields_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of Gaussian Opacity Fields (GOF) (SIGGRAPH ASIA 2024) | [🔗](https://github.com/kevin30205/Gaussian-Opacity-Fields_survey) |
+| GPS-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-18 | C++ | Survey of GPS-Gaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/GPS-Gaussian_survey) |
+| GoMAvatar_survey | Private | 0 | 2025-03-31 | 2025-06-18 | Python | Survey of GoMAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/GoMAvatar_survey) |
+| Mani-GS_survey | Private | 0 | 2025-04-03 | 2025-06-18 | Python | Survey of Mani-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Mani-GS_survey) |
+| 2D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of 2D Gaussian Splatting (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/2D-Gaussian-Splatting_survey) |
+| Relightable-3D-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-18 | Python | Survey of Relightable 3D Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/Relightable-3D-Gaussian_survey) |
+| Mip-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of Mip-Splatting (CVPR 2024) | [🔗](https://github.com/kevin30205/Mip-Splatting_survey) |
+| Animatable-NeRF_survey | Private | 0 | 2025-03-29 | 2025-06-18 | Python | Survey of Animatable-NeRF (ICCV 2021) | [🔗](https://github.com/kevin30205/Animatable-NeRF_survey) |
+| 3D-Gaussian-Splatting_survey | Private | 0 | 2025-03-31 | 2025-06-18 | Python | Survey of 3D Gaussian Splatting (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/3D-Gaussian-Splatting_survey) |
+| LangSplat_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of LangSplat (CVPR 2024) | [🔗](https://github.com/kevin30205/LangSplat_survey) |
+| Deblurring-3D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-18 | Python | Survey of Deblurring 3D Gaussian Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Deblurring-3D-Gaussian-Splatting_survey) |
+| SplattingAvatar_survey | Private | 0 | 2025-03-30 | 2025-06-18 | Python | Survey of SplattingAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/SplattingAvatar_survey) |
+| GaussianAvatar_survey | Private | 0 | 2025-03-31 | 2025-06-18 | Python | Survey of GaussianAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianAvatar_survey) |
+| HUGS_survey | Private | 0 | 2025-03-30 | 2025-06-18 | Python | Survey of HUGS (CVPR 2024) | [🔗](https://github.com/kevin30205/HUGS_survey) |
+| HumanNeRF-SE_survey | Private | 0 | 2025-03-29 | 2025-06-18 | Python | Survey of HumanNeRF-SE (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNeRF-SE_survey) |
+| OccFusion_survey | Private | 0 | 2025-03-28 | 2025-06-18 | Python | Survey of OccFusion (NeurIPS 2024) | [🔗](https://github.com/kevin30205/OccFusion_survey) |
+| InstantAvatar_survey | Private | 0 | 2025-03-28 | 2025-06-18 | Python | Survey of InstantAvatar (CVPR 2023) | [🔗](https://github.com/kevin30205/InstantAvatar_survey) |
+| GauHuman_survey | Private | 0 | 2025-03-28 | 2025-06-18 | Python | Survey of GauHuman (CVPR 2024) | [🔗](https://github.com/kevin30205/GauHuman_survey) |
+| Tensor4D_survey | Private | 0 | 2024-03-23 | 2025-06-18 | Python | Survey of Tensor4D (CVPR 2023) | [🔗](https://github.com/kevin30205/Tensor4D_survey) |
+| REF_square_NeRF_survey | Private | 0 | 2024-04-17 | 2025-06-18 | Python | Survey of REF Square NeRF (arXiv 2023/11) | [🔗](https://github.com/kevin30205/REF_square_NeRF_survey) |
+| Eikonal-Fields_survey | Private | 0 | 2024-04-17 | 2025-06-18 | Python | Survey of Eikonal Fields (SIGGRAPH 2022) | [🔗](https://github.com/kevin30205/Eikonal-Fields_survey) |
+| RoDynRF_survey | Private | 0 | 2024-04-12 | 2025-06-18 | Python | Survey of RoDynRF (CVPR 2023) | [🔗](https://github.com/kevin30205/RoDynRF_survey) |
+| DynamicNeRF_survey | Private | 0 | 2024-04-12 | 2025-06-18 | Python | Survey of DynamicNeRF (ICCV 2021) | [🔗](https://github.com/kevin30205/DynamicNeRF_survey) |
+| NeRFReN_survey | Private | 0 | 2024-03-23 | 2025-06-18 | Python | Survey of NeRFReN (CVPR 2022) | [🔗](https://github.com/kevin30205/NeRFReN_survey) |
+| BAD-NeRF_survey | Private | 0 | 2024-03-13 | 2025-06-18 | Python | Survey of BAD-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/BAD-NeRF_survey) |
+| HyperNeRF_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of HyperNeRF (SIGGRAPH Asia 2021) | [🔗](https://github.com/kevin30205/HyperNeRF_survey) |
+| Deblur-NeRF_survey | Private | 0 | 2024-01-10 | 2025-06-18 | Python | Survey of Deblur-NeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/Deblur-NeRF_survey) |
+| NeuS_survey | Private | 0 | 2024-03-13 | 2025-06-18 | Python | Survey of NeuS (NeurIPS 2021) | [🔗](https://github.com/kevin30205/NeuS_survey) |
+| ENeRF_survey | Private | 0 | 2024-02-17 | 2025-06-18 | Python | Survey of ENeRF (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/ENeRF_survey) |
+| OccNeRF_survey | Private | 0 | 2024-01-30 | 2025-06-18 | Python | Survey of OccNeRF (ICCV 2023) | [🔗](https://github.com/kevin30205/OccNeRF_survey) |
+| LocalRF_survey | Private | 0 | 2024-01-10 | 2025-06-18 | Python | Survey of LocalRF (CVPR 2023) | [🔗](https://github.com/kevin30205/LocalRF_survey) |
+| Ref-NeuS_survey | Private | 0 | 2024-01-10 | 2025-06-18 | Python | Survey of Ref-NeuS (ICCV 2023) | [🔗](https://github.com/kevin30205/Ref-NeuS_survey) |
+| NeRFplusplus_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of NeRF++ (arXiv 2020) | [🔗](https://github.com/kevin30205/NeRFplusplus_survey) |
+| NoPe-NeRF_survey | Private | 0 | 2023-08-29 | 2025-06-18 | Python | Survey of NoPe-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/NoPe-NeRF_survey) |
+| TransHuman_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of TransHuman (ICCV 2023) | [🔗](https://github.com/kevin30205/TransHuman_survey) |
+| SHERF_survey | Private | 0 | 2023-11-26 | 2025-06-18 | Python | Survey of SHERF (ICCV 2023) | [🔗](https://github.com/kevin30205/SHERF_survey) |
+| TILTED_survey | Private | 0 | 2023-09-25 | 2025-06-18 | Python | Survey of TILTED (ICCV 2023) | [🔗](https://github.com/kevin30205/TILTED_survey) |
+| Ref-NeRF_pl_survey | Private | 0 | 2023-09-12 | 2025-06-18 | Python | Survey of Ref-NeRF (CVPR 2022) [PyTorch Lightning Version] | [🔗](https://github.com/kevin30205/Ref-NeRF_pl_survey) |
+| Strivec_survey | Private | 0 | 2023-11-08 | 2025-06-18 | Python | Survey of Strivec (ICCV 2023) | [🔗](https://github.com/kevin30205/Strivec_survey) |
+| K-Planes_survey | Private | 0 | 2023-08-13 | 2025-06-18 | Python | Survey of K-Planes (CVPR 2023) | [🔗](https://github.com/kevin30205/K-Planes_survey) |
+| HexPlane_survey | Private | 0 | 2023-08-18 | 2025-06-18 | Python | Survey of HexPlane (CVPR 2023) | [🔗](https://github.com/kevin30205/HexPlane_survey) |
+| Tri-MipRF_survey | Private | 0 | 2023-10-07 | 2025-06-18 | Python | Survey of Tri-MipRF (ICCV 2023) | [🔗](https://github.com/kevin30205/Tri-MipRF_survey) |
+| TensoRF_survey | Private | 0 | 2023-08-16 | 2025-06-18 | Python | Survey of TensoRF (ECCV 2022) | [🔗](https://github.com/kevin30205/TensoRF_survey) |
+| EfficientNeRF_survey | Private | 0 | 2023-08-30 | 2025-06-18 | Python | Survey of EfficientNeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/EfficientNeRF_survey) |
+| ABLE-NeRF_survey | Private | 0 | 2023-08-29 | 2025-06-18 | Python | Survey of ABLE-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/ABLE-NeRF_survey) |
+| Zip-NeRF_survey | Private | 0 | 2023-09-15 | 2025-06-18 | Python | Survey of Zip-NeRF (ICCV 2023) [PyTorch Version] | [🔗](https://github.com/kevin30205/Zip-NeRF_survey) |
+| SinNeRF_survey | Private | 0 | 2023-08-30 | 2025-06-18 | Python | Survey of SinNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/SinNeRF_survey) |
+| mipNeRF_PyTorch_survey | Private | 0 | 2023-08-13 | 2025-06-18 | Python | Survey of mipNeRF (ICCV 2021) [Pytorch Version] | [🔗](https://github.com/kevin30205/mipNeRF_PyTorch_survey) |
+| Plenoxels_survey | Private | 0 | 2023-09-14 | 2025-06-18 | C++ | Survey of Plenoxels (CVPR 2022) | [🔗](https://github.com/kevin30205/Plenoxels_survey) |
+| NVR-in-Minutes_survey | Private | 0 | 2023-09-26 | 2025-06-18 | Python | Survey of NVR-in-Minutes (CVPR 2023) | [🔗](https://github.com/kevin30205/NVR-in-Minutes_survey) |
+| Neuman_survey | Private | 0 | 2023-08-13 | 2025-06-18 | Python | Survey of Neuman (ECCV 2022) | [🔗](https://github.com/kevin30205/Neuman_survey) |
+| NeRF_PyTorch_survey | Private | 0 | 2023-08-28 | 2025-06-18 | Python | Survey of NeRF (ECCV 2020) [Pytorch Version] | [🔗](https://github.com/kevin30205/NeRF_PyTorch_survey) |
+| MonoHuman_survey | Private | 0 | 2023-08-27 | 2025-06-18 | Python | Survey of MonoHuman (CVPR 2023) | [🔗](https://github.com/kevin30205/MonoHuman_survey) |
+| Instant-NGP_survey | Private | 0 | 2023-09-14 | 2025-06-18 | Python | Survey of Instant-NGP (SIGGRAPH 2022) [Pytorch Version] | [🔗](https://github.com/kevin30205/Instant-NGP_survey) |
+| HumanNeRF_survey | Private | 0 | 2023-08-27 | 2025-06-18 | Python | Survey of HumanNeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/HumanNeRF_survey) |
+| DVGOv2_survey | Private | 0 | 2023-09-03 | 2025-06-18 | Python | Survey of DVGO_v2 (CVPR 2022) | [🔗](https://github.com/kevin30205/DVGOv2_survey) |
+| DVGOv1_survey | Private | 0 | 2023-09-04 | 2025-06-18 | Python | Survey of DVGO_v1 (CVPR 2022) | [🔗](https://github.com/kevin30205/DVGOv1_survey) |
+| Vid2Avatar_survey | Private | 0 | 2023-09-26 | 2025-06-18 | Python | Survey of Vid2Avatar (CVPR 2023) | [🔗](https://github.com/kevin30205/Vid2Avatar_survey) |
 | SAM-2_survey | Private | 0 | 2025-06-07 | 2025-06-08 | Jupyter Notebook | Survey of SAM 2 (ICLR 2025) | [🔗](https://github.com/kevin30205/SAM-2_survey) |
 | SAM-HQ_survey | Private | 0 | 2025-06-07 | 2025-06-08 | Jupyter Notebook | Survey of SAM-HQ (NeurIPS 2023) | [🔗](https://github.com/kevin30205/SAM-HQ_survey) |
-| GaussianSpa_survey | Private | 0 | 2025-06-07 | 2025-06-08 | Python | Survey of GaussianSpa (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianSpa_survey) |
 | fish-speech_survey | Private | 0 | 2025-06-06 | 2025-06-07 | Python | Survey of Fish Speech | [🔗](https://github.com/kevin30205/fish-speech_survey) |
-| EOGS_survey | Private | 0 | 2025-06-07 | 2025-06-07 | Python | Survey of EOGS (CVPR 2025) | [🔗](https://github.com/kevin30205/EOGS_survey) |
-| GS-LPM_survey | Private | 0 | 2025-06-07 | 2025-06-07 | Python | Survey of GS-LPM (CVPR 2025) | [🔗](https://github.com/kevin30205/GS-LPM_survey) |
-| TC-GS_survey | Private | 0 | 2025-06-05 | 2025-06-07 | C++ | Survey of TC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/TC-GS_survey) |
-| PUP-3D-GS_survey | Private | 0 | 2025-06-07 | 2025-06-07 | Python | Survey of PUP 3D-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/PUP-3D-GS_survey) |
-| Speedy-Splat_survey | Private | 0 | 2025-06-07 | 2025-06-07 | Python | Survey of Speedy-Splat (CVPR 2025) | [🔗](https://github.com/kevin30205/Speedy-Splat_survey) |
 | Segment-Anything_survey | Private | 0 | 2025-06-07 | 2025-06-07 | Jupyter Notebook | Survey of Segment Anything (ICCV 2023) | [🔗](https://github.com/kevin30205/Segment-Anything_survey) |
-| NRHints_survey | Private | 0 | 2025-05-30 | 2025-06-06 | Python | Survey of NRHints (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/NRHints_survey) |
-| CAT-3DGS_survey | Private | 0 | 2025-06-05 | 2025-06-06 | Python | Survey of CAT-3DGS (ICLR 2025) | [🔗](https://github.com/kevin30205/CAT-3DGS_survey) |
 | Prompt-Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-06 | Python | Survey of Prompt Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Prompt-Depth-Anything_survey) |
 | Video-Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Video Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Video-Depth-Anything_survey) |
 | Depth-Anything-V2_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Depth-Anything-V2 (NeurIPS 2024) | [🔗](https://github.com/kevin30205/Depth-Anything-V2_survey) |
 | Wan2.1_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Wan2.1 | [🔗](https://github.com/kevin30205/Wan2.1_survey) |
 | Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Depth Anything (CVPR 2024) | [🔗](https://github.com/kevin30205/Depth-Anything_survey) |
 | bark_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Jupyter Notebook | Survey of bark (Suno) | [🔗](https://github.com/kevin30205/bark_survey) |
-| GS-3_survey | Private | 0 | 2025-05-30 | 2025-06-02 | Python | Survey of GS^3 (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/GS-3_survey) |
-| GS-IR_survey | Private | 0 | 2025-05-30 | 2025-06-02 | C++ | Survey of GS-IR (arXiv 2023) | [🔗](https://github.com/kevin30205/GS-IR_survey) |
-| GI-GS_survey | Private | 0 | 2025-05-30 | 2025-06-01 | C++ | Survey of GI-GS (ICLR 2025) | [🔗](https://github.com/kevin30205/GI-GS_survey) |
-| DreamCraft3D_survey | Private | 0 | 2025-04-24 | 2025-06-01 | Python | Survey of DreamCraft3D (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamCraft3D_survey) |
-| GaussianIP_survey | Private | 0 | 2025-05-29 | 2025-06-01 | Python | Survey of GaussianIP (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussianIP_survey) |
-| DreamGaussian4D_survey | Private | 0 | 2025-05-11 | 2025-06-01 | Python | Survey of DreamGaussian4D (arXiv 2023) | [🔗](https://github.com/kevin30205/DreamGaussian4D_survey) |
-| HumanNorm_survey | Private | 0 | 2025-05-09 | 2025-06-01 | Python | Survey of HumanNorm (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNorm_survey) |
-| GaussianDreamerPro_survey | Private | 0 | 2025-05-06 | 2025-06-01 | C++ | Survey of GaussianDreamerPro (arXiv 2024) | [🔗](https://github.com/kevin30205/GaussianDreamerPro_survey) |
-| Stable-Dreamfusion_survey | Private | 0 | 2025-04-24 | 2025-06-01 | Python | Survey of Stable-Dreamfusion (ICLR 2023) | [🔗](https://github.com/kevin30205/Stable-Dreamfusion_survey) |
-| LucidDreamer_survey | Private | 0 | 2025-04-20 | 2025-06-01 | Python | Survey of LucidDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/LucidDreamer_survey) |
-| Fantasia3D_survey | Private | 0 | 2025-04-19 | 2025-06-01 | Python | Survey of Fantasia3D (ICCV 2023) | [🔗](https://github.com/kevin30205/Fantasia3D_survey) |
-| GaussianDreamer_survey | Private | 0 | 2025-04-18 | 2025-06-01 | Python | Survey of GaussianDreamer (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianDreamer_survey) |
-| GSGEN_survey | Private | 0 | 2025-04-14 | 2025-06-01 | Python | Survey of GSGEN (CVPR 2024) | [🔗](https://github.com/kevin30205/GSGEN_survey) |
-| DreamGaussian_survey | Private | 0 | 2025-04-13 | 2025-06-01 | Python | Survey of DreamGaussian (ICLR 2024) | [🔗](https://github.com/kevin30205/DreamGaussian_survey) |
 | PHALP_survey | Private | 0 | 2025-04-07 | 2025-06-01 | Python | Survey of PHALP (CVPR 2022) | [🔗](https://github.com/kevin30205/PHALP_survey) |
-| Relighting4D_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of Relighting4D (ECCV 2022) | [🔗](https://github.com/kevin30205/Relighting4D_survey) |
-| Relightable-3D-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-01 | Python | Survey of Relightable 3D Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/Relightable-3D-Gaussian_survey) |
-| TensoRF_survey | Private | 0 | 2023-08-16 | 2025-06-01 | Python | Survey of TensoRF (ECCV 2022) | [🔗](https://github.com/kevin30205/TensoRF_survey) |
-| HexPlane_survey | Private | 0 | 2023-08-18 | 2025-06-01 | Python | Survey of HexPlane (CVPR 2023) | [🔗](https://github.com/kevin30205/HexPlane_survey) |
-| Neuman_survey | Private | 0 | 2023-08-13 | 2025-06-01 | Python | Survey of Neuman (ECCV 2022) | [🔗](https://github.com/kevin30205/Neuman_survey) |
-| HumanNeRF_survey | Private | 0 | 2023-08-27 | 2025-06-01 | Python | Survey of HumanNeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/HumanNeRF_survey) |
-| MonoHuman_survey | Private | 0 | 2023-08-27 | 2025-06-01 | Python | Survey of MonoHuman (CVPR 2023) | [🔗](https://github.com/kevin30205/MonoHuman_survey) |
-| NoPe-NeRF_survey | Private | 0 | 2023-08-29 | 2025-06-01 | Python | Survey of NoPe-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/NoPe-NeRF_survey) |
-| EfficientNeRF_survey | Private | 0 | 2023-08-30 | 2025-06-01 | Python | Survey of EfficientNeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/EfficientNeRF_survey) |
-| SinNeRF_survey | Private | 0 | 2023-08-30 | 2025-06-01 | Python | Survey of SinNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/SinNeRF_survey) |
-| ABLE-NeRF_survey | Private | 0 | 2023-08-29 | 2025-06-01 | Python | Survey of ABLE-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/ABLE-NeRF_survey) |
-| DVGOv2_survey | Private | 0 | 2023-09-03 | 2025-06-01 | Python | Survey of DVGO_v2 (CVPR 2022) | [🔗](https://github.com/kevin30205/DVGOv2_survey) |
-| DVGOv1_survey | Private | 0 | 2023-09-04 | 2025-06-01 | Python | Survey of DVGO_v1 (CVPR 2022) | [🔗](https://github.com/kevin30205/DVGOv1_survey) |
-| Ref-NeRF_pl_survey | Private | 0 | 2023-09-12 | 2025-06-01 | Python | Survey of Ref-NeRF (CVPR 2022) [PyTorch Lightning Version] | [🔗](https://github.com/kevin30205/Ref-NeRF_pl_survey) |
-| Instant-NGP_survey | Private | 0 | 2023-09-14 | 2025-06-01 | Python | Survey of Instant-NGP (SIGGRAPH 2022) [Pytorch Version] | [🔗](https://github.com/kevin30205/Instant-NGP_survey) |
-| Plenoxels_survey | Private | 0 | 2023-09-14 | 2025-06-01 | C++ | Survey of Plenoxels (CVPR 2022) | [🔗](https://github.com/kevin30205/Plenoxels_survey) |
-| Zip-NeRF_survey | Private | 0 | 2023-09-15 | 2025-06-01 | Python | Survey of Zip-NeRF (ICCV 2023) [PyTorch Version] | [🔗](https://github.com/kevin30205/Zip-NeRF_survey) |
-| NeRF_PyTorch_survey | Private | 0 | 2023-08-28 | 2025-06-01 | Python | Survey of NeRF (ECCV 2020) [Pytorch Version] | [🔗](https://github.com/kevin30205/NeRF_PyTorch_survey) |
-| mipNeRF_PyTorch_survey | Private | 0 | 2023-08-13 | 2025-06-01 | Python | Survey of mipNeRF (ICCV 2021) [Pytorch Version] | [🔗](https://github.com/kevin30205/mipNeRF_PyTorch_survey) |
-| K-Planes_survey | Private | 0 | 2023-08-13 | 2025-06-01 | Python | Survey of K-Planes (CVPR 2023) | [🔗](https://github.com/kevin30205/K-Planes_survey) |
-| TILTED_survey | Private | 0 | 2023-09-25 | 2025-06-01 | Python | Survey of TILTED (ICCV 2023) | [🔗](https://github.com/kevin30205/TILTED_survey) |
-| NVR-in-Minutes_survey | Private | 0 | 2023-09-26 | 2025-06-01 | Python | Survey of NVR-in-Minutes (CVPR 2023) | [🔗](https://github.com/kevin30205/NVR-in-Minutes_survey) |
-| Vid2Avatar_survey | Private | 0 | 2023-09-26 | 2025-06-01 | Python | Survey of Vid2Avatar (CVPR 2023) | [🔗](https://github.com/kevin30205/Vid2Avatar_survey) |
-| Tri-MipRF_survey | Private | 0 | 2023-10-07 | 2025-06-01 | Python | Survey of Tri-MipRF (ICCV 2023) | [🔗](https://github.com/kevin30205/Tri-MipRF_survey) |
-| Strivec_survey | Private | 0 | 2023-11-08 | 2025-06-01 | Python | Survey of Strivec (ICCV 2023) | [🔗](https://github.com/kevin30205/Strivec_survey) |
-| SHERF_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of SHERF (ICCV 2023) | [🔗](https://github.com/kevin30205/SHERF_survey) |
-| NeRFplusplus_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of NeRF++ (arXiv 2020) | [🔗](https://github.com/kevin30205/NeRFplusplus_survey) |
-| HyperNeRF_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of HyperNeRF (SIGGRAPH Asia 2021) | [🔗](https://github.com/kevin30205/HyperNeRF_survey) |
-| TransHuman_survey | Private | 0 | 2023-11-26 | 2025-06-01 | Python | Survey of TransHuman (ICCV 2023) | [🔗](https://github.com/kevin30205/TransHuman_survey) |
-| Ref-NeuS_survey | Private | 0 | 2024-01-10 | 2025-06-01 | Python | Survey of Ref-NeuS (ICCV 2023) | [🔗](https://github.com/kevin30205/Ref-NeuS_survey) |
-| Deblur-NeRF_survey | Private | 0 | 2024-01-10 | 2025-06-01 | Python | Survey of Deblur-NeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/Deblur-NeRF_survey) |
-| LocalRF_survey | Private | 0 | 2024-01-10 | 2025-06-01 | Python | Survey of LocalRF (CVPR 2023) | [🔗](https://github.com/kevin30205/LocalRF_survey) |
-| OccNeRF_survey | Private | 0 | 2024-01-30 | 2025-06-01 | Python | Survey of OccNeRF (ICCV 2023) | [🔗](https://github.com/kevin30205/OccNeRF_survey) |
-| ENeRF_survey | Private | 0 | 2024-02-17 | 2025-06-01 | Python | Survey of ENeRF (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/ENeRF_survey) |
 | 4D-Humans_mine | Private | 0 | 2024-02-26 | 2025-06-01 | Python | 4D-Humans is used to preprocess the data to obtain the SMPL parameters. | [🔗](https://github.com/kevin30205/4D-Humans_mine) |
-| BAD-NeRF_survey | Private | 0 | 2024-03-13 | 2025-06-01 | Python | Survey of BAD-NeRF (CVPR 2023) | [🔗](https://github.com/kevin30205/BAD-NeRF_survey) |
-| NeuS_survey | Private | 0 | 2024-03-13 | 2025-06-01 | Python | Survey of NeuS (NeurIPS 2021) | [🔗](https://github.com/kevin30205/NeuS_survey) |
-| NeRFReN_survey | Private | 0 | 2024-03-23 | 2025-06-01 | Python | Survey of NeRFReN (CVPR 2022) | [🔗](https://github.com/kevin30205/NeRFReN_survey) |
-| Tensor4D_survey | Private | 0 | 2024-03-23 | 2025-06-01 | Python | Survey of Tensor4D (CVPR 2023) | [🔗](https://github.com/kevin30205/Tensor4D_survey) |
-| DynamicNeRF_survey | Private | 0 | 2024-04-12 | 2025-06-01 | Python | Survey of DynamicNeRF (ICCV 2021) | [🔗](https://github.com/kevin30205/DynamicNeRF_survey) |
-| RoDynRF_survey | Private | 0 | 2024-04-12 | 2025-06-01 | Python | Survey of RoDynRF (CVPR 2023) | [🔗](https://github.com/kevin30205/RoDynRF_survey) |
-| Eikonal-Fields_survey | Private | 0 | 2024-04-17 | 2025-06-01 | Python | Survey of Eikonal Fields (SIGGRAPH 2022) | [🔗](https://github.com/kevin30205/Eikonal-Fields_survey) |
-| REF_square_NeRF_survey | Private | 0 | 2024-04-17 | 2025-06-01 | Python | Survey of REF Square NeRF (arXiv 2023/11) | [🔗](https://github.com/kevin30205/REF_square_NeRF_survey) |
 | numpy-ml_survey | Private | 0 | 2025-02-06 | 2025-06-01 | Python | Survey of numpy-ml. | [🔗](https://github.com/kevin30205/numpy-ml_survey) |
 | Algorithms-Python_survey | Private | 0 | 2025-02-07 | 2025-06-01 | Python | Survey of Python Algorithms. | [🔗](https://github.com/kevin30205/Algorithms-Python_survey) |
 | Algorithms-Explanation_survey | Private | 0 | 2025-02-07 | 2025-06-01 | Unknown | Survey of Algorithms-Explanation | [🔗](https://github.com/kevin30205/Algorithms-Explanation_survey) |
 | Algorithms-C-Plus-Plus_survey | Private | 0 | 2025-02-07 | 2025-06-01 | C++ | Survey of C-Plus-Plus Algorithms. | [🔗](https://github.com/kevin30205/Algorithms-C-Plus-Plus_survey) |
-| GauHuman_survey | Private | 0 | 2025-03-28 | 2025-06-01 | Python | Survey of GauHuman (CVPR 2024) | [🔗](https://github.com/kevin30205/GauHuman_survey) |
-| InstantAvatar_survey | Private | 0 | 2025-03-28 | 2025-06-01 | Python | Survey of InstantAvatar (CVPR 2023) | [🔗](https://github.com/kevin30205/InstantAvatar_survey) |
-| OccFusion_survey | Private | 0 | 2025-03-28 | 2025-06-01 | Python | Survey of OccFusion (NeurIPS 2024) | [🔗](https://github.com/kevin30205/OccFusion_survey) |
-| HumanNeRF-SE_survey | Private | 0 | 2025-03-29 | 2025-06-01 | Python | Survey of HumanNeRF-SE (CVPR 2024) | [🔗](https://github.com/kevin30205/HumanNeRF-SE_survey) |
-| HUGS_survey | Private | 0 | 2025-03-30 | 2025-06-01 | Python | Survey of HUGS (CVPR 2024) | [🔗](https://github.com/kevin30205/HUGS_survey) |
-| GaussianAvatar_survey | Private | 0 | 2025-03-31 | 2025-06-01 | Python | Survey of GaussianAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/GaussianAvatar_survey) |
-| SplattingAvatar_survey | Private | 0 | 2025-03-30 | 2025-06-01 | Python | Survey of SplattingAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/SplattingAvatar_survey) |
 | SMPL-X_survey | Private | 0 | 2025-03-31 | 2025-06-01 | Python | Survey of SMPL-X (CVPR 2019) | [🔗](https://github.com/kevin30205/SMPL-X_survey) |
-| Deblurring-3D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of Deblurring 3D Gaussian Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Deblurring-3D-Gaussian-Splatting_survey) |
-| LangSplat_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of LangSplat (CVPR 2024) | [🔗](https://github.com/kevin30205/LangSplat_survey) |
-| 3D-Gaussian-Splatting_survey | Private | 0 | 2025-03-31 | 2025-06-01 | Python | Survey of 3D Gaussian Splatting (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/3D-Gaussian-Splatting_survey) |
-| Animatable-NeRF_survey | Private | 0 | 2025-03-29 | 2025-06-01 | Python | Survey of Animatable-NeRF (ICCV 2021) | [🔗](https://github.com/kevin30205/Animatable-NeRF_survey) |
-| Mip-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of Mip-Splatting (CVPR 2024) | [🔗](https://github.com/kevin30205/Mip-Splatting_survey) |
-| 2D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of 2D Gaussian Splatting (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/2D-Gaussian-Splatting_survey) |
-| Mani-GS_survey | Private | 0 | 2025-04-03 | 2025-06-01 | Python | Survey of Mani-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Mani-GS_survey) |
-| GoMAvatar_survey | Private | 0 | 2025-03-31 | 2025-06-01 | Python | Survey of GoMAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/GoMAvatar_survey) |
-| GPS-Gaussian_survey | Private | 0 | 2025-04-03 | 2025-06-01 | C++ | Survey of GPS-Gaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/GPS-Gaussian_survey) |
-| Gaussian-Opacity-Fields_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of Gaussian Opacity Fields (GOF) (SIGGRAPH ASIA 2024) | [🔗](https://github.com/kevin30205/Gaussian-Opacity-Fields_survey) |
-| 3DGS-Avatar_survey | Private | 0 | 2025-04-04 | 2025-06-01 | Python | Survey of 3DGS-Avatar (CVPR 2024) | [🔗](https://github.com/kevin30205/3DGS-Avatar_survey) |
-| 4D-Gaussian-Splatting_survey | Private | 0 | 2025-04-01 | 2025-06-01 | Python | Survey of 4D Gaussian Splatting (ICLR 2024) | [🔗](https://github.com/kevin30205/4D-Gaussian-Splatting_survey) |
-| Neural-Body_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of Neural Body (CVPR 2021) | [🔗](https://github.com/kevin30205/Neural-Body_survey) |
-| 3D-HGS_survey | Private | 0 | 2025-04-08 | 2025-06-01 | Python | Survey of 3D-HGS (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-HGS_survey) |
-| InstantSplat_survey | Private | 0 | 2025-04-08 | 2025-06-01 | Python | Survey of InstantSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/InstantSplat_survey) |
-| HAC_survey | Private | 0 | 2025-04-09 | 2025-06-01 | Python | Survey of HAC (ECCV 2024) | [🔗](https://github.com/kevin30205/HAC_survey) |
-| LightGaussian_survey | Private | 0 | 2025-04-10 | 2025-06-01 | Python | Survey of LightGaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/LightGaussian_survey) |
-| Compact-3DGS_survey | Private | 0 | 2025-04-10 | 2025-06-01 | Python | Survey of Compact-3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/Compact-3DGS_survey) |
-| TAVA_survey | Private | 0 | 2025-04-04 | 2025-06-01 | Python | Survey of TAVA (ECCV 2022) | [🔗](https://github.com/kevin30205/TAVA_survey) |
-| IntrinsicAvatar_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of IntrinsicAvatar (CVPR 2024) | [🔗](https://github.com/kevin30205/IntrinsicAvatar_survey) |
-| C3DGS_survey | Private | 0 | 2025-04-11 | 2025-06-01 | Python | Survey of C3DGS (CVPR 2024) | [🔗](https://github.com/kevin30205/C3DGS_survey) |
-| Scaffold-GS_survey | Private | 0 | 2025-04-09 | 2025-06-01 | C++ | Survey of Scaffold-GS (CVPR 2024) | [🔗](https://github.com/kevin30205/Scaffold-GS_survey) |
-| Octree-GS_survey | Private | 0 | 2025-04-09 | 2025-06-01 | C++ | Survey of Octree-GS (arXiv 2024) | [🔗](https://github.com/kevin30205/Octree-GS_survey) |
-| HAC-plus_survey | Private | 0 | 2025-04-09 | 2025-06-01 | C++ | Survey of HAC++ (arXiv 2025) | [🔗](https://github.com/kevin30205/HAC-plus_survey) |
-| PCGS_survey | Private | 0 | 2025-04-10 | 2025-06-01 | C++ | Survey of PCGS (arXiv 2025) | [🔗](https://github.com/kevin30205/PCGS_survey) |
-| Neural-Human-Performer_survey | Private | 0 | 2025-04-05 | 2025-06-01 | Python | Survey of Neural Human Performer (NeurIPS 2021) | [🔗](https://github.com/kevin30205/Neural-Human-Performer_survey) |
-| 3DGS-MCMC_survey | Private | 0 | 2025-04-08 | 2025-06-01 | Python | Survey of 3DGS-MCMC (NeurIPS 2024) | [🔗](https://github.com/kevin30205/3DGS-MCMC_survey) |
-| EAGLES_survey | Private | 0 | 2025-04-11 | 2025-06-01 | C++ | Survey of EAGLES (ECCV 2024) | [🔗](https://github.com/kevin30205/EAGLES_survey) |
-| FCGS_survey | Private | 0 | 2025-04-12 | 2025-06-01 | C++ | Survey of FCGS (ICLR 2025) | [🔗](https://github.com/kevin30205/FCGS_survey) |
-| Deformable-3D-Gaussians_survey | Private | 0 | 2025-04-12 | 2025-06-01 | Python | Survey of Deformable 3D Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/Deformable-3D-Gaussians_survey) |
-| Grendel-GS_survey | Private | 0 | 2025-04-12 | 2025-06-01 | Python | Survey of Grendel-GS (ICLR 2025) | [🔗](https://github.com/kevin30205/Grendel-GS_survey) |
-| ARAH_survey | Private | 0 | 2025-04-04 | 2025-06-01 | Python | Survey of ARAH (ECCV 2022) | [🔗](https://github.com/kevin30205/ARAH_survey) |
-| GSDF_survey | Private | 0 | 2025-04-10 | 2025-06-01 | Python | Survey of GSDF (NeurIPS 2024) | [🔗](https://github.com/kevin30205/GSDF_survey) |
-| Mini-Splatting_survey | Private | 0 | 2025-04-11 | 2025-06-01 | Python | Survey of Mini-Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Mini-Splatting_survey) |
-| SpacetimeGaussians_survey | Private | 0 | 2025-04-13 | 2025-06-01 | Python | Survey of SpacetimeGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/SpacetimeGaussians_survey) |
-| ContextGS_survey | Private | 0 | 2025-04-09 | 2025-06-01 | Python | Survey of ContextGS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/ContextGS_survey) |
-| AnimatableGaussians_survey | Private | 0 | 2025-04-19 | 2025-06-01 | Python | Survey of Animatable Gaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/AnimatableGaussians_survey) |
-| EnvGS_survey | Private | 0 | 2025-04-18 | 2025-06-01 | Python | Survey of EnvGS (CVPR 2025) | [🔗](https://github.com/kevin30205/EnvGS_survey) |
-| GART_survey | Private | 0 | 2025-04-17 | 2025-06-01 | Python | Survey of GART (CVPR 2024) | [🔗](https://github.com/kevin30205/GART_survey) |
-| DropoutGS_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of DropoutGS (CVPR 2025) | [🔗](https://github.com/kevin30205/DropoutGS_survey) |
-| DNGaussian_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of DNGaussian (CVPR 2024) | [🔗](https://github.com/kevin30205/DNGaussian_survey) |
-| MaskGaussian_survey | Private | 0 | 2025-04-21 | 2025-06-01 | C++ | Survey of MaskGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/MaskGaussian_survey) |
-| GFSGS_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of GFSGS (CVPR 2025) | [🔗](https://github.com/kevin30205/GFSGS_survey) |
-| Vol3DGS_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of Vol3DGS (CVPR 2025) | [🔗](https://github.com/kevin30205/Vol3DGS_survey) |
-| FSGS_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of FSGS (ECCV 2024) | [🔗](https://github.com/kevin30205/FSGS_survey) |
-| SuGaR_survey | Private | 0 | 2025-04-22 | 2025-06-01 | C++ | Survey of SuGaR (CVPR 2024) | [🔗](https://github.com/kevin30205/SuGaR_survey) |
-| Ref-GS_survey | Private | 0 | 2025-04-22 | 2025-06-01 | Python | Survey of Ref-GS (CVPR 2025) | [🔗](https://github.com/kevin30205/Ref-GS_survey) |
-| X-Gaussian_survey | Private | 0 | 2025-04-22 | 2025-06-01 | Python | Survey of X-Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/X-Gaussian_survey) |
-| 3D-Convex-Splatting_survey | Private | 0 | 2025-04-21 | 2025-06-01 | Python | Survey of 3D Convex Splatting (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-Convex-Splatting_survey) |
-| r2_gaussian_survey | Private | 0 | 2025-04-23 | 2025-06-01 | Python | Survey of R2 Gaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/r2_gaussian_survey) |
-| FramePack_survey | Private | 0 | 2025-04-24 | 2025-06-01 | Python | Survey of FramePack (arXiv 2025) | [🔗](https://github.com/kevin30205/FramePack_survey) |
-| HDR-GS_survey | Private | 0 | 2025-04-25 | 2025-06-01 | Python | Survey of HDR-GS (NeurIPS 2024) | [🔗](https://github.com/kevin30205/HDR-GS_survey) |
-| NexusGS_survey | Private | 0 | 2025-04-26 | 2025-06-01 | Python | Survey of NexusGS (CVPR 2025) | [🔗](https://github.com/kevin30205/NexusGS_survey) |
-| SAX-NeRF_survey | Private | 0 | 2025-04-22 | 2025-06-01 | Python | Survey of SAX-NeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SAX-NeRF_survey) |
-| GaussHDR_survey | Private | 0 | 2025-04-25 | 2025-06-01 | Python | Survey of GaussHDR (CVPR 2025) | [🔗](https://github.com/kevin30205/GaussHDR_survey) |
-| HDR-Plenoxels_survey | Private | 0 | 2025-04-26 | 2025-06-01 | Python | Survey of HDR-Plenoxels (ECCV 2022) | [🔗](https://github.com/kevin30205/HDR-Plenoxels_survey) |
-| SplatFormer_survey | Private | 0 | 2025-04-25 | 2025-06-01 | Python | Survey of SplatFormer (ICLR 2025) | [🔗](https://github.com/kevin30205/SplatFormer_survey) |
-| TiNeuVox_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of TiNeuVox (SIGGRAPH Asia 2022) | [🔗](https://github.com/kevin30205/TiNeuVox_survey) |
-| BAD-Gaussians_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of BAD-Gaussians (ECCV 2024) | [🔗](https://github.com/kevin30205/BAD-Gaussians_survey) |
-| SCINeRF_survey | Private | 0 | 2025-04-28 | 2025-06-01 | Python | Survey of SCINeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SCINeRF_survey) |
-| Gaussian-Frosting_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of Gaussian Frosting (ECCV 2024) | [🔗](https://github.com/kevin30205/Gaussian-Frosting_survey) |
-| HDR-NeRF_survey | Private | 0 | 2025-04-26 | 2025-06-01 | Python | Survey of HDR-NeRF (CVPR 2022) | [🔗](https://github.com/kevin30205/HDR-NeRF_survey) |
-| MAtCha-Gaussians_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of MAtCha Gaussians (CVPR 2025) | [🔗](https://github.com/kevin30205/MAtCha-Gaussians_survey) |
-| DropGaussian_survey | Private | 0 | 2025-05-04 | 2025-06-01 | Python | Survey of DropGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DropGaussian_survey) |
-| DoF-Gaussian_survey | Private | 0 | 2025-05-02 | 2025-06-01 | Python | Survey of DoF-Gaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DoF-Gaussian_survey) |
-| BAGS_survey | Private | 0 | 2025-05-04 | 2025-06-01 | Python | Survey of BAGS (ECCV 2024) | [🔗](https://github.com/kevin30205/BAGS_survey) |
-| 3DGS-DR_survey | Private | 0 | 2025-05-05 | 2025-06-01 | Python | Survey of 3DGS-DR (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/3DGS-DR_survey) |
-| RaDe-GS_survey | Private | 0 | 2025-04-30 | 2025-06-01 | C++ | Survey of RaDe-GS (arXiv 2024) | [🔗](https://github.com/kevin30205/RaDe-GS_survey) |
-| Ref-Gaussian_survey | Private | 0 | 2025-05-05 | 2025-06-01 | C++ | Survey of Ref-Gaussian (ICLR 2025) | [🔗](https://github.com/kevin30205/Ref-Gaussian_survey) |
-| 4DGaussians_survey | Private | 0 | 2025-05-07 | 2025-06-01 | Jupyter Notebook | Survey of 4DGaussians (CVPR 2024) | [🔗](https://github.com/kevin30205/4DGaussians_survey) |
-| SC-GS_survey | Private | 0 | 2025-05-07 | 2025-06-01 | Python | Survey of SC-GS (CVPR 2024) | [🔗](https://github.com/kevin30205/SC-GS_survey) |
-| BeNeRF_survey | Private | 0 | 2025-04-28 | 2025-06-01 | Python | Survey of BeNeRF (ECCV 2024) | [🔗](https://github.com/kevin30205/BeNeRF_survey) |
-| IRGS_survey | Private | 0 | 2025-05-07 | 2025-06-01 | HTML | Survey of IRGS (CVPR 2025) | [🔗](https://github.com/kevin30205/IRGS_survey) |
-| InvRender_survey | Private | 0 | 2025-05-06 | 2025-06-01 | Python | Survey of InvRender (CVPR 2022) | [🔗](https://github.com/kevin30205/InvRender_survey) |
-| TeT-Splatting_survey | Private | 0 | 2025-05-07 | 2025-06-01 | Jupyter Notebook | Survey of TeT-Splatting (NeurIPS 2024) | [🔗](https://github.com/kevin30205/TeT-Splatting_survey) |
-| SGCR_survey | Private | 0 | 2025-05-12 | 2025-06-01 | Python | Survey of SGCR (CVPR 2025) | [🔗](https://github.com/kevin30205/SGCR_survey) |
-| MonoGS_survey | Private | 0 | 2025-05-11 | 2025-06-01 | Python | Survey of MonoGS (CVPR 2024) | [🔗](https://github.com/kevin30205/MonoGS_survey) |
-| Beta-Splatting_survey | Private | 0 | 2025-05-12 | 2025-06-01 | Python | Survey of Beta Splatting (SIGGRAPH 2025) | [🔗](https://github.com/kevin30205/Beta-Splatting_survey) |
-| AtomGS_survey | Private | 0 | 2025-05-12 | 2025-06-01 | Python | Survey of AtomGS (BMVC 2024) | [🔗](https://github.com/kevin30205/AtomGS_survey) |
-| RoGSplat_survey | Private | 0 | 2025-05-09 | 2025-06-01 | Python | Survey of RoGSplat (CVPR 2025) | [🔗](https://github.com/kevin30205/RoGSplat_survey) |
-| 3D-Student-Splatting-and-Scooping_survey | Private | 0 | 2025-05-13 | 2025-06-01 | Python | Survey of 3D Student Splatting and Scooping (CVPR 2025) | [🔗](https://github.com/kevin30205/3D-Student-Splatting-and-Scooping_survey) |
-| Self-Organizing-Gaussians_survey | Private | 0 | 2025-05-14 | 2025-06-01 | Python | Survey of Self-Organizing Gaussians (ECCV 2024) | [🔗](https://github.com/kevin30205/Self-Organizing-Gaussians_survey) |
-| GES_survey | Private | 0 | 2025-05-14 | 2025-06-01 | Python | Survey of GES (CVPR 2024) | [🔗](https://github.com/kevin30205/GES_survey) |
-| Sparse-Voxels-Rasterizer_survey | Private | 0 | 2025-05-13 | 2025-06-01 | Jupyter Notebook | Survey of Sparse Voxels Rasterizer (CVPR 2025) | [🔗](https://github.com/kevin30205/Sparse-Voxels-Rasterizer_survey) |
-| HoGS_survey | Private | 0 | 2025-05-13 | 2025-06-01 | C++ | Survey of HoGS (CVPR 2025) | [🔗](https://github.com/kevin30205/HoGS_survey) |
-| OP43DGS_survey | Private | 0 | 2025-05-14 | 2025-06-01 | Cuda | Survey of OP43DGS (ECCV 2024) | [🔗](https://github.com/kevin30205/OP43DGS_survey) |
-| Analytic-Splatting_survey | Private | 0 | 2025-05-15 | 2025-06-01 | Python | Survey of Analytic-Splatting (ECCV 2024) | [🔗](https://github.com/kevin30205/Analytic-Splatting_survey) |
-| GaGS_survey | Private | 0 | 2025-05-15 | 2025-06-01 | C++ | Survey of GaGS (CVPR 2024) | [🔗](https://github.com/kevin30205/GaGS_survey) |
-| CoherentGS_survey | Private | 0 | 2025-05-14 | 2025-06-01 | Python | Survey of CoherentGS (ECCV 2024) | [🔗](https://github.com/kevin30205/CoherentGS_survey) |
-| SteepGS_survey | Private | 0 | 2025-05-19 | 2025-06-01 | Python | Survey of SteepGS (CVPR 2025) | [🔗](https://github.com/kevin30205/SteepGS_survey) |
-| Taming-3DGS_survey | Private | 0 | 2025-05-18 | 2025-06-01 | Python | Survey of Taming 3DGS (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/Taming-3DGS_survey) |
-| Gaussian-Splatting-on-the-Move_survey | Private | 0 | 2025-04-30 | 2025-06-01 | Python | Survey of Gaussian Splatting on the Move (ECCV 2024) | [🔗](https://github.com/kevin30205/Gaussian-Splatting-on-the-Move_survey) |
-| DRGS_survey | Private | 0 | 2025-05-19 | 2025-06-01 | Python | Survey of DRGS (CVPRW 2024) | [🔗](https://github.com/kevin30205/DRGS_survey) |
-| BBSplat_survey | Private | 0 | 2025-05-15 | 2025-06-01 | Python | Survey of BBSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/BBSplat_survey) |
-| TensoIR_survey | Private | 0 | 2025-05-06 | 2025-06-01 | Python | Survey of TensoIR (CVPR 2023) | [🔗](https://github.com/kevin30205/TensoIR_survey) |
-| hierarchical-3d-gaussians_survey | Private | 0 | 2025-05-21 | 2025-06-01 | Python | Survey of Hierarchical 3D Gaussians (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/hierarchical-3d-gaussians_survey) |
-| ControlGS_survey | Private | 0 | 2025-05-29 | 2025-06-01 | C++ | Survey of ControlGS (arXiv 2025) | [🔗](https://github.com/kevin30205/ControlGS_survey) |
-| Deformable-Radial-Kernel-Splatting_survey | Private | 0 | 2025-05-21 | 2025-06-01 | Python | Survey of Deformable Radial Kernel Splatting (CVPR 2025) | [🔗](https://github.com/kevin30205/Deformable-Radial-Kernel-Splatting_survey) |
-| HAHA_survey | Private | 0 | 2025-05-21 | 2025-06-01 | Python | Survey of HAHA (ACCV 2024) | [🔗](https://github.com/kevin30205/HAHA_survey) |
-| SparseGS_survey | Private | 0 | 2025-05-19 | 2025-06-01 | Python | Survey of SparseGS (3DV 2025) | [🔗](https://github.com/kevin30205/SparseGS_survey) |
-| CoR-GS_survey | Private | 0 | 2025-05-29 | 2025-06-01 | Python | Survey of CoR-GS (ECCV 2024) | [🔗](https://github.com/kevin30205/CoR-GS_survey) |
-| AdR-Gaussian_survey | Private | 0 | 2025-05-30 | 2025-06-01 | Python | Survey of AdR-Gaussian (SIGGRAPH Asia 2024) | [🔗](https://github.com/kevin30205/AdR-Gaussian_survey) |
-| GaussianPrediction_survey | Private | 0 | 2025-05-30 | 2025-06-01 | HTML | Survey of GaussianPrediction (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/GaussianPrediction_survey) |
 
 ### toolbox
 
@@ -937,13 +937,13 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| X-Gaussian_survey | Private | 0 | 2025-04-22 | 2025-06-01 | Python | Survey of X-Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/X-Gaussian_survey) |
-| r2_gaussian_survey | Private | 0 | 2025-04-23 | 2025-06-01 | Python | Survey of R2 Gaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/r2_gaussian_survey) |
-| SAX-NeRF_survey | Private | 0 | 2025-04-22 | 2025-06-01 | Python | Survey of SAX-NeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SAX-NeRF_survey) |
+| SAX-NeRF_survey | Private | 0 | 2025-04-22 | 2025-06-18 | Python | Survey of SAX-NeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/SAX-NeRF_survey) |
+| r2_gaussian_survey | Private | 0 | 2025-04-23 | 2025-06-18 | Python | Survey of R2 Gaussian (NeurIPS 2024) | [🔗](https://github.com/kevin30205/r2_gaussian_survey) |
+| X-Gaussian_survey | Private | 0 | 2025-04-22 | 2025-06-18 | Python | Survey of X-Gaussian (ECCV 2024) | [🔗](https://github.com/kevin30205/X-Gaussian_survey) |
 
 
 
 ---
 
 
-> Last auto update: 2025-06-18 09:24:39 UTC+8
+> Last auto update: 2025-06-19 09:25:17 UTC+8
