@@ -149,11 +149,11 @@ You can run the script on your own computer to preview the generated README and 
 | C++ | 25 | 9.4% |
 | Jupyter Notebook | 13 | 4.9% |
 | HTML | 7 | 2.6% |
-| Unknown | 6 | 2.3% |
+| Markdown | 6 | 2.3% |
 | TeX | 3 | 1.1% |
 | Shell | 3 | 1.1% |
 | JavaScript | 2 | 0.8% |
-| Markdown | 2 | 0.8% |
+| Unknown | 2 | 0.8% |
 | Cuda | 1 | 0.4% |
 | CSS | 1 | 0.4% |
 | TypeScript | 1 | 0.4% |
@@ -301,10 +301,10 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Prompt-Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-06 | Python | Survey of Prompt Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Prompt-Depth-Anything_survey) |
-| Video-Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Video Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Video-Depth-Anything_survey) |
-| Depth-Anything-V2_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Depth-Anything-V2 (NeurIPS 2024) | [🔗](https://github.com/kevin30205/Depth-Anything-V2_survey) |
-| Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Depth Anything (CVPR 2024) | [🔗](https://github.com/kevin30205/Depth-Anything_survey) |
+| Prompt-Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Prompt Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Prompt-Depth-Anything_survey) |
+| Video-Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Video Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Video-Depth-Anything_survey) |
+| Depth-Anything-V2_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Depth-Anything-V2 (NeurIPS 2024) | [🔗](https://github.com/kevin30205/Depth-Anything-V2_survey) |
+| Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Depth Anything (CVPR 2024) | [🔗](https://github.com/kevin30205/Depth-Anything_survey) |
 
 ### dynamic
 
@@ -480,9 +480,9 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| Gemini_API_Guideline | Private | 0 | 2025-01-28 | 2025-06-19 | Markdown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
+| Wan2.1_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Wan2.1 | [🔗](https://github.com/kevin30205/Wan2.1_survey) |
 | FramePack_survey | Private | 0 | 2025-04-24 | 2025-06-18 | Python | Survey of FramePack (arXiv 2025) | [🔗](https://github.com/kevin30205/FramePack_survey) |
-| Wan2.1_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Wan2.1 | [🔗](https://github.com/kevin30205/Wan2.1_survey) |
-| Gemini_API_Guideline | Private | 0 | 2025-01-28 | 2025-06-01 | Unknown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
 
 ### nerf
 
@@ -558,23 +558,23 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-06-18 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| Meeting_Record | Private | 0 | 2024-08-04 | 2025-06-19 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
+| Course_Record | Private | 0 | 2024-08-05 | 2025-06-19 | Markdown | The Database of Course Recording | [🔗](https://github.com/kevin30205/Course_Record) |
+| Gemini_API_Guideline | Private | 0 | 2025-01-28 | 2025-06-19 | Markdown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
+| Traffic_Record | Private | 0 | 2023-12-14 | 2025-06-19 | Markdown | The Database of Traffic Record | [🔗](https://github.com/kevin30205/Traffic_Record) |
+| Document_Converter | Private | 0 | 2025-01-27 | 2025-06-19 | Python | Customized Usage of Document Converter. | [🔗](https://github.com/kevin30205/Document_Converter) |
+| faster-whisper_mine | Private | 0 | 2025-01-10 | 2025-06-19 | Python | Customized Usage of faster-whisper. | [🔗](https://github.com/kevin30205/faster-whisper_mine) |
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-06-19 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Curriculum-Vitae | Private | 0 | 2025-06-09 | 2025-06-09 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
 | Command_Memorandum | Private | 0 | 2023-09-05 | 2025-06-04 | Shell | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
 | Academic-Homepage | Private | 0 | 2025-05-20 | 2025-06-03 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
 | Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-01 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
-| Gemini_API_Guideline | Private | 0 | 2025-01-28 | 2025-06-01 | Unknown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
 | NeRF_Datasets | Private | 0 | 2023-09-05 | 2025-06-01 | Shell | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
-| Traffic_Record | Private | 0 | 2023-12-14 | 2025-06-01 | Unknown | The Database of Traffic Record | [🔗](https://github.com/kevin30205/Traffic_Record) |
 | Grounded-Segment-Anything_mine | Private | 0 | 2024-02-18 | 2025-06-01 | Jupyter Notebook | Customized Usage of Grounded-Segment-Anything by myself | [🔗](https://github.com/kevin30205/Grounded-Segment-Anything_mine) |
 | OccNeRF_optimized | Private | 0 | 2024-01-30 | 2025-06-01 | Python | The optimized code based on OccNeRF done by myself. | [🔗](https://github.com/kevin30205/OccNeRF_optimized) |
-| Meeting_Record | Private | 0 | 2024-08-04 | 2025-06-01 | Unknown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
-| Course_Record | Private | 0 | 2024-08-05 | 2025-06-01 | Unknown | The Database of Course Recording | [🔗](https://github.com/kevin30205/Course_Record) |
 | LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-06-01 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-06-01 | Shell | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
-| faster-whisper_mine | Private | 0 | 2025-01-10 | 2025-06-01 | Python | Customized Usage of faster-whisper. | [🔗](https://github.com/kevin30205/faster-whisper_mine) |
 | opencc-python_mine | Private | 0 | 2025-01-12 | 2025-06-01 | Python | Customized Usage of opencc-python. | [🔗](https://github.com/kevin30205/opencc-python_mine) |
-| Document_Converter | Private | 0 | 2025-01-27 | 2025-06-01 | Python | Customized Usage of Document Converter. | [🔗](https://github.com/kevin30205/Document_Converter) |
 | Document_Converter_marker | Private | 0 | 2025-01-28 | 2025-06-01 | Python | About Customized Usage of Document Converter using Marker. | [🔗](https://github.com/kevin30205/Document_Converter_marker) |
 | Linux_Command_Memorandum | Private | 0 | 2025-02-07 | 2025-06-01 | Python | A handy reference guide for common Linux commands. | [🔗](https://github.com/kevin30205/Linux_Command_Memorandum) |
 | C_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-01 | Python | The Guideline of C Programming Language. | [🔗](https://github.com/kevin30205/C_Programming_Language) |
@@ -609,9 +609,9 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| SAM-2_survey | Private | 0 | 2025-06-07 | 2025-06-08 | Jupyter Notebook | Survey of SAM 2 (ICLR 2025) | [🔗](https://github.com/kevin30205/SAM-2_survey) |
-| SAM-HQ_survey | Private | 0 | 2025-06-07 | 2025-06-08 | Jupyter Notebook | Survey of SAM-HQ (NeurIPS 2023) | [🔗](https://github.com/kevin30205/SAM-HQ_survey) |
-| Segment-Anything_survey | Private | 0 | 2025-06-07 | 2025-06-07 | Jupyter Notebook | Survey of Segment Anything (ICCV 2023) | [🔗](https://github.com/kevin30205/Segment-Anything_survey) |
+| SAM-2_survey | Private | 0 | 2025-06-07 | 2025-06-19 | Jupyter Notebook | Survey of SAM 2 (ICLR 2025) | [🔗](https://github.com/kevin30205/SAM-2_survey) |
+| SAM-HQ_survey | Private | 0 | 2025-06-07 | 2025-06-19 | Jupyter Notebook | Survey of SAM-HQ (NeurIPS 2023) | [🔗](https://github.com/kevin30205/SAM-HQ_survey) |
+| Segment-Anything_survey | Private | 0 | 2025-06-07 | 2025-06-19 | Jupyter Notebook | Survey of Segment Anything (ICCV 2023) | [🔗](https://github.com/kevin30205/Segment-Anything_survey) |
 
 ### slam
 
@@ -672,6 +672,16 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| fish-speech_survey | Private | 0 | 2025-06-06 | 2025-06-19 | Python | Survey of Fish Speech | [🔗](https://github.com/kevin30205/fish-speech_survey) |
+| bark_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Jupyter Notebook | Survey of bark (Suno) | [🔗](https://github.com/kevin30205/bark_survey) |
+| Wan2.1_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Wan2.1 | [🔗](https://github.com/kevin30205/Wan2.1_survey) |
+| Prompt-Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Prompt Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Prompt-Depth-Anything_survey) |
+| Video-Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Video Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Video-Depth-Anything_survey) |
+| Depth-Anything-V2_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Depth-Anything-V2 (NeurIPS 2024) | [🔗](https://github.com/kevin30205/Depth-Anything-V2_survey) |
+| Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Depth Anything (CVPR 2024) | [🔗](https://github.com/kevin30205/Depth-Anything_survey) |
+| SAM-2_survey | Private | 0 | 2025-06-07 | 2025-06-19 | Jupyter Notebook | Survey of SAM 2 (ICLR 2025) | [🔗](https://github.com/kevin30205/SAM-2_survey) |
+| SAM-HQ_survey | Private | 0 | 2025-06-07 | 2025-06-19 | Jupyter Notebook | Survey of SAM-HQ (NeurIPS 2023) | [🔗](https://github.com/kevin30205/SAM-HQ_survey) |
+| Segment-Anything_survey | Private | 0 | 2025-06-07 | 2025-06-19 | Jupyter Notebook | Survey of Segment Anything (ICCV 2023) | [🔗](https://github.com/kevin30205/Segment-Anything_survey) |
 | ABC-GS_survey | Private | 0 | 2025-06-15 | 2025-06-18 | Python | Survey of ABC-GS (ICME 2025) | [🔗](https://github.com/kevin30205/ABC-GS_survey) |
 | LAENeRF_survey | Private | 0 | 2025-06-14 | 2025-06-18 | HTML | Survey of LAENeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/LAENeRF_survey) |
 | StopThePop_survey | Private | 0 | 2025-06-14 | 2025-06-18 | Python | Survey of StopThePop (SIGGRAPH 2024) | [🔗](https://github.com/kevin30205/StopThePop_survey) |
@@ -861,16 +871,6 @@ You can run the script on your own computer to preview the generated README and 
 | DVGOv2_survey | Private | 0 | 2023-09-03 | 2025-06-18 | Python | Survey of DVGO_v2 (CVPR 2022) | [🔗](https://github.com/kevin30205/DVGOv2_survey) |
 | DVGOv1_survey | Private | 0 | 2023-09-04 | 2025-06-18 | Python | Survey of DVGO_v1 (CVPR 2022) | [🔗](https://github.com/kevin30205/DVGOv1_survey) |
 | Vid2Avatar_survey | Private | 0 | 2023-09-26 | 2025-06-18 | Python | Survey of Vid2Avatar (CVPR 2023) | [🔗](https://github.com/kevin30205/Vid2Avatar_survey) |
-| SAM-2_survey | Private | 0 | 2025-06-07 | 2025-06-08 | Jupyter Notebook | Survey of SAM 2 (ICLR 2025) | [🔗](https://github.com/kevin30205/SAM-2_survey) |
-| SAM-HQ_survey | Private | 0 | 2025-06-07 | 2025-06-08 | Jupyter Notebook | Survey of SAM-HQ (NeurIPS 2023) | [🔗](https://github.com/kevin30205/SAM-HQ_survey) |
-| fish-speech_survey | Private | 0 | 2025-06-06 | 2025-06-07 | Python | Survey of Fish Speech | [🔗](https://github.com/kevin30205/fish-speech_survey) |
-| Segment-Anything_survey | Private | 0 | 2025-06-07 | 2025-06-07 | Jupyter Notebook | Survey of Segment Anything (ICCV 2023) | [🔗](https://github.com/kevin30205/Segment-Anything_survey) |
-| Prompt-Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-06 | Python | Survey of Prompt Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Prompt-Depth-Anything_survey) |
-| Video-Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Video Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Video-Depth-Anything_survey) |
-| Depth-Anything-V2_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Depth-Anything-V2 (NeurIPS 2024) | [🔗](https://github.com/kevin30205/Depth-Anything-V2_survey) |
-| Wan2.1_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Wan2.1 | [🔗](https://github.com/kevin30205/Wan2.1_survey) |
-| Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Python | Survey of Depth Anything (CVPR 2024) | [🔗](https://github.com/kevin30205/Depth-Anything_survey) |
-| bark_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Jupyter Notebook | Survey of bark (Suno) | [🔗](https://github.com/kevin30205/bark_survey) |
 | PHALP_survey | Private | 0 | 2025-04-07 | 2025-06-01 | Python | Survey of PHALP (CVPR 2022) | [🔗](https://github.com/kevin30205/PHALP_survey) |
 | 4D-Humans_mine | Private | 0 | 2024-02-26 | 2025-06-01 | Python | 4D-Humans is used to preprocess the data to obtain the SMPL parameters. | [🔗](https://github.com/kevin30205/4D-Humans_mine) |
 | numpy-ml_survey | Private | 0 | 2025-02-06 | 2025-06-01 | Python | Survey of numpy-ml. | [🔗](https://github.com/kevin30205/numpy-ml_survey) |
@@ -928,8 +928,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| fish-speech_survey | Private | 0 | 2025-06-06 | 2025-06-07 | Python | Survey of Fish Speech | [🔗](https://github.com/kevin30205/fish-speech_survey) |
-| bark_survey | Private | 0 | 2025-06-05 | 2025-06-05 | Jupyter Notebook | Survey of bark (Suno) | [🔗](https://github.com/kevin30205/bark_survey) |
+| fish-speech_survey | Private | 0 | 2025-06-06 | 2025-06-19 | Python | Survey of Fish Speech | [🔗](https://github.com/kevin30205/fish-speech_survey) |
+| bark_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Jupyter Notebook | Survey of bark (Suno) | [🔗](https://github.com/kevin30205/bark_survey) |
 
 ### x-ray
 
@@ -946,4 +946,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-06-19 09:25:17 UTC+8
+> Last auto update: 2025-06-20 09:24:34 UTC+8
