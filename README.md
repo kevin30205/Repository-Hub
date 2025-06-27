@@ -137,27 +137,27 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 270 |
+| Total  | 273 |
 | Public | 1 |
-| Private| 269 |
+| Private| 272 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 201 | 74.4% |
-| C++ | 26 | 9.6% |
-| Jupyter Notebook | 13 | 4.8% |
-| Markdown | 8 | 3.0% |
+| Python | 201 | 73.6% |
+| C++ | 26 | 9.5% |
+| Jupyter Notebook | 14 | 5.1% |
+| Markdown | 10 | 3.7% |
 | HTML | 7 | 2.6% |
 | TeX | 3 | 1.1% |
-| Shell | 3 | 1.1% |
+| TypeScript | 2 | 0.7% |
 | JavaScript | 2 | 0.7% |
+| Shell | 2 | 0.7% |
 | Unknown | 2 | 0.7% |
 | Kotlin | 1 | 0.4% |
 | Cuda | 1 | 0.4% |
 | CSS | 1 | 0.4% |
-| TypeScript | 1 | 0.4% |
 | Svelte | 1 | 0.4% |
 
 ![Language Distribution Overview](charts/language_pie.png)
@@ -306,6 +306,14 @@ You can run the script on your own computer to preview the generated README and 
 | Video-Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Video Depth Anything (CVPR 2025) | [🔗](https://github.com/kevin30205/Video-Depth-Anything_survey) |
 | Depth-Anything-V2_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Depth-Anything-V2 (NeurIPS 2024) | [🔗](https://github.com/kevin30205/Depth-Anything-V2_survey) |
 | Depth-Anything_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Python | Survey of Depth Anything (CVPR 2024) | [🔗](https://github.com/kevin30205/Depth-Anything_survey) |
+
+### diffusion-models
+
+* **Total Repositories:** 1
+
+| Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
+|---|---|---|---|---|---|---|---|
+| pytorch-stable-diffusion_survey | Private | 0 | 2025-06-26 | 2025-06-26 | Jupyter Notebook | Survey of pytorch-stable-diffusion. | [🔗](https://github.com/kevin30205/pytorch-stable-diffusion_survey) |
 
 ### dynamic
 
@@ -555,31 +563,32 @@ You can run the script on your own computer to preview the generated README and 
 
 ### personal
 
-* **Total Repositories:** 22
+* **Total Repositories:** 23
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-25 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-06-25 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| Command_Memorandum | Private | 0 | 2023-09-05 | 2025-06-26 | Markdown | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
+| Document_Converter_marker | Private | 0 | 2025-01-28 | 2025-06-26 | Python | About Customized Usage of Document Converter using Marker. | [🔗](https://github.com/kevin30205/Document_Converter_marker) |
+| Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-26 | Markdown | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
+| whisper_mine | Private | 0 | 2025-06-26 | 2025-06-26 | Python | Customized Usage of Whisper. | [🔗](https://github.com/kevin30205/whisper_mine) |
+| Meeting_Record | Private | 0 | 2024-08-04 | 2025-06-26 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-06-26 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Conference_Paper_Downloader | Private | 0 | 2025-01-26 | 2025-06-24 | Python | Customized Usage of Conference Paper Downloader. | [🔗](https://github.com/kevin30205/Conference_Paper_Downloader) |
 | C_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-20 | Markdown | The Guideline of C Programming Language. | [🔗](https://github.com/kevin30205/C_Programming_Language) |
 | OccNeRF_optimized | Private | 0 | 2024-01-30 | 2025-06-20 | Python | The optimized code based on OccNeRF done by myself. | [🔗](https://github.com/kevin30205/OccNeRF_optimized) |
 | Grounded-Segment-Anything_mine | Private | 0 | 2024-02-18 | 2025-06-20 | Jupyter Notebook | Customized Usage of Grounded-Segment-Anything by myself | [🔗](https://github.com/kevin30205/Grounded-Segment-Anything_mine) |
 | Gemini_API_Guideline | Private | 0 | 2025-01-28 | 2025-06-20 | Markdown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
 | Linux_Command_Memorandum | Private | 0 | 2025-02-07 | 2025-06-20 | Markdown | A handy reference guide for common Linux commands. | [🔗](https://github.com/kevin30205/Linux_Command_Memorandum) |
-| Meeting_Record | Private | 0 | 2024-08-04 | 2025-06-19 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
 | Course_Record | Private | 0 | 2024-08-05 | 2025-06-19 | Markdown | The Database of Course Recording | [🔗](https://github.com/kevin30205/Course_Record) |
 | Traffic_Record | Private | 0 | 2023-12-14 | 2025-06-19 | Markdown | The Database of Traffic Record | [🔗](https://github.com/kevin30205/Traffic_Record) |
 | Document_Converter | Private | 0 | 2025-01-27 | 2025-06-19 | Python | Customized Usage of Document Converter. | [🔗](https://github.com/kevin30205/Document_Converter) |
 | faster-whisper_mine | Private | 0 | 2025-01-10 | 2025-06-19 | Python | Customized Usage of faster-whisper. | [🔗](https://github.com/kevin30205/faster-whisper_mine) |
 | Curriculum-Vitae | Private | 0 | 2025-06-09 | 2025-06-09 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
-| Command_Memorandum | Private | 0 | 2023-09-05 | 2025-06-04 | Shell | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
 | Academic-Homepage | Private | 0 | 2025-05-20 | 2025-06-03 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
 | NeRF_Datasets | Private | 0 | 2023-09-05 | 2025-06-01 | Shell | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
 | LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-06-01 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-06-01 | Shell | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
 | opencc-python_mine | Private | 0 | 2025-01-12 | 2025-06-01 | Python | Customized Usage of opencc-python. | [🔗](https://github.com/kevin30205/opencc-python_mine) |
-| Document_Converter_marker | Private | 0 | 2025-01-28 | 2025-06-01 | Python | About Customized Usage of Document Converter using Marker. | [🔗](https://github.com/kevin30205/Document_Converter_marker) |
 | Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-01 | Python | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 
 ### pose-estimation
@@ -655,7 +664,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-25 | Python | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
+| Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-26 | Markdown | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
 | C_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-20 | Markdown | The Guideline of C Programming Language. | [🔗](https://github.com/kevin30205/C_Programming_Language) |
 | OccNeRF_optimized | Private | 0 | 2024-01-30 | 2025-06-20 | Python | The optimized code based on OccNeRF done by myself. | [🔗](https://github.com/kevin30205/OccNeRF_optimized) |
 | Linux_Command_Memorandum | Private | 0 | 2025-02-07 | 2025-06-20 | Markdown | A handy reference guide for common Linux commands. | [🔗](https://github.com/kevin30205/Linux_Command_Memorandum) |
@@ -669,10 +678,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### survey
 
-* **Total Repositories:** 206
+* **Total Repositories:** 207
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| pytorch-stable-diffusion_survey | Private | 0 | 2025-06-26 | 2025-06-26 | Jupyter Notebook | Survey of pytorch-stable-diffusion. | [🔗](https://github.com/kevin30205/pytorch-stable-diffusion_survey) |
 | 4D-Humans_mine | Private | 0 | 2024-02-26 | 2025-06-20 | Python | 4D-Humans is used to preprocess the data to obtain the SMPL parameters. | [🔗](https://github.com/kevin30205/4D-Humans_mine) |
 | fish-speech_survey | Private | 0 | 2025-06-06 | 2025-06-19 | Python | Survey of Fish Speech | [🔗](https://github.com/kevin30205/fish-speech_survey) |
 | bark_survey | Private | 0 | 2025-06-05 | 2025-06-19 | Jupyter Notebook | Survey of bark (Suno) | [🔗](https://github.com/kevin30205/bark_survey) |
@@ -882,10 +892,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### toolbox
 
-* **Total Repositories:** 40
+* **Total Repositories:** 41
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| DeepWiki-Open_tool | Private | 0 | 2025-06-26 | 2025-06-26 | TypeScript | DeepWiki-Open: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. | [🔗](https://github.com/kevin30205/DeepWiki-Open_tool) |
 | Quarkdown_tool | Private | 0 | 2025-06-20 | 2025-06-20 | Kotlin | Quarkdown: A modern Markdown-based typesetting system. | [🔗](https://github.com/kevin30205/Quarkdown_tool) |
 | WSL_tool | Private | 0 | 2025-06-20 | 2025-06-20 | C++ | WSL: Windows Subsystem for Linux | [🔗](https://github.com/kevin30205/WSL_tool) |
 | ChatReviewer_tool | Private | 0 | 2025-06-20 | 2025-06-20 | Python | ChatReviewer is a tool to analyze the papers and gives suggestions. | [🔗](https://github.com/kevin30205/ChatReviewer_tool) |
@@ -951,4 +962,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-06-26 09:25:06 UTC+8
+> Last auto update: 2025-06-27 09:26:04 UTC+8
