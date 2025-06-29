@@ -148,17 +148,17 @@ You can run the script on your own computer to preview the generated README and 
 | Python | 201 | 73.6% |
 | C++ | 26 | 9.5% |
 | Jupyter Notebook | 14 | 5.1% |
-| Markdown | 10 | 3.7% |
+| Markdown | 11 | 4.0% |
 | HTML | 7 | 2.6% |
 | TeX | 3 | 1.1% |
 | TypeScript | 2 | 0.7% |
 | JavaScript | 2 | 0.7% |
 | Shell | 2 | 0.7% |
-| Unknown | 2 | 0.7% |
 | Kotlin | 1 | 0.4% |
 | Cuda | 1 | 0.4% |
 | CSS | 1 | 0.4% |
 | Svelte | 1 | 0.4% |
+| Unknown | 1 | 0.4% |
 
 ![Language Distribution Overview](charts/language_pie.png)
 
@@ -196,12 +196,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### Unassigned
 
-* **Total Repositories:** 2
+* **Total Repositories:** 1
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
 | competation-pawpularity | Public | 0 | 2023-04-25 | 2025-03-27 | Jupyter Notebook |  | [🔗](https://github.com/RxChi1d/competation-pawpularity) |
-| Japanese_Study | Private | 0 | 2025-02-23 | 2025-02-23 | Unknown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
 
 ### acceleration
 
@@ -563,11 +562,12 @@ You can run the script on your own computer to preview the generated README and 
 
 ### personal
 
-* **Total Repositories:** 23
+* **Total Repositories:** 24
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-06-27 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-29 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-06-28 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Command_Memorandum | Private | 0 | 2023-09-05 | 2025-06-26 | Markdown | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
 | Document_Converter_marker | Private | 0 | 2025-01-28 | 2025-06-26 | Python | About Customized Usage of Document Converter using Marker. | [🔗](https://github.com/kevin30205/Document_Converter_marker) |
 | Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-26 | Markdown | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
@@ -660,10 +660,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### study
 
-* **Total Repositories:** 11
+* **Total Repositories:** 12
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-29 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
 | Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-26 | Markdown | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
 | C_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-20 | Markdown | The Guideline of C Programming Language. | [🔗](https://github.com/kevin30205/C_Programming_Language) |
 | OccNeRF_optimized | Private | 0 | 2024-01-30 | 2025-06-20 | Python | The optimized code based on OccNeRF done by myself. | [🔗](https://github.com/kevin30205/OccNeRF_optimized) |
@@ -962,4 +963,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-06-28 09:23:06 UTC+8
+> Last auto update: 2025-06-29 09:42:34 UTC+8
