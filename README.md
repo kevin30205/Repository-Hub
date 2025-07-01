@@ -566,8 +566,9 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-06-29 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
-| Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-29 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
+| Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-30 | Python | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
+| Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-30 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-06-30 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Command_Memorandum | Private | 0 | 2023-09-05 | 2025-06-26 | Markdown | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
 | Document_Converter_marker | Private | 0 | 2025-01-28 | 2025-06-26 | Python | About Customized Usage of Document Converter using Marker. | [🔗](https://github.com/kevin30205/Document_Converter_marker) |
 | Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-26 | Markdown | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
@@ -589,7 +590,6 @@ You can run the script on your own computer to preview the generated README and 
 | LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-06-01 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-06-01 | Shell | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
 | opencc-python_mine | Private | 0 | 2025-01-12 | 2025-06-01 | Python | Customized Usage of opencc-python. | [🔗](https://github.com/kevin30205/opencc-python_mine) |
-| Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-01 | Python | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 
 ### pose-estimation
 
@@ -664,7 +664,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-29 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
+| Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-30 | Python | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
+| Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-30 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
 | Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-26 | Markdown | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
 | C_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-20 | Markdown | The Guideline of C Programming Language. | [🔗](https://github.com/kevin30205/C_Programming_Language) |
 | OccNeRF_optimized | Private | 0 | 2024-01-30 | 2025-06-20 | Python | The optimized code based on OccNeRF done by myself. | [🔗](https://github.com/kevin30205/OccNeRF_optimized) |
@@ -675,7 +676,6 @@ You can run the script on your own computer to preview the generated README and 
 | Algorithms-Python_survey | Private | 0 | 2025-02-07 | 2025-06-01 | Python | Survey of Python Algorithms. | [🔗](https://github.com/kevin30205/Algorithms-Python_survey) |
 | Algorithms-Explanation_survey | Private | 0 | 2025-02-07 | 2025-06-01 | Unknown | Survey of Algorithms-Explanation | [🔗](https://github.com/kevin30205/Algorithms-Explanation_survey) |
 | Algorithms-C-Plus-Plus_survey | Private | 0 | 2025-02-07 | 2025-06-01 | C++ | Survey of C-Plus-Plus Algorithms. | [🔗](https://github.com/kevin30205/Algorithms-C-Plus-Plus_survey) |
-| Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-01 | Python | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 
 ### survey
 
@@ -963,4 +963,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-06-30 09:39:03 UTC+8
+> Last auto update: 2025-07-01 09:44:04 UTC+8
