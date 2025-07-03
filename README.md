@@ -145,10 +145,10 @@ You can run the script on your own computer to preview the generated README and 
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 201 | 73.6% |
+| Python | 200 | 73.3% |
 | C++ | 26 | 9.5% |
 | Jupyter Notebook | 14 | 5.1% |
-| Markdown | 11 | 4.0% |
+| Markdown | 12 | 4.4% |
 | HTML | 7 | 2.6% |
 | TeX | 3 | 1.1% |
 | TypeScript | 2 | 0.7% |
@@ -566,8 +566,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-01 | Python | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-01 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-02 | Markdown | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-02 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-30 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
 | Command_Memorandum | Private | 0 | 2023-09-05 | 2025-06-26 | Markdown | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
 | Document_Converter_marker | Private | 0 | 2025-01-28 | 2025-06-26 | Python | About Customized Usage of Document Converter using Marker. | [🔗](https://github.com/kevin30205/Document_Converter_marker) |
@@ -664,7 +664,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-01 | Python | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
+| Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-02 | Markdown | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 | Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-30 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
 | Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-26 | Markdown | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
 | C_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-20 | Markdown | The Guideline of C Programming Language. | [🔗](https://github.com/kevin30205/C_Programming_Language) |
@@ -963,4 +963,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-07-02 09:25:52 UTC+8
+> Last auto update: 2025-07-03 09:25:42 UTC+8
