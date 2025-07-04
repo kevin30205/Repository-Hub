@@ -148,12 +148,12 @@ You can run the script on your own computer to preview the generated README and 
 | Python | 200 | 73.3% |
 | C++ | 26 | 9.5% |
 | Jupyter Notebook | 14 | 5.1% |
-| Markdown | 12 | 4.4% |
+| Markdown | 13 | 4.8% |
 | HTML | 7 | 2.6% |
 | TeX | 3 | 1.1% |
 | TypeScript | 2 | 0.7% |
 | JavaScript | 2 | 0.7% |
-| Shell | 2 | 0.7% |
+| Shell | 1 | 0.4% |
 | Kotlin | 1 | 0.4% |
 | Cuda | 1 | 0.4% |
 | CSS | 1 | 0.4% |
@@ -279,7 +279,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| NeRF_Datasets | Private | 0 | 2023-09-05 | 2025-06-01 | Shell | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
+| NeRF_Datasets | Private | 0 | 2023-09-05 | 2025-07-03 | Markdown | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
 
 ### deblur
 
@@ -566,8 +566,11 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-03 | Shell | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
+| NeRF_Datasets | Private | 0 | 2023-09-05 | 2025-07-03 | Markdown | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
+| LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-07-03 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-03 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-02 | Markdown | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-02 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-30 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
 | Command_Memorandum | Private | 0 | 2023-09-05 | 2025-06-26 | Markdown | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
 | Document_Converter_marker | Private | 0 | 2025-01-28 | 2025-06-26 | Python | About Customized Usage of Document Converter using Marker. | [🔗](https://github.com/kevin30205/Document_Converter_marker) |
@@ -586,9 +589,6 @@ You can run the script on your own computer to preview the generated README and 
 | faster-whisper_mine | Private | 0 | 2025-01-10 | 2025-06-19 | Python | Customized Usage of faster-whisper. | [🔗](https://github.com/kevin30205/faster-whisper_mine) |
 | Curriculum-Vitae | Private | 0 | 2025-06-09 | 2025-06-09 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
 | Academic-Homepage | Private | 0 | 2025-05-20 | 2025-06-03 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
-| NeRF_Datasets | Private | 0 | 2023-09-05 | 2025-06-01 | Shell | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
-| LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-06-01 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
-| HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-06-01 | Shell | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
 | opencc-python_mine | Private | 0 | 2025-01-12 | 2025-06-01 | Python | Customized Usage of opencc-python. | [🔗](https://github.com/kevin30205/opencc-python_mine) |
 
 ### pose-estimation
@@ -664,14 +664,14 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-03 | Shell | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
+| LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-07-03 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-02 | Markdown | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 | Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-30 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
 | Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-26 | Markdown | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
 | C_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-20 | Markdown | The Guideline of C Programming Language. | [🔗](https://github.com/kevin30205/C_Programming_Language) |
 | OccNeRF_optimized | Private | 0 | 2024-01-30 | 2025-06-20 | Python | The optimized code based on OccNeRF done by myself. | [🔗](https://github.com/kevin30205/OccNeRF_optimized) |
 | Linux_Command_Memorandum | Private | 0 | 2025-02-07 | 2025-06-20 | Markdown | A handy reference guide for common Linux commands. | [🔗](https://github.com/kevin30205/Linux_Command_Memorandum) |
-| LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-06-01 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
-| HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-06-01 | Shell | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
 | numpy-ml_survey | Private | 0 | 2025-02-06 | 2025-06-01 | Python | Survey of numpy-ml. | [🔗](https://github.com/kevin30205/numpy-ml_survey) |
 | Algorithms-Python_survey | Private | 0 | 2025-02-07 | 2025-06-01 | Python | Survey of Python Algorithms. | [🔗](https://github.com/kevin30205/Algorithms-Python_survey) |
 | Algorithms-Explanation_survey | Private | 0 | 2025-02-07 | 2025-06-01 | Unknown | Survey of Algorithms-Explanation | [🔗](https://github.com/kevin30205/Algorithms-Explanation_survey) |
@@ -963,4 +963,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-07-03 09:25:42 UTC+8
+> Last auto update: 2025-07-04 09:25:18 UTC+8
