@@ -145,7 +145,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 200 | 73.3% |
+| Python | 201 | 73.6% |
 | C++ | 26 | 9.5% |
 | Jupyter Notebook | 14 | 5.1% |
 | Markdown | 13 | 4.8% |
@@ -153,7 +153,6 @@ You can run the script on your own computer to preview the generated README and 
 | TeX | 3 | 1.1% |
 | TypeScript | 2 | 0.7% |
 | JavaScript | 2 | 0.7% |
-| Shell | 1 | 0.4% |
 | Kotlin | 1 | 0.4% |
 | Cuda | 1 | 0.4% |
 | CSS | 1 | 0.4% |
@@ -566,8 +565,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-04 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
-| HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-03 | Shell | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
+| HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-05 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-05 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | NeRF_Datasets | Private | 0 | 2023-09-05 | 2025-07-03 | Markdown | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
 | LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-07-03 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-02 | Markdown | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
@@ -664,7 +663,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-03 | Shell | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
+| HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-05 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
 | LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-07-03 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-02 | Markdown | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 | Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-30 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
@@ -963,4 +962,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-07-05 09:22:45 UTC+8
+> Last auto update: 2025-07-06 09:41:26 UTC+8
