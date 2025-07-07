@@ -137,22 +137,23 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 273 |
+| Total  | 275 |
 | Public | 1 |
-| Private| 272 |
+| Private| 274 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 201 | 73.6% |
+| Python | 202 | 73.5% |
 | C++ | 26 | 9.5% |
 | Jupyter Notebook | 14 | 5.1% |
-| Markdown | 13 | 4.8% |
-| HTML | 7 | 2.6% |
+| Markdown | 13 | 4.7% |
+| HTML | 7 | 2.5% |
 | TeX | 3 | 1.1% |
 | TypeScript | 2 | 0.7% |
 | JavaScript | 2 | 0.7% |
+| C | 1 | 0.4% |
 | Kotlin | 1 | 0.4% |
 | Cuda | 1 | 0.4% |
 | CSS | 1 | 0.4% |
@@ -493,10 +494,12 @@ You can run the script on your own computer to preview the generated README and 
 
 ### nerf
 
-* **Total Repositories:** 61
+* **Total Repositories:** 63
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| HOSNeRF_survey | Private | 0 | 2025-07-06 | 2025-07-06 | Python | Survey of HOSNeRF (ICCV 2023) | [🔗](https://github.com/kevin30205/HOSNeRF_survey) |
+| NFD_survey | Private | 0 | 2025-07-06 | 2025-07-06 | C | Survey of NFD (CVPR 2023) | [🔗](https://github.com/kevin30205/NFD_survey) |
 | LAENeRF_survey | Private | 0 | 2025-06-14 | 2025-06-18 | HTML | Survey of LAENeRF (CVPR 2024) | [🔗](https://github.com/kevin30205/LAENeRF_survey) |
 | ActiveNeRF_survey | Private | 0 | 2025-06-10 | 2025-06-18 | Python | Survey of  ActiveNeRF (ECCV 2022) | [🔗](https://github.com/kevin30205/ActiveNeRF_survey) |
 | NRHints_survey | Private | 0 | 2025-05-30 | 2025-06-18 | Python | Survey of NRHints (SIGGRAPH 2023) | [🔗](https://github.com/kevin30205/NRHints_survey) |
@@ -565,8 +568,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-05 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-05 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-06 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-06 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | NeRF_Datasets | Private | 0 | 2023-09-05 | 2025-07-03 | Markdown | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
 | LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-07-03 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-02 | Markdown | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
@@ -663,7 +666,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-05 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
+| HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-06 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
 | LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-07-03 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-02 | Markdown | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 | Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-30 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
@@ -678,10 +681,12 @@ You can run the script on your own computer to preview the generated README and 
 
 ### survey
 
-* **Total Repositories:** 207
+* **Total Repositories:** 209
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| HOSNeRF_survey | Private | 0 | 2025-07-06 | 2025-07-06 | Python | Survey of HOSNeRF (ICCV 2023) | [🔗](https://github.com/kevin30205/HOSNeRF_survey) |
+| NFD_survey | Private | 0 | 2025-07-06 | 2025-07-06 | C | Survey of NFD (CVPR 2023) | [🔗](https://github.com/kevin30205/NFD_survey) |
 | pytorch-stable-diffusion_survey | Private | 0 | 2025-06-26 | 2025-06-26 | Jupyter Notebook | Survey of pytorch-stable-diffusion. | [🔗](https://github.com/kevin30205/pytorch-stable-diffusion_survey) |
 | 4D-Humans_mine | Private | 0 | 2024-02-26 | 2025-06-20 | Python | 4D-Humans is used to preprocess the data to obtain the SMPL parameters. | [🔗](https://github.com/kevin30205/4D-Humans_mine) |
 | fish-speech_survey | Private | 0 | 2025-06-06 | 2025-06-19 | Python | Survey of Fish Speech | [🔗](https://github.com/kevin30205/fish-speech_survey) |
@@ -962,4 +967,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-07-06 09:41:26 UTC+8
+> Last auto update: 2025-07-07 09:39:29 UTC+8
