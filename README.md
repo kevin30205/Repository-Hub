@@ -137,16 +137,16 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 275 |
+| Total  | 276 |
 | Public | 1 |
-| Private| 274 |
+| Private| 275 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 202 | 73.5% |
-| C++ | 26 | 9.5% |
+| Python | 203 | 73.6% |
+| C++ | 26 | 9.4% |
 | Jupyter Notebook | 14 | 5.1% |
 | Markdown | 13 | 4.7% |
 | HTML | 7 | 2.5% |
@@ -568,8 +568,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-07 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-06 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-06 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | NeRF_Datasets | Private | 0 | 2023-09-05 | 2025-07-03 | Markdown | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
 | LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-07-03 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-02 | Markdown | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
@@ -595,10 +595,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### pose-estimation
 
-* **Total Repositories:** 2
+* **Total Repositories:** 3
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| VIBE_survey | Private | 0 | 2025-07-07 | 2025-07-07 | Python | Survey of VIBE (CVPR 2020) | [🔗](https://github.com/kevin30205/VIBE_survey) |
 | 4D-Humans_mine | Private | 0 | 2024-02-26 | 2025-06-20 | Python | 4D-Humans is used to preprocess the data to obtain the SMPL parameters. | [🔗](https://github.com/kevin30205/4D-Humans_mine) |
 | PHALP_survey | Private | 0 | 2025-04-07 | 2025-06-01 | Python | Survey of PHALP (CVPR 2022) | [🔗](https://github.com/kevin30205/PHALP_survey) |
 
@@ -635,10 +636,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### smpl
 
-* **Total Repositories:** 3
+* **Total Repositories:** 4
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| VIBE_survey | Private | 0 | 2025-07-07 | 2025-07-07 | Python | Survey of VIBE (CVPR 2020) | [🔗](https://github.com/kevin30205/VIBE_survey) |
 | 4D-Humans_mine | Private | 0 | 2024-02-26 | 2025-06-20 | Python | 4D-Humans is used to preprocess the data to obtain the SMPL parameters. | [🔗](https://github.com/kevin30205/4D-Humans_mine) |
 | PHALP_survey | Private | 0 | 2025-04-07 | 2025-06-01 | Python | Survey of PHALP (CVPR 2022) | [🔗](https://github.com/kevin30205/PHALP_survey) |
 | SMPL-X_survey | Private | 0 | 2025-03-31 | 2025-06-01 | Python | Survey of SMPL-X (CVPR 2019) | [🔗](https://github.com/kevin30205/SMPL-X_survey) |
@@ -681,10 +683,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### survey
 
-* **Total Repositories:** 209
+* **Total Repositories:** 210
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| VIBE_survey | Private | 0 | 2025-07-07 | 2025-07-07 | Python | Survey of VIBE (CVPR 2020) | [🔗](https://github.com/kevin30205/VIBE_survey) |
 | HOSNeRF_survey | Private | 0 | 2025-07-06 | 2025-07-06 | Python | Survey of HOSNeRF (ICCV 2023) | [🔗](https://github.com/kevin30205/HOSNeRF_survey) |
 | NFD_survey | Private | 0 | 2025-07-06 | 2025-07-06 | C | Survey of NFD (CVPR 2023) | [🔗](https://github.com/kevin30205/NFD_survey) |
 | pytorch-stable-diffusion_survey | Private | 0 | 2025-06-26 | 2025-06-26 | Jupyter Notebook | Survey of pytorch-stable-diffusion. | [🔗](https://github.com/kevin30205/pytorch-stable-diffusion_survey) |
@@ -967,4 +970,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-07-07 09:39:29 UTC+8
+> Last auto update: 2025-07-08 09:26:13 UTC+8
