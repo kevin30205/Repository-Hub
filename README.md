@@ -568,7 +568,9 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-07 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| Course_Record | Private | 0 | 2024-08-05 | 2025-07-08 | Markdown | The Database of Course Recording | [🔗](https://github.com/kevin30205/Course_Record) |
+| Meeting_Record | Private | 0 | 2024-08-04 | 2025-07-08 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-08 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-06 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
 | NeRF_Datasets | Private | 0 | 2023-09-05 | 2025-07-03 | Markdown | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
 | LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-07-03 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
@@ -578,14 +580,12 @@ You can run the script on your own computer to preview the generated README and 
 | Document_Converter_marker | Private | 0 | 2025-01-28 | 2025-06-26 | Python | About Customized Usage of Document Converter using Marker. | [🔗](https://github.com/kevin30205/Document_Converter_marker) |
 | Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-26 | Markdown | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
 | whisper_mine | Private | 0 | 2025-06-26 | 2025-06-26 | Python | Customized Usage of Whisper. | [🔗](https://github.com/kevin30205/whisper_mine) |
-| Meeting_Record | Private | 0 | 2024-08-04 | 2025-06-26 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
 | Conference_Paper_Downloader | Private | 0 | 2025-01-26 | 2025-06-24 | Python | Customized Usage of Conference Paper Downloader. | [🔗](https://github.com/kevin30205/Conference_Paper_Downloader) |
 | C_Programming_Language | Private | 0 | 2025-02-23 | 2025-06-20 | Markdown | The Guideline of C Programming Language. | [🔗](https://github.com/kevin30205/C_Programming_Language) |
 | OccNeRF_optimized | Private | 0 | 2024-01-30 | 2025-06-20 | Python | The optimized code based on OccNeRF done by myself. | [🔗](https://github.com/kevin30205/OccNeRF_optimized) |
 | Grounded-Segment-Anything_mine | Private | 0 | 2024-02-18 | 2025-06-20 | Jupyter Notebook | Customized Usage of Grounded-Segment-Anything by myself | [🔗](https://github.com/kevin30205/Grounded-Segment-Anything_mine) |
 | Gemini_API_Guideline | Private | 0 | 2025-01-28 | 2025-06-20 | Markdown | The guideline of Gemini API. | [🔗](https://github.com/kevin30205/Gemini_API_Guideline) |
 | Linux_Command_Memorandum | Private | 0 | 2025-02-07 | 2025-06-20 | Markdown | A handy reference guide for common Linux commands. | [🔗](https://github.com/kevin30205/Linux_Command_Memorandum) |
-| Course_Record | Private | 0 | 2024-08-05 | 2025-06-19 | Markdown | The Database of Course Recording | [🔗](https://github.com/kevin30205/Course_Record) |
 | Traffic_Record | Private | 0 | 2023-12-14 | 2025-06-19 | Markdown | The Database of Traffic Record | [🔗](https://github.com/kevin30205/Traffic_Record) |
 | Document_Converter | Private | 0 | 2025-01-27 | 2025-06-19 | Python | Customized Usage of Document Converter. | [🔗](https://github.com/kevin30205/Document_Converter) |
 | faster-whisper_mine | Private | 0 | 2025-01-10 | 2025-06-19 | Python | Customized Usage of faster-whisper. | [🔗](https://github.com/kevin30205/faster-whisper_mine) |
@@ -599,7 +599,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| VIBE_survey | Private | 0 | 2025-07-07 | 2025-07-07 | Python | Survey of VIBE (CVPR 2020) | [🔗](https://github.com/kevin30205/VIBE_survey) |
+| VIBE_survey | Private | 0 | 2025-07-07 | 2025-07-08 | Python | Survey of VIBE (CVPR 2020) | [🔗](https://github.com/kevin30205/VIBE_survey) |
 | 4D-Humans_mine | Private | 0 | 2024-02-26 | 2025-06-20 | Python | 4D-Humans is used to preprocess the data to obtain the SMPL parameters. | [🔗](https://github.com/kevin30205/4D-Humans_mine) |
 | PHALP_survey | Private | 0 | 2025-04-07 | 2025-06-01 | Python | Survey of PHALP (CVPR 2022) | [🔗](https://github.com/kevin30205/PHALP_survey) |
 
@@ -640,7 +640,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| VIBE_survey | Private | 0 | 2025-07-07 | 2025-07-07 | Python | Survey of VIBE (CVPR 2020) | [🔗](https://github.com/kevin30205/VIBE_survey) |
+| VIBE_survey | Private | 0 | 2025-07-07 | 2025-07-08 | Python | Survey of VIBE (CVPR 2020) | [🔗](https://github.com/kevin30205/VIBE_survey) |
 | 4D-Humans_mine | Private | 0 | 2024-02-26 | 2025-06-20 | Python | 4D-Humans is used to preprocess the data to obtain the SMPL parameters. | [🔗](https://github.com/kevin30205/4D-Humans_mine) |
 | PHALP_survey | Private | 0 | 2025-04-07 | 2025-06-01 | Python | Survey of PHALP (CVPR 2022) | [🔗](https://github.com/kevin30205/PHALP_survey) |
 | SMPL-X_survey | Private | 0 | 2025-03-31 | 2025-06-01 | Python | Survey of SMPL-X (CVPR 2019) | [🔗](https://github.com/kevin30205/SMPL-X_survey) |
@@ -687,7 +687,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| VIBE_survey | Private | 0 | 2025-07-07 | 2025-07-07 | Python | Survey of VIBE (CVPR 2020) | [🔗](https://github.com/kevin30205/VIBE_survey) |
+| VIBE_survey | Private | 0 | 2025-07-07 | 2025-07-08 | Python | Survey of VIBE (CVPR 2020) | [🔗](https://github.com/kevin30205/VIBE_survey) |
 | HOSNeRF_survey | Private | 0 | 2025-07-06 | 2025-07-06 | Python | Survey of HOSNeRF (ICCV 2023) | [🔗](https://github.com/kevin30205/HOSNeRF_survey) |
 | NFD_survey | Private | 0 | 2025-07-06 | 2025-07-06 | C | Survey of NFD (CVPR 2023) | [🔗](https://github.com/kevin30205/NFD_survey) |
 | pytorch-stable-diffusion_survey | Private | 0 | 2025-06-26 | 2025-06-26 | Jupyter Notebook | Survey of pytorch-stable-diffusion. | [🔗](https://github.com/kevin30205/pytorch-stable-diffusion_survey) |
@@ -970,4 +970,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-07-08 09:26:13 UTC+8
+> Last auto update: 2025-07-09 09:27:23 UTC+8
