@@ -137,20 +137,21 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 276 |
+| Total  | 281 |
 | Public | 1 |
-| Private| 275 |
+| Private| 280 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 203 | 73.6% |
-| C++ | 26 | 9.4% |
-| Jupyter Notebook | 14 | 5.1% |
-| Markdown | 13 | 4.7% |
+| Python | 204 | 72.6% |
+| C++ | 26 | 9.3% |
+| Jupyter Notebook | 17 | 6.0% |
+| Markdown | 13 | 4.6% |
 | HTML | 7 | 2.5% |
 | TeX | 3 | 1.1% |
+| Unknown | 2 | 0.7% |
 | TypeScript | 2 | 0.7% |
 | JavaScript | 2 | 0.7% |
 | C | 1 | 0.4% |
@@ -158,7 +159,6 @@ You can run the script on your own computer to preview the generated README and 
 | Cuda | 1 | 0.4% |
 | CSS | 1 | 0.4% |
 | Svelte | 1 | 0.4% |
-| Unknown | 1 | 0.4% |
 
 ![Language Distribution Overview](charts/language_pie.png)
 
@@ -196,10 +196,11 @@ You can run the script on your own computer to preview the generated README and 
 
 ### Unassigned
 
-* **Total Repositories:** 1
+* **Total Repositories:** 2
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| 11120EE655000-Machine-Learning-Assignment | Private | 0 | 2025-07-16 | 2025-07-16 | Unknown | The Assignments in Course: 11120EE655000 Machine Learning. | [🔗](https://github.com/kevin30205/11120EE655000-Machine-Learning-Assignment) |
 | competation-pawpularity | Public | 0 | 2023-04-25 | 2025-03-27 | Jupyter Notebook |  | [🔗](https://github.com/RxChi1d/competation-pawpularity) |
 
 ### acceleration
@@ -210,6 +211,17 @@ You can run the script on your own computer to preview the generated README and 
 |---|---|---|---|---|---|---|---|
 | DashGaussian_survey | Private | 0 | 2025-06-07 | 2025-06-18 | C++ | Survey of DashGaussian (CVPR 2025) | [🔗](https://github.com/kevin30205/DashGaussian_survey) |
 | InstantSplat_survey | Private | 0 | 2025-04-08 | 2025-06-18 | Python | Survey of InstantSplat (arXiv 2024) | [🔗](https://github.com/kevin30205/InstantSplat_survey) |
+
+### assignment
+
+* **Total Repositories:** 4
+
+| Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
+|---|---|---|---|---|---|---|---|
+| 11110COM526000-Deep-Learning-Assignment | Private | 0 | 2025-07-16 | 2025-07-16 | Jupyter Notebook | The Assignments in Course: 11110COM526000 Deep Learning. | [🔗](https://github.com/kevin30205/11110COM526000-Deep-Learning-Assignment) |
+| 11110EE648500-Computer-Vision-Assignment | Private | 0 | 2025-07-16 | 2025-07-16 | Python | The Assignments in Course: 11110EE648500 Computer Vision. | [🔗](https://github.com/kevin30205/11110EE648500-Computer-Vision-Assignment) |
+| 11110COM525200-Financial-Technology-Assignment | Private | 0 | 2025-07-16 | 2025-07-16 | Jupyter Notebook | The Assignments in Course: 11110COM525200 Financial Technology. | [🔗](https://github.com/kevin30205/11110COM525200-Financial-Technology-Assignment) |
+| 2022-NVLab-Summer-School | Private | 0 | 2025-07-16 | 2025-07-16 | Jupyter Notebook | The Assignments in 2022 NVLab Summer School. | [🔗](https://github.com/kevin30205/2022-NVLab-Summer-School) |
 
 ### avatar
 
@@ -564,11 +576,15 @@ You can run the script on your own computer to preview the generated README and 
 
 ### personal
 
-* **Total Repositories:** 24
+* **Total Repositories:** 28
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-15 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| 11110COM526000-Deep-Learning-Assignment | Private | 0 | 2025-07-16 | 2025-07-16 | Jupyter Notebook | The Assignments in Course: 11110COM526000 Deep Learning. | [🔗](https://github.com/kevin30205/11110COM526000-Deep-Learning-Assignment) |
+| 11110EE648500-Computer-Vision-Assignment | Private | 0 | 2025-07-16 | 2025-07-16 | Python | The Assignments in Course: 11110EE648500 Computer Vision. | [🔗](https://github.com/kevin30205/11110EE648500-Computer-Vision-Assignment) |
+| 11110COM525200-Financial-Technology-Assignment | Private | 0 | 2025-07-16 | 2025-07-16 | Jupyter Notebook | The Assignments in Course: 11110COM525200 Financial Technology. | [🔗](https://github.com/kevin30205/11110COM525200-Financial-Technology-Assignment) |
+| 2022-NVLab-Summer-School | Private | 0 | 2025-07-16 | 2025-07-16 | Jupyter Notebook | The Assignments in 2022 NVLab Summer School. | [🔗](https://github.com/kevin30205/2022-NVLab-Summer-School) |
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-16 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Course_Record | Private | 0 | 2024-08-05 | 2025-07-08 | Markdown | The Database of Course Recording | [🔗](https://github.com/kevin30205/Course_Record) |
 | Meeting_Record | Private | 0 | 2024-08-04 | 2025-07-08 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
 | HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-06 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
@@ -970,4 +986,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-07-16 09:38:44 UTC+8
+> Last auto update: 2025-07-17 09:39:27 UTC+8
