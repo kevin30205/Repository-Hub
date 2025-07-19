@@ -581,9 +581,9 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-18 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | 11120CS560400-Introduction-to-Artificial-Intelligence-and-Arts-Assignment | Private | 0 | 2025-07-17 | 2025-07-17 | Python | The Assignments in Course: 11120CS560400 Introduction to Artificial Intelligence and Arts. | [🔗](https://github.com/kevin30205/11120CS560400-Introduction-to-Artificial-Intelligence-and-Arts-Assignment) |
 | 11120EE655000-Machine-Learning-Assignment | Private | 0 | 2025-07-16 | 2025-07-17 | Jupyter Notebook | The Assignments in Course: 11120EE655000 Machine Learning. | [🔗](https://github.com/kevin30205/11120EE655000-Machine-Learning-Assignment) |
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-17 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | 11110COM526000-Deep-Learning-Assignment | Private | 0 | 2025-07-16 | 2025-07-16 | Jupyter Notebook | The Assignments in Course: 11110COM526000 Deep Learning. | [🔗](https://github.com/kevin30205/11110COM526000-Deep-Learning-Assignment) |
 | 11110EE648500-Computer-Vision-Assignment | Private | 0 | 2025-07-16 | 2025-07-16 | Python | The Assignments in Course: 11110EE648500 Computer Vision. | [🔗](https://github.com/kevin30205/11110EE648500-Computer-Vision-Assignment) |
 | 11110COM525200-Financial-Technology-Assignment | Private | 0 | 2025-07-16 | 2025-07-16 | Jupyter Notebook | The Assignments in Course: 11110COM525200 Financial Technology. | [🔗](https://github.com/kevin30205/11110COM525200-Financial-Technology-Assignment) |
@@ -989,4 +989,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-07-18 09:40:09 UTC+8
+> Last auto update: 2025-07-19 09:27:11 UTC+8
