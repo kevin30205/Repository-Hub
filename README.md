@@ -137,15 +137,15 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 282 |
+| Total  | 283 |
 | Public | 1 |
-| Private| 281 |
+| Private| 282 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 205 | 72.7% |
+| Python | 206 | 72.8% |
 | C++ | 26 | 9.2% |
 | Jupyter Notebook | 18 | 6.4% |
 | Markdown | 13 | 4.6% |
@@ -577,11 +577,12 @@ You can run the script on your own computer to preview the generated README and 
 
 ### personal
 
-* **Total Repositories:** 30
+* **Total Repositories:** 31
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-18 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| SwiftSheetDigitizer | Private | 0 | 2025-07-19 | 2025-07-19 | Python | SwiftSheetDigitizer: Rapidly Digitize Your Sheets & Forms | [🔗](https://github.com/kevin30205/SwiftSheetDigitizer) |
+| Repository-Hub | Private | 1 | 2025-05-31 | 2025-07-19 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | 11120CS560400-Introduction-to-Artificial-Intelligence-and-Arts-Assignment | Private | 0 | 2025-07-17 | 2025-07-17 | Python | The Assignments in Course: 11120CS560400 Introduction to Artificial Intelligence and Arts. | [🔗](https://github.com/kevin30205/11120CS560400-Introduction-to-Artificial-Intelligence-and-Arts-Assignment) |
 | 11120EE655000-Machine-Learning-Assignment | Private | 0 | 2025-07-16 | 2025-07-17 | Jupyter Notebook | The Assignments in Course: 11120EE655000 Machine Learning. | [🔗](https://github.com/kevin30205/11120EE655000-Machine-Learning-Assignment) |
 | 11110COM526000-Deep-Learning-Assignment | Private | 0 | 2025-07-16 | 2025-07-16 | Jupyter Notebook | The Assignments in Course: 11110COM526000 Deep Learning. | [🔗](https://github.com/kevin30205/11110COM526000-Deep-Learning-Assignment) |
@@ -989,4 +990,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-07-19 09:27:11 UTC+8
+> Last auto update: 2025-07-20 09:46:45 UTC+8
