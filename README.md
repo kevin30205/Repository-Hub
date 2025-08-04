@@ -581,7 +581,9 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Repository-Hub | Public | 1 | 2025-05-31 | 2025-08-02 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| Curriculum-Vitae | Private | 0 | 2025-06-09 | 2025-08-03 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
+| Meeting_Record | Private | 0 | 2024-08-04 | 2025-08-03 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
+| Repository-Hub | Public | 1 | 2025-05-31 | 2025-08-03 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | SwiftSheetDigitizer | Private | 0 | 2025-07-19 | 2025-07-21 | Python | SwiftSheetDigitizer: Rapidly Digitize Your Sheets & Forms | [🔗](https://github.com/kevin30205/SwiftSheetDigitizer) |
 | 11120CS560400-Introduction-to-Artificial-Intelligence-and-Arts-Assignment | Private | 0 | 2025-07-17 | 2025-07-17 | Python | The Assignments in Course: 11120CS560400 Introduction to Artificial Intelligence and Arts. | [🔗](https://github.com/kevin30205/11120CS560400-Introduction-to-Artificial-Intelligence-and-Arts-Assignment) |
 | 11120EE655000-Machine-Learning-Assignment | Private | 0 | 2025-07-16 | 2025-07-17 | Jupyter Notebook | The Assignments in Course: 11120EE655000 Machine Learning. | [🔗](https://github.com/kevin30205/11120EE655000-Machine-Learning-Assignment) |
@@ -590,7 +592,6 @@ You can run the script on your own computer to preview the generated README and 
 | 11110COM525200-Financial-Technology-Assignment | Private | 0 | 2025-07-16 | 2025-07-16 | Jupyter Notebook | The Assignments in Course: 11110COM525200 Financial Technology. | [🔗](https://github.com/kevin30205/11110COM525200-Financial-Technology-Assignment) |
 | 2022-NVLab-Summer-School | Private | 0 | 2025-07-16 | 2025-07-16 | Jupyter Notebook | The Assignments in 2022 NVLab Summer School. | [🔗](https://github.com/kevin30205/2022-NVLab-Summer-School) |
 | Course_Record | Private | 0 | 2024-08-05 | 2025-07-08 | Markdown | The Database of Course Recording | [🔗](https://github.com/kevin30205/Course_Record) |
-| Meeting_Record | Private | 0 | 2024-08-04 | 2025-07-08 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
 | HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-06 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
 | NeRF_Datasets | Private | 0 | 2023-09-05 | 2025-07-03 | Markdown | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
 | LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-07-03 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
@@ -609,7 +610,6 @@ You can run the script on your own computer to preview the generated README and 
 | Traffic_Record | Private | 0 | 2023-12-14 | 2025-06-19 | Markdown | The Database of Traffic Record | [🔗](https://github.com/kevin30205/Traffic_Record) |
 | Document_Converter | Private | 0 | 2025-01-27 | 2025-06-19 | Python | Customized Usage of Document Converter. | [🔗](https://github.com/kevin30205/Document_Converter) |
 | faster-whisper_mine | Private | 0 | 2025-01-10 | 2025-06-19 | Python | Customized Usage of faster-whisper. | [🔗](https://github.com/kevin30205/faster-whisper_mine) |
-| Curriculum-Vitae | Private | 0 | 2025-06-09 | 2025-06-09 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
 | Academic-Homepage | Private | 0 | 2025-05-20 | 2025-06-03 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
 | opencc-python_mine | Private | 0 | 2025-01-12 | 2025-06-01 | Python | Customized Usage of opencc-python. | [🔗](https://github.com/kevin30205/opencc-python_mine) |
 
@@ -990,4 +990,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-08-03 09:48:59 UTC+8
+> Last auto update: 2025-08-04 09:49:21 UTC+8
