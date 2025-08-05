@@ -581,9 +581,9 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| Repository-Hub | Public | 1 | 2025-05-31 | 2025-08-04 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Curriculum-Vitae | Private | 0 | 2025-06-09 | 2025-08-03 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
 | Meeting_Record | Private | 0 | 2024-08-04 | 2025-08-03 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
-| Repository-Hub | Public | 1 | 2025-05-31 | 2025-08-03 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | SwiftSheetDigitizer | Private | 0 | 2025-07-19 | 2025-07-21 | Python | SwiftSheetDigitizer: Rapidly Digitize Your Sheets & Forms | [🔗](https://github.com/kevin30205/SwiftSheetDigitizer) |
 | 11120CS560400-Introduction-to-Artificial-Intelligence-and-Arts-Assignment | Private | 0 | 2025-07-17 | 2025-07-17 | Python | The Assignments in Course: 11120CS560400 Introduction to Artificial Intelligence and Arts. | [🔗](https://github.com/kevin30205/11120CS560400-Introduction-to-Artificial-Intelligence-and-Arts-Assignment) |
 | 11120EE655000-Machine-Learning-Assignment | Private | 0 | 2025-07-16 | 2025-07-17 | Jupyter Notebook | The Assignments in Course: 11120EE655000 Machine Learning. | [🔗](https://github.com/kevin30205/11120EE655000-Machine-Learning-Assignment) |
@@ -990,4 +990,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-08-04 09:49:21 UTC+8
+> Last auto update: 2025-08-05 09:44:43 UTC+8
