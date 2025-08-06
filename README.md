@@ -137,18 +137,18 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 283 |
+| Total  | 284 |
 | Public | 2 |
-| Private| 281 |
+| Private| 282 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 206 | 72.8% |
+| Python | 206 | 72.5% |
 | C++ | 26 | 9.2% |
-| Jupyter Notebook | 18 | 6.4% |
-| Markdown | 13 | 4.6% |
+| Jupyter Notebook | 18 | 6.3% |
+| Markdown | 14 | 4.9% |
 | HTML | 7 | 2.5% |
 | TeX | 3 | 1.1% |
 | TypeScript | 2 | 0.7% |
@@ -577,11 +577,13 @@ You can run the script on your own computer to preview the generated README and 
 
 ### personal
 
-* **Total Repositories:** 31
+* **Total Repositories:** 32
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Repository-Hub | Public | 1 | 2025-05-31 | 2025-08-04 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| LeetCode-Analysis-Docs | Private | 0 | 2025-08-05 | 2025-08-05 | Markdown | LeetCode Problem Analyses. | [🔗](https://github.com/kevin30205/LeetCode-Analysis-Docs) |
+| Academic-Homepage | Private | 0 | 2025-05-20 | 2025-08-05 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
+| Repository-Hub | Public | 1 | 2025-05-31 | 2025-08-05 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Curriculum-Vitae | Private | 0 | 2025-06-09 | 2025-08-03 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
 | Meeting_Record | Private | 0 | 2024-08-04 | 2025-08-03 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
 | SwiftSheetDigitizer | Private | 0 | 2025-07-19 | 2025-07-21 | Python | SwiftSheetDigitizer: Rapidly Digitize Your Sheets & Forms | [🔗](https://github.com/kevin30205/SwiftSheetDigitizer) |
@@ -610,7 +612,6 @@ You can run the script on your own computer to preview the generated README and 
 | Traffic_Record | Private | 0 | 2023-12-14 | 2025-06-19 | Markdown | The Database of Traffic Record | [🔗](https://github.com/kevin30205/Traffic_Record) |
 | Document_Converter | Private | 0 | 2025-01-27 | 2025-06-19 | Python | Customized Usage of Document Converter. | [🔗](https://github.com/kevin30205/Document_Converter) |
 | faster-whisper_mine | Private | 0 | 2025-01-10 | 2025-06-19 | Python | Customized Usage of faster-whisper. | [🔗](https://github.com/kevin30205/faster-whisper_mine) |
-| Academic-Homepage | Private | 0 | 2025-05-20 | 2025-06-03 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
 | opencc-python_mine | Private | 0 | 2025-01-12 | 2025-06-01 | Python | Customized Usage of opencc-python. | [🔗](https://github.com/kevin30205/opencc-python_mine) |
 
 ### pose-estimation
@@ -990,4 +991,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-08-05 09:44:43 UTC+8
+> Last auto update: 2025-08-06 09:42:57 UTC+8
