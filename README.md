@@ -581,9 +581,10 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| LeetCode-Analysis-Docs | Private | 0 | 2025-08-05 | 2025-08-05 | Markdown | LeetCode Problem Analyses. | [🔗](https://github.com/kevin30205/LeetCode-Analysis-Docs) |
+| LeetCode-Analysis-Docs | Private | 0 | 2025-08-05 | 2025-08-07 | Markdown | LeetCode Problem Analyses. | [🔗](https://github.com/kevin30205/LeetCode-Analysis-Docs) |
+| LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-08-06 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
+| Repository-Hub | Public | 1 | 2025-05-31 | 2025-08-06 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Academic-Homepage | Private | 0 | 2025-05-20 | 2025-08-05 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
-| Repository-Hub | Public | 1 | 2025-05-31 | 2025-08-05 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Curriculum-Vitae | Private | 0 | 2025-06-09 | 2025-08-03 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
 | Meeting_Record | Private | 0 | 2024-08-04 | 2025-08-03 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
 | SwiftSheetDigitizer | Private | 0 | 2025-07-19 | 2025-07-21 | Python | SwiftSheetDigitizer: Rapidly Digitize Your Sheets & Forms | [🔗](https://github.com/kevin30205/SwiftSheetDigitizer) |
@@ -596,7 +597,6 @@ You can run the script on your own computer to preview the generated README and 
 | Course_Record | Private | 0 | 2024-08-05 | 2025-07-08 | Markdown | The Database of Course Recording | [🔗](https://github.com/kevin30205/Course_Record) |
 | HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-06 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
 | NeRF_Datasets | Private | 0 | 2023-09-05 | 2025-07-03 | Markdown | Datasets used in NeRF Projects | [🔗](https://github.com/kevin30205/NeRF_Datasets) |
-| LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-07-03 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-02 | Markdown | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 | Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-30 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
 | Command_Memorandum | Private | 0 | 2023-09-05 | 2025-06-26 | Markdown | Commonly and frequently used Commands on Command-Line Interface (CLI) | [🔗](https://github.com/kevin30205/Command_Memorandum) |
@@ -689,8 +689,8 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-08-06 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-06 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
-| LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-07-03 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-02 | Markdown | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 | Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-30 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
 | Conference_Paper_Summary | Private | 0 | 2025-02-01 | 2025-06-26 | Markdown | Paper Summary of Conferences. | [🔗](https://github.com/kevin30205/Conference_Paper_Summary) |
@@ -991,4 +991,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-08-06 09:42:57 UTC+8
+> Last auto update: 2025-08-07 09:42:36 UTC+8
