@@ -137,16 +137,16 @@ You can run the script on your own computer to preview the generated README and 
 
 | Type   | Count |
 |--------|-------|
-| Total  | 284 |
+| Total  | 285 |
 | Public | 2 |
-| Private| 282 |
+| Private| 283 |
 
 ### Language Distribution Overview
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 206 | 72.5% |
-| C++ | 26 | 9.2% |
+| Python | 207 | 72.6% |
+| C++ | 26 | 9.1% |
 | Jupyter Notebook | 18 | 6.3% |
 | Markdown | 14 | 4.9% |
 | HTML | 7 | 2.5% |
@@ -577,13 +577,14 @@ You can run the script on your own computer to preview the generated README and 
 
 ### personal
 
-* **Total Repositories:** 32
+* **Total Repositories:** 33
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
+| Book-Hub | Private | 0 | 2025-08-07 | 2025-08-07 | Python | A centralized knowledge hub for book notes. | [🔗](https://github.com/kevin30205/Book-Hub) |
 | LeetCode-Analysis-Docs | Private | 0 | 2025-08-05 | 2025-08-07 | Markdown | LeetCode Problem Analyses. | [🔗](https://github.com/kevin30205/LeetCode-Analysis-Docs) |
-| LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-08-06 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
-| Repository-Hub | Public | 1 | 2025-05-31 | 2025-08-06 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
+| LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-08-07 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
+| Repository-Hub | Public | 1 | 2025-05-31 | 2025-08-07 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Academic-Homepage | Private | 0 | 2025-05-20 | 2025-08-05 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
 | Curriculum-Vitae | Private | 0 | 2025-06-09 | 2025-08-03 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
 | Meeting_Record | Private | 0 | 2024-08-04 | 2025-08-03 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
@@ -689,7 +690,7 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-08-06 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
+| LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-08-07 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
 | HumanNeRF_optimized | Private | 0 | 2023-12-12 | 2025-07-06 | Python | The optimized code based on HumanNeRF done by myself. | [🔗](https://github.com/kevin30205/HumanNeRF_optimized) |
 | Python_Programming_Language | Private | 0 | 2025-02-23 | 2025-07-02 | Markdown | The Guideline of Python Programming Language. | [🔗](https://github.com/kevin30205/Python_Programming_Language) |
 | Japanese_Study | Private | 0 | 2025-02-23 | 2025-06-30 | Markdown | The Japanese Study Notes. | [🔗](https://github.com/kevin30205/Japanese_Study) |
@@ -991,4 +992,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-08-07 09:42:36 UTC+8
+> Last auto update: 2025-08-08 09:42:18 UTC+8
