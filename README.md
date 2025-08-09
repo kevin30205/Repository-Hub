@@ -145,10 +145,10 @@ You can run the script on your own computer to preview the generated README and 
 
 | Language | Count | Percentage |
 |---|---|---|
-| Python | 207 | 72.6% |
+| Python | 206 | 72.3% |
 | C++ | 26 | 9.1% |
 | Jupyter Notebook | 18 | 6.3% |
-| Markdown | 14 | 4.9% |
+| Markdown | 15 | 5.3% |
 | HTML | 7 | 2.5% |
 | TeX | 3 | 1.1% |
 | TypeScript | 2 | 0.7% |
@@ -581,10 +581,10 @@ You can run the script on your own computer to preview the generated README and 
 
 | Name | Status | Stars | Creation Date | Last Updated | Primary Language | Description | Link |
 |---|---|---|---|---|---|---|---|
-| Book-Hub | Private | 0 | 2025-08-07 | 2025-08-07 | Python | A centralized knowledge hub for book notes. | [🔗](https://github.com/kevin30205/Book-Hub) |
+| Book-Hub | Private | 0 | 2025-08-07 | 2025-08-08 | Markdown | A centralized knowledge hub for book notes. | [🔗](https://github.com/kevin30205/Book-Hub) |
+| Repository-Hub | Public | 1 | 2025-05-31 | 2025-08-08 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | LeetCode-Analysis-Docs | Private | 0 | 2025-08-05 | 2025-08-07 | Markdown | LeetCode Problem Analyses. | [🔗](https://github.com/kevin30205/LeetCode-Analysis-Docs) |
 | LeetCode_Practice | Private | 0 | 2024-07-30 | 2025-08-07 | Python | The code practice on LeetCode. | [🔗](https://github.com/kevin30205/LeetCode_Practice) |
-| Repository-Hub | Public | 1 | 2025-05-31 | 2025-08-07 | Python | Repository Hub: The Centralized GitHub Repository Dashboard & Overview. | [🔗](https://github.com/kevin30205/Repository-Hub) |
 | Academic-Homepage | Private | 0 | 2025-05-20 | 2025-08-05 | HTML | My academic personal website. | [🔗](https://github.com/kevin30205/Academic-Homepage) |
 | Curriculum-Vitae | Private | 0 | 2025-06-09 | 2025-08-03 | TeX | My Curriculum Vitae | [🔗](https://github.com/kevin30205/Curriculum-Vitae) |
 | Meeting_Record | Private | 0 | 2024-08-04 | 2025-08-03 | Markdown | The Database of Meeting Recording | [🔗](https://github.com/kevin30205/Meeting_Record) |
@@ -992,4 +992,4 @@ You can run the script on your own computer to preview the generated README and 
 ---
 
 
-> Last auto update: 2025-08-08 09:42:18 UTC+8
+> Last auto update: 2025-08-09 09:25:30 UTC+8
